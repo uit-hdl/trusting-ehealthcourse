@@ -1,0 +1,37 @@
+<!-- pages/templates/home.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container"> 
+	<div class="card">
+	  <div class="card-header"> <h1>{% trans 'Course Objectives' %}</h1></div>
+	  <div class="card-body">
+	  	<div class="text-center mb-2">
+	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-courese-objectives.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-courese-objectives.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-courese-objectives.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-courese-objectives.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-courese-objectives.png' %}" height="500">{% endif %}
+	  		
+	  	</div>
+
+	    <h2 class="card-text mt-5">{% trans 'This brief course has three primary goals:' %}</h2>
+	    <p>
+	    	<ol>
+				  <li>{% trans 'Introduce the fundamental concepts of schizophrenia, emphasizing that it is a naturally occurring illness and not the fault of the individual.' %}</li>
+				  <li>{% trans 'Educate participants about the concept of relapses and how to predict them early.' %}</li>
+				  <li>{% trans 'Help participants understand that there can be false positives and errors in diagnosing schizophrenia and identifying relapses.' %}</li>
+				</ol>
+	    </p>
+
+	    <p>{% trans 'We aim to provide valuable information in small, easy to understand units throughout the slides. After each slide, there will be a simple multiple-choice question. You can proceed to the next slide only after correctly answering the question on the current slide.' %}</p>
+	</div>
+</div>
+<div class="container text-end mt-3">
+	<a href="{% url 'schizophrenia' %}" class="btn btn-primary nextbtn" role="button">{% trans 'Start Course' %}</a>
+</div>
+
+{% endblock content %}

@@ -1,0 +1,41 @@
+<!-- pages/templates/home.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container"> 
+	<div class="card">
+	  <div class="card-header"> <h1>{% trans 'Schizophrenia' %}</h1></div>
+	  <div class="card-body">
+	  	<div class="text-center mb-2">
+	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		
+	  	</div>
+
+	  	<h6>
+	  		{% trans 'Congratulations on completing this part of the course!' %}
+	  	</h6>
+	  	<p>
+	    	{% trans 'You\'ve reached an important milestone, and your dedication is truly paying off. Each step you take is bringing you closer to mastering the subject. Keep up the fantastic effort.' %}
+	    </p>
+	    <p>{% trans 'Keep going strong!' %}</p>
+	  </div>
+	</div>
+</div>
+<div class="container text-end mt-3">
+	<div class="row">
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-cognitive-symptoms' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
+				<a href="{% url 'relapse' %}" class="btn btn-primary nextbtn" role="button" >{% trans 'Next' %}</a>
+			</div>
+		</div>
+</div>
+
+{% endblock content %}

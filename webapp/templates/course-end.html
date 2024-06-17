@@ -1,0 +1,30 @@
+<!-- pages/templates/home.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container"> 
+	<div class="card">
+	  <div class="card-header"> <h1>{% trans 'Congratulations!' %}</h1></div>
+	  <div class="card-body">
+	  	<div class="text-center mb-5">
+	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-course-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-course-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-course-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-course-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-course-end.png' %}" height="500">{% endif %}
+	  		
+	  	</div>
+
+	  	<h6>
+	  		{% trans 'Congratulations on completing the health course!' %}
+	  	</h6>
+	  	<p>
+	    	{% trans 'We greatly appreciate your dedication in completing the course on schizophrenia and relapse. Through your commitment, we trust you\'ve acquired vital insights into these topics. Furthermore, we\'re confident you\'ve recognized the nuances of errors, whether they stem from false positives or false negatives. Our aim is that the information provided will empower you to navigate your daily activities with greater understanding and efficacy.' %}
+	    </p>
+	  </div>
+	</div>
+</div>
+{% endblock content %}

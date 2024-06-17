@@ -1,0 +1,106 @@
+<!-- pages/templates/home.html -->
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+{% get_current_language as LANGUAGE_CODE %}
+
+{% block content %}
+<div class="container"> 
+	<div class="card">
+	  <div class="card-header"> <h1>{% trans 'Cognitive Symptoms of Schizophrenia' %}</h1></div>
+	  <div class="card-body">
+	  	<div class="text-center mb-2">
+	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-schipzophrenia-cognitive-symptoms.png' %}" height="400">{% endif %}
+	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-schipzophrenia-cognitive-symptoms.png' %}" height="400">{% endif %}
+	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-schipzophrenia-cognitive-symptoms.png' %}" height="400">{% endif %}
+	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-schipzophrenia-cognitive-symptoms.png' %}" height="400">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-schipzophrenia-cognitive-symptoms.png' %}" height="400">{% endif %}
+	  		
+	  	</div>
+
+	  	<h6>
+	  		{% trans 'Cognitive symptoms of schizophrenia refer to problems with the mental processes involved in gaining knowledge and comprehension. These symptoms affect a person\'s ability to think clearly, remember, and organize their thoughts. Cognitive symptoms can be subtle or severe and often significantly impact the daily functioning of individuals with schizophrenia.' %}
+	  	</h6>
+	  	<p>
+	    	<ol>
+				  <li>{% trans 'Impaired Working Memory: Difficulty holding and manipulating information over short periods, which affects the ability to follow instructions or complete tasks.' %}</li>
+				  <li>{% trans 'Poor Executive Functioning: Problems with planning, organizing, and problem-solving. This can lead to difficulties in managing everyday activities and making decisions.' %}</li>
+				  <li>{% trans 'Attention Deficits: Trouble focusing or paying attention, which can make it hard to concentrate on tasks or conversations.' %}</li>
+				</ol>
+	    </p>
+	    <div class="mt-5">
+	    	<div class="panel panel-understanding-check">
+					<form class="multipleChoice">
+						<div class="form-group">
+							<label for="radio"><h4 class="bg-info">{% trans 'Qeustion: Which of the following cognitive symptoms is NOT commonly associated with schizophrenia?' %}</h4></label>
+							<div class="radio">
+								<label>
+									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
+									{% trans 'A) Impaired attention' %}
+								</label>
+							</div>
+							<div class="radio">
+								<label>
+									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
+									{% trans 'B) Poor executive functioning' %}
+								</label>
+							</div>
+						
+							<div class="radio">
+								<label>
+									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235240">
+									{% trans 'C) Enhanced memory recall' %}
+								</label>
+							</div>
+
+							<div class="radio">
+								<label>
+									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235243">
+									{% trans 'D) Difficulty with working memory' %}
+								</label>
+							</div>
+
+						</div>
+					</form>
+					<div class="multiple-choice-alert alert hidden mt-3" id="1" role="alert"></div>
+				</div>
+	  	</div>
+	  </div>
+	</div>
+</div>
+<div class="container text-end mt-3">
+	<div class="row">
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-negative-symptoms' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
+				<a href="{% url 'schizophrenia-end' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+			</div>
+		</div>
+</div>
+<script type="text/javascript">
+	// Show the proper div on radio button click
+$(document).delegate(".panel-understanding-check .radio input", "click", function() {
+
+  // Create the ID for the answer div from the question number
+  var dataQuestionNumber = "#" + $(this).data("question-number");
+
+  // Show the comment div
+  $(dataQuestionNumber).removeClass("hidden");
+
+  // Get the comment and alert type data attributes
+  var alertContent = $(this).data("comment");
+  var alertType = $(this).data("alert-type");
+
+  // Write the comment and alert type to the div
+  $(dataQuestionNumber).html(alertContent);
+  $(dataQuestionNumber).removeClass("alert-danger").removeClass("alert-warning").removeClass("alert-success").addClass(alertType);
+
+  if (alertType == 'alert-success'){
+  	$('.nextbtn').removeClass("disabled")
+  } else {
+  	$('.nextbtn').addClass("disabled")
+  }
+
+});
+</script>
+{% endblock content %}

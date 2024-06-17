@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-28 17:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\templates\about.html:6
+msgid "About Page"
+msgstr "About Page"
+
+#: .\templates\base.html:21
+msgid "Health Course"
+msgstr "Health Course"
+
+#: .\templates\base.html:39
+msgid "Home"
+msgstr "Home"
+
+#: .\templates\base.html:40
+msgid "About"
+msgstr "About"
+
+#: .\templates\home.html:9
+msgid "What is Relapse?"
+msgstr "What is Relapse?"
+
+#: .\templates\home.html:15
+msgid ""
+"Relapse refers to the return of symptoms or the recurrence of a condition "
+"after a period of improvement or recovery. It is commonly associated with "
+"chronic illnesses, addiction, and mental health disorders. Relapse indicates "
+"a setback in the process of recovery and can happen for various reasons "
+"depending on the context.<br></br>Relapse does not mean failure; it is often "
+"a part of the recovery journey. Understanding the triggers and developing "
+"strategies to cope with them is key to managing and reducing the risk of "
+"relapse. Treatment plans often include relapse prevention strategies, which "
+"can involve continuous therapy, medication management, lifestyle changes, "
+"and support groups. "
+msgstr "Relapse refers to the return of symptoms or the recurrence of a condition after a period of improvement or recovery. It is commonly associated with chronic illnesses, addiction, and mental health disorders. Relapse indicates a setback in the process of recovery and can happen for various reasons depending on the context. Relapse does not mean failure; it is often a part of the recovery journey. Understanding the triggers and developing strategies to cope with them is key to managing and reducing the risk of relapse. Treatment plans often include relapse prevention strategies, which can involve continuous therapy, medication management, lifestyle changes, and support groups."
+
+#: .\templates\home.html:21
+msgid "Is Relapse your falt?"
+msgstr "Is Relapse your falt?"
+
+#: .\templates\home.html:25
+msgid "Yes"
+msgstr "Yes"
+
+#: .\templates\home.html:32
+msgid "No"
+msgstr "No"
+
+#: .\templates\home.html:44
+msgid "Next"
+msgstr "Next"
+
+#~ msgid "Home Page"
+#~ msgstr "Home Page"

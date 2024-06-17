@@ -1,0 +1,1135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-11 15:37+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: .\templates\base.html:22
+msgid "Health Course"
+msgstr ""
+
+#: .\templates\course-end.html:10
+msgid "Congratulations!"
+msgstr "Toutes nos félicitations!"
+
+#: .\templates\course-end.html:22
+msgid "Congratulations on completing the health course!"
+msgstr "Félicitations, vous avez terminé le cours de santé!"
+
+#: .\templates\course-end.html:25
+msgid ""
+"We greatly appreciate your dedication in completing the course on "
+"schizophrenia and relapse. Through your commitment, we trust you\\"
+msgstr ""
+"Nous apprécions grandement votre dévouement à suivre le cours sur la "
+"schizophrénie et les rechutes. Grâce à votre engagement, nous vous faisons "
+"confiance\\"
+
+#: .\templates\errors.html:10
+msgid "False Positive and Errors"
+msgstr "Faux positifs et erreurs"
+
+#: .\templates\errors.html:22
+msgid ""
+"False positives and errors are both terms used to describe situations where "
+"a result or conclusion is incorrect. However, they are often used in "
+"different contexts:"
+msgstr ""
+"Les faux positifs et les erreurs sont deux termes utilisés pour décrire des "
+"situations dans lesquelles un résultat ou une conclusion est incorrecte. "
+"Cependant, ils sont souvent utilisés dans des contextes différents :"
+
+#: .\templates\errors.html:24
+msgid "False Positive:"
+msgstr "Faux positif:"
+
+#: .\templates\errors.html:27
+msgid ""
+"A false positive occurs when a test or procedure incorrectly indicates the "
+"presence of a condition or attribute that is not actually present."
+msgstr ""
+"Un faux positif se produit lorsqu’un test ou une procédure indique de "
+"manière incorrecte la présence d’une condition ou d’un attribut qui n’est "
+"pas réellement présent."
+
+#: .\templates\errors.html:28
+msgid "In other words, it\\"
+msgstr "En d'autres termes, il\\"
+
+#: .\templates\errors.html:29
+msgid ""
+"For example, in medical testing, a false positive in a covid screening test "
+"would mean that the test suggests covid is present when the person is "
+"actually covid-free."
+msgstr ""
+"Par exemple, dans les tests médicaux, un faux positif dans un test de "
+"dépistage du covid signifierait que le test suggère que le covid est présent "
+"alors que la personne est réellement indemne de covid."
+
+#: .\templates\errors.html:32
+msgid "Errors:"
+msgstr "Les erreurs:"
+
+#: .\templates\errors.html:35
+msgid ""
+"Errors are discrepancies between a computed, observed, or measured value and "
+"the true, theoretically correct, or accepted value."
+msgstr ""
+"Les erreurs sont des écarts entre une valeur calculée, observée ou mesurée "
+"et la valeur vraie, théoriquement correcte ou acceptée."
+
+#: .\templates\errors.html:36
+msgid ""
+"In a broader sense, errors can encompass various types of mistakes, "
+"inaccuracies, or deviations from what is expected or desired."
+msgstr ""
+"Dans un sens plus large, les erreurs peuvent englober divers types "
+"d'erreurs, d'inexactitudes ou d'écarts par rapport à ce qui est attendu ou "
+"souhaité."
+
+#: .\templates\errors.html:40
+msgid ""
+"Both false positives and errors can have significant implications depending "
+"on the context in which they occur. In many cases, efforts are made to "
+"minimize these occurrences through improved testing methods, rigorous "
+"quality control measures, and careful consideration of potential sources of "
+"error."
+msgstr ""
+"Les faux positifs et les erreurs peuvent avoir des implications importantes "
+"selon le contexte dans lequel ils se produisent. Dans de nombreux cas, des "
+"efforts sont déployés pour minimiser ces événements grâce à des méthodes de "
+"test améliorées, des mesures de contrôle de qualité rigoureuses et un examen "
+"attentif des sources d'erreur potentielles."
+
+#: .\templates\errors.html:46 .\templates\relapse-char.html:78
+#: .\templates\relapse-end.html:33 .\templates\relapse-management.html:77
+#: .\templates\relapse-triggers.html:80 .\templates\relapse-warnings.html:73
+#: .\templates\relapse.html:66
+#: .\templates\schizophrenia-cognitive-symptoms.html:73
+#: .\templates\schizophrenia-end.html:33
+#: .\templates\schizophrenia-negative-symptoms.html:82
+#: .\templates\schizophrenia-positive-symptoms.html:74
+#: .\templates\schizophrenia-symptoms.html:73 .\templates\schizophrenia.html:67
+msgid "Previous"
+msgstr "Précédente"
+
+#: .\templates\errors.html:48 .\templates\relapse-char.html:80
+#: .\templates\relapse-end.html:35 .\templates\relapse-management.html:79
+#: .\templates\relapse-triggers.html:82 .\templates\relapse-warnings.html:75
+#: .\templates\relapse.html:68
+#: .\templates\schizophrenia-cognitive-symptoms.html:75
+#: .\templates\schizophrenia-end.html:35
+#: .\templates\schizophrenia-negative-symptoms.html:84
+#: .\templates\schizophrenia-positive-symptoms.html:76
+#: .\templates\schizophrenia-symptoms.html:75 .\templates\schizophrenia.html:69
+msgid "Ask AI Chatbot"
+msgstr "Demandez au chatbot IA"
+
+#: .\templates\errors.html:49 .\templates\relapse-char.html:81
+#: .\templates\relapse-end.html:36 .\templates\relapse-management.html:80
+#: .\templates\relapse-triggers.html:83 .\templates\relapse-warnings.html:76
+#: .\templates\relapse.html:69
+#: .\templates\schizophrenia-cognitive-symptoms.html:76
+#: .\templates\schizophrenia-end.html:36
+#: .\templates\schizophrenia-negative-symptoms.html:85
+#: .\templates\schizophrenia-positive-symptoms.html:77
+#: .\templates\schizophrenia-symptoms.html:76 .\templates\schizophrenia.html:70
+msgid "Next"
+msgstr "Suivante"
+
+#: .\templates\home.html:10
+msgid "Course Objectives"
+msgstr "Objectifs du cours"
+
+#: .\templates\home.html:21
+msgid "This brief course has three primary goals:"
+msgstr "Ce bref cours a trois objectifs principaux :"
+
+#: .\templates\home.html:24
+msgid ""
+"Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
+"a naturally occurring illness and not the fault of the individual."
+msgstr ""
+"Présentez les concepts fondamentaux de la schizophrénie, en soulignant qu'il "
+"s'agit d'une maladie naturelle et non de la faute de l'individu."
+
+#: .\templates\home.html:25
+msgid ""
+"Educate participants about the concept of relapses and how to predict them "
+"early."
+msgstr ""
+"Éduquez les participants sur le concept des rechutes et sur la manière de "
+"les prédire précocement."
+
+#: .\templates\home.html:26
+msgid ""
+"Help participants understand that there can be false positives and errors in "
+"diagnosing schizophrenia and identifying relapses."
+msgstr ""
+"Aidez les participants à comprendre qu’il peut y avoir des faux positifs et "
+"des erreurs dans le diagnostic de la schizophrénie et l’identification des "
+"rechutes."
+
+#: .\templates\home.html:30
+msgid ""
+"We aim to provide valuable information in small, easy to understand units "
+"throughout the slides. After each slide, there will be a simple multiple-"
+"choice question. You can proceed to the next slide only after correctly "
+"answering the question on the current slide."
+msgstr ""
+"Notre objectif est de fournir des informations précieuses sous forme de "
+"petites unités faciles à comprendre tout au long des diapositives. Après "
+"chaque diapositive, il y aura une simple question à choix multiples. Vous ne "
+"pouvez passer à la diapositive suivante qu'après avoir répondu correctement "
+"à la question de la diapositive actuelle."
+
+#: .\templates\home.html:34
+msgid "Start Course"
+msgstr "Commencer le cours"
+
+#: .\templates\relapse-char.html:10
+msgid "Characteristics of Relapse"
+msgstr "Caractéristiques de la rechute"
+
+#: .\templates\relapse-char.html:22
+msgid ""
+"The characteristics of relapse refer to the specific signs, symptoms, and "
+"patterns that indicate a person is experiencing a recurrence of their mental "
+"health condition after a period of improvement or remission. These "
+"characteristics help in identifying when a relapse is happening or is likely "
+"to happen, allowing for timely intervention."
+msgstr ""
+"Les caractéristiques de la rechute font référence aux signes, symptômes et "
+"schémas spécifiques qui indiquent qu'une personne connaît une récidive de "
+"son problème de santé mentale après une période d'amélioration ou de "
+"rémission. Ces caractéristiques aident à identifier le moment où une rechute "
+"se produit ou est susceptible de se produire, permettant ainsi une "
+"intervention rapide."
+
+#: .\templates\relapse-char.html:25
+msgid ""
+"Symptoms Reappearance: This means the return of the particular symptoms "
+"associated with the person\\"
+msgstr ""
+"Réapparition des symptômes : Cela signifie le retour des symptômes "
+"particuliers associés à la personne\\"
+
+#: .\templates\relapse-char.html:26
+msgid ""
+"Triggering Factors: Certain events or situations can act as triggers for a "
+"relapse. These triggers can include stress, trauma, changes in medication, "
+"or environmental factors. Identifying these triggers is crucial for "
+"prevention and management."
+msgstr ""
+"Facteurs déclencheurs: Certains événements ou situations peuvent déclencher "
+"une rechute. Ces déclencheurs peuvent inclure le stress, les traumatismes, "
+"les changements de médicaments ou les facteurs environnementaux. "
+"L’identification de ces déclencheurs est cruciale pour la prévention et la "
+"gestion."
+
+#: .\templates\relapse-char.html:27
+msgid ""
+"Gradual Onset: Relapse often does not happen suddenly. There can be early "
+"warning signs such as slight changes in mood, behavior, or thinking patterns "
+"that gradually escalate."
+msgstr ""
+"Apparition progressive: La rechute ne se produit souvent pas soudainement. "
+"Il peut y avoir des signes avant-coureurs tels que de légers changements "
+"d’humeur, de comportement ou de schémas de pensée qui s’aggravent "
+"progressivement."
+
+#: .\templates\relapse-char.html:28
+msgid "Behavioral Changes: These are observable changes in a person\\"
+msgstr ""
+"Changements comportementaux : ce sont des changements observables chez une "
+"personne\\"
+
+#: .\templates\relapse-char.html:29
+msgid ""
+"Cognitive Changes: These refer to changes in thinking patterns, such as "
+"increased negative thoughts, difficulty concentrating, or changes in how a "
+"person perceives reality."
+msgstr ""
+"Changements cognitifs: ils font référence à des changements dans les schémas "
+"de pensée, tels qu'une augmentation des pensées négatives, des difficultés "
+"de concentration ou des changements dans la façon dont une personne perçoit "
+"la réalité."
+
+#: .\templates\relapse-char.html:30
+msgid ""
+"Emotional Changes: Relapse can also be marked by changes in emotional state, "
+"like increased irritability, mood swings, or emotional numbness."
+msgstr ""
+"Changements émotionnels: la rechute peut également être marquée par des "
+"changements dans l'état émotionnel, comme une irritabilité accrue, des "
+"sautes d'humeur ou un engourdissement émotionnel."
+
+#: .\templates\relapse-char.html:31
+msgid ""
+"Physical Symptoms: These are physical manifestations that can accompany "
+"mental health relapses, like changes in sleep patterns, appetite, or "
+"unexplained physical pains."
+msgstr ""
+"Symptômes physiques: il s'agit de manifestations physiques qui peuvent "
+"accompagner les rechutes de santé mentale, comme des changements dans les "
+"habitudes de sommeil, l'appétit ou des douleurs physiques inexpliquées."
+
+#: .\templates\relapse-char.html:32
+msgid ""
+"Impaired Functioning: A relapse often leads to a decline in a person’s "
+"ability to function in daily life, affecting their work, school, and "
+"personal relationships."
+msgstr ""
+"Fonctionnement altéré: Une rechute entraîne souvent une diminution de la "
+"capacité d’une personne à fonctionner dans la vie quotidienne, affectant son "
+"travail, son école et ses relations personnelles."
+
+#: .\templates\relapse-char.html:39
+msgid ""
+"Question: Which of the following combinations best describe the early "
+"warning signs of a relapse in a mental health condition?"
+msgstr ""
+"Question: Laquelle des combinaisons suivantes décrit le mieux les signes "
+"avant-coureurs d'une rechute d'un problème de santé mentale?"
+
+#: .\templates\relapse-char.html:43
+msgid ""
+"A) Gradual onset of physical symptoms, social withdrawal, and sudden "
+"behavioral changes"
+msgstr ""
+"A) Apparition progressive de symptômes physiques, retrait social et "
+"changements soudains de comportement"
+
+#: .\templates\relapse-char.html:49
+msgid ""
+"B) Immediate onset of cognitive changes, emotional stability, and adherence "
+"to treatment"
+msgstr ""
+"B) Apparition immédiate de changements cognitifs, stabilité émotionnelle et "
+"observance du traitement"
+
+#: .\templates\relapse-char.html:57
+msgid ""
+"C) Gradual onset of changes in mood, social withdrawal, and impaired "
+"functioning"
+msgstr ""
+"C) Apparition progressive de changements d'humeur, de retrait social et de "
+"troubles du fonctionnement"
+
+#: .\templates\relapse-char.html:64
+msgid ""
+"D) Immediate onset of physical symptoms, cognitive improvement, and "
+"emotional numbness"
+msgstr ""
+"D) Apparition immédiate de symptômes physiques, amélioration cognitive et "
+"engourdissement émotionnel"
+
+#: .\templates\relapse-end.html:10 .\templates\relapse.html:10
+msgid "Relapse"
+msgstr "Rechute"
+
+#: .\templates\relapse-end.html:22 .\templates\schizophrenia-end.html:22
+msgid "Congratulations on completing this part of the course!"
+msgstr "Félicitations pour avoir terminé cette partie du cours!"
+
+#: .\templates\relapse-end.html:25 .\templates\schizophrenia-end.html:25
+msgid "You\\"
+msgstr "Toi\\"
+
+#: .\templates\relapse-end.html:27 .\templates\schizophrenia-end.html:27
+msgid "Keep going strong!"
+msgstr "Continuez fort !"
+
+#: .\templates\relapse-management.html:10
+msgid "Relapse Management"
+msgstr "Gestion des rechutes"
+
+#: .\templates\relapse-management.html:22
+msgid ""
+"Relapse management in the context of mental health refers to a set of "
+"strategies and interventions designed to prevent or manage the recurrence of "
+"symptoms associated with mental health conditions. It involves recognizing "
+"early warning signs of a potential relapse, implementing coping strategies "
+"to address these signs, and seeking appropriate professional help if "
+"necessary. The goal is to maintain stability, reduce the severity of "
+"symptoms, and enhance the individual\\"
+msgstr ""
+"La gestion des rechutes dans le contexte de la santé mentale fait référence "
+"à un ensemble de stratégies et d'interventions conçues pour prévenir ou "
+"gérer la récidive des symptômes associés aux problèmes de santé mentale. "
+"Cela implique de reconnaître les signes avant-coureurs d’une rechute "
+"potentielle, de mettre en œuvre des stratégies d’adaptation pour répondre à "
+"ces signes et de rechercher l’aide d’un professionnel approprié si "
+"nécessaire. L'objectif est de maintenir la stabilité, de réduire la gravité "
+"des symptômes et d'améliorer l'individu\\"
+
+#: .\templates\relapse-management.html:23
+msgid "Key components of relapse management include:"
+msgstr "Les éléments clés de la gestion des rechutes comprennent:"
+
+#: .\templates\relapse-management.html:26
+msgid ""
+"Education and Awareness: Educating the individual and their support network "
+"about the nature of their mental health condition, potential triggers, and "
+"signs of relapse."
+msgstr ""
+"Éducation et sensibilisation: Éduquer la personne et son réseau de soutien "
+"sur la nature de son problème de santé mentale, les déclencheurs potentiels "
+"et les signes de rechute."
+
+#: .\templates\relapse-management.html:27
+msgid ""
+"Coping Strategies: Developing and practicing coping strategies to manage "
+"stress and prevent relapse. These strategies might include mindfulness, "
+"relaxation techniques, exercise, healthy eating, maintaining a routine, and "
+"engaging in hobbies or activities that bring joy and relaxation."
+msgstr ""
+"Stratégies d'adaptation: Développer et mettre en pratique des stratégies "
+"d'adaptation pour gérer le stress et prévenir les rechutes. Ces stratégies "
+"peuvent inclure la pleine conscience, les techniques de relaxation, "
+"l’exercice, une alimentation saine, le maintien d’une routine et la "
+"participation à des passe-temps ou à des activités qui apportent joie et "
+"détente."
+
+#: .\templates\relapse-management.html:28
+msgid ""
+"Treatment Adherence: Ensuring that the individual adheres to their treatment "
+"plan, which may include medication, therapy, or a combination of both. "
+"Regular check-ins with mental health professionals are often part of this "
+"process."
+msgstr ""
+"Adhésion au traitement: garantir que la personne adhère à son plan de "
+"traitement, qui peut inclure des médicaments, une thérapie ou une "
+"combinaison des deux. Des entretiens réguliers avec des professionnels de la "
+"santé mentale font souvent partie de ce processus."
+
+#: .\templates\relapse-management.html:29
+msgid ""
+"Crisis Plan: Having a crisis plan in place that outlines steps to take if a "
+"relapse occurs. This plan might include emergency contact numbers, immediate "
+"steps to manage symptoms, and instructions for seeking urgent professional "
+"help."
+msgstr ""
+"Plan de crise: avoir un plan de crise en place qui décrit les mesures à "
+"prendre en cas de rechute. Ce plan peut inclure des numéros de téléphone "
+"d'urgence, des mesures immédiates pour gérer les symptômes et des "
+"instructions pour demander une aide professionnelle urgente."
+
+#: .\templates\relapse-management.html:30
+msgid ""
+"Lifestyle Factors: Addressing lifestyle factors that can impact mental "
+"health, such as sleep hygiene, nutrition, exercise, and substance use. "
+"Encouraging healthy habits and routines can play a significant role in "
+"relapse prevention."
+msgstr ""
+"Facteurs liés au mode de vie: Aborder les facteurs liés au mode de vie qui "
+"peuvent avoir un impact sur la santé mentale, tels que l'hygiène du sommeil, "
+"la nutrition, l'exercice et la consommation de substances. Encourager des "
+"habitudes et des routines saines peut jouer un rôle important dans la "
+"prévention des rechutes."
+
+#: .\templates\relapse-management.html:31
+msgid ""
+"Continuous Monitoring and Adjustment: Regularly assessing progress and "
+"making adjustments to the relapse prevention plan as needed. This may "
+"involve identifying new triggers, refining coping strategies, or accessing "
+"additional support services."
+msgstr ""
+"Surveillance et ajustement continus: évaluer régulièrement les progrès et "
+"apporter des ajustements au plan de prévention des rechutes si nécessaire. "
+"Cela peut impliquer d’identifier de nouveaux déclencheurs, d’affiner les "
+"stratégies d’adaptation ou d’accéder à des services de soutien "
+"supplémentaires."
+
+#: .\templates\relapse-management.html:38
+msgid ""
+"Question: Which of the following best describes the primary goal of relapse "
+"management?"
+msgstr ""
+"Question: Lequel des énoncés suivants décrit le mieux l'objectif principal "
+"de la gestion des rechutes?"
+
+#: .\templates\relapse-management.html:42
+msgid ""
+"A) Encouraging individuals to embrace their setbacks as part of the recovery "
+"process and not dwell on them excessively."
+msgstr ""
+"A) Encourager les individus à accepter leurs revers dans le cadre du "
+"processus de rétablissement et à ne pas s'y attarder excessivement."
+
+#: .\templates\relapse-management.html:48
+msgid ""
+"B) Providing immediate punishment for relapse behavior to deter future "
+"occurrences."
+msgstr ""
+"B) Fournir une punition immédiate en cas de rechute afin de dissuader de "
+"futurs événements."
+
+#: .\templates\relapse-management.html:56
+msgid ""
+"C) Helping individuals develop strategies to recognize warning signs and "
+"prevent a return to the problematic behavior."
+msgstr ""
+"C) Aider les individus à développer des stratégies pour reconnaître les "
+"signes avant-coureurs et prévenir le retour au comportement problématique."
+
+#: .\templates\relapse-management.html:63
+msgid ""
+"D) Ignoring relapse incidents entirely to avoid triggering feelings of guilt "
+"or shame in individuals undergoing recovery."
+msgstr ""
+"D) Ignorer complètement les incidents de rechute pour éviter de déclencher "
+"des sentiments de culpabilité ou de honte chez les personnes en "
+"convalescence."
+
+#: .\templates\relapse-triggers.html:10
+msgid "Triggers of Relapse"
+msgstr "Déclencheurs de rechute"
+
+#: .\templates\relapse-triggers.html:22
+msgid ""
+"Triggers of a relapse refer to factors or circumstances that increase the "
+"likelihood of an individual returning to a previous state of unhealthy "
+"behavior or addiction after a period of improvement or recovery. These "
+"triggers can be internal (thoughts, emotions, physical sensations) or "
+"external (people, places, situations) and often provoke strong cravings or "
+"urges to return to the problematic behavior."
+msgstr ""
+"Les déclencheurs d'une rechute font référence à des facteurs ou des "
+"circonstances qui augmentent la « probabilité qu'un individu revienne à un "
+"état antérieur de comportement malsain ou de dépendance après une période "
+"d'amélioration ou de rétablissement. Ces déclencheurs peuvent être internes "
+"(pensées, émotions, sensations physiques) ou externes. (personnes, lieux, "
+"situations) et provoquent souvent de fortes envies ou envies de revenir au "
+"comportement problématique."
+
+#: .\templates\relapse-triggers.html:23
+msgid "Common triggers of relapse include:"
+msgstr "Les déclencheurs courants de rechute comprennent :"
+
+#: .\templates\relapse-triggers.html:27
+msgid ""
+"Stress: High levels of stress from work, relationships, or life changes can "
+"lead to relapse."
+msgstr ""
+"Stress: des niveaux élevés de stress liés au travail, aux relations ou aux "
+"changements de vie peuvent entraîner une rechute."
+
+#: .\templates\relapse-triggers.html:28
+msgid ""
+"Negative Emotions: Feelings of sadness, anger, frustration, or loneliness "
+"can act as triggers."
+msgstr ""
+"Émotions négatives: les sentiments de tristesse, de colère, de frustration "
+"ou de solitude peuvent agir comme des déclencheurs."
+
+#: .\templates\relapse-triggers.html:29
+msgid ""
+"Environmental Cues: Being in places or situations associated with the past "
+"problematic behavior, like bars for alcoholics or certain neighborhoods for "
+"former drug users."
+msgstr ""
+"Indices environnementaux: se trouver dans des lieux ou des situations "
+"associés à un comportement problématique passé, comme des bars pour "
+"alcooliques ou certains quartiers pour anciens toxicomanes."
+
+#: .\templates\relapse-triggers.html:30
+msgid ""
+"Social Pressure: Influence from friends or family members who engage in "
+"problematic behavior or don\\"
+msgstr ""
+"Pression sociale: influence d'amis ou de membres de la famille qui adoptent "
+"un comportement problématique ou qui ne le font pas.\\"
+
+#: .\templates\relapse-triggers.html:31
+msgid ""
+"Positive Emotions: Celebratory moments or a sense of overconfidence in one\\"
+msgstr ""
+"Émotions positives: moments de célébration ou sentiment d'excès de confiance "
+"en soi\\"
+
+#: .\templates\relapse-triggers.html:32
+msgid ""
+"Boredom: Lack of engaging activities or hobbies can lead to a desire to "
+"revert to old behaviors."
+msgstr ""
+"Ennui: le manque d’activités ou de passe-temps intéressants peut conduire au "
+"désir de revenir à d’anciens comportements."
+
+#: .\templates\relapse-triggers.html:33
+msgid ""
+"Physical Discomfort: Pain or illness can trigger a relapse, especially if "
+"the behavior was a way to cope with these feelings."
+msgstr ""
+"Inconfort physique: La douleur ou la maladie peuvent déclencher une rechute, "
+"surtout si le comportement était un moyen de faire face à ces sentiments."
+
+#: .\templates\relapse-triggers.html:41
+msgid ""
+"Question: Which of the following is NOT commonly considered a trigger for "
+"relapse in individuals recovering from addiction or unhealthy behaviors?"
+msgstr ""
+"Question: Lequel des éléments suivants n'est PAS généralement considéré "
+"comme un déclencheur de rechute chez les personnes qui se remettent d'une "
+"dépendance ou de comportements malsains?"
+
+#: .\templates\relapse-triggers.html:45
+msgid "A) High levels of stress from work or personal life"
+msgstr "A) Niveaux élevés de stress lié au travail ou à la vie personnelle"
+
+#: .\templates\relapse-triggers.html:52
+msgid "B) Consistently practicing healthy coping mechanisms"
+msgstr "B) Pratiquer systématiquement des mécanismes d’adaptation sains"
+
+#: .\templates\relapse-triggers.html:58
+msgid "C) Celebratory moments or a sense of overconfidence"
+msgstr "C) Moments de fête ou sentiment d'excès de confiance"
+
+#: .\templates\relapse-triggers.html:66
+msgid "D) Lack of engagement in activities or hobbies"
+msgstr "D) Manque d'engagement dans des activités ou des passe-temps"
+
+#: .\templates\relapse-warnings.html:10
+msgid "Warnings of Relapse"
+msgstr "Avertissements de rechute"
+
+#: .\templates\relapse-warnings.html:17
+msgid ""
+"Warnings of relapse refer to early signs or indicators that an individual "
+"who is recovering from mental illness or an unhealthy behavior may be at "
+"risk of returning to that behavior. Recognizing these warnings can help the "
+"individual or their support network take proactive steps to prevent a full "
+"relapse."
+msgstr ""
+"Les avertissements de rechute font référence aux premiers signes ou "
+"indicateurs indiquant qu'une personne qui se remet d'une maladie mentale ou "
+"d'un comportement malsain peut risquer de revenir à ce comportement. "
+"Reconnaître ces avertissements peut aider la personne ou son réseau de "
+"soutien à prendre des mesures proactives pour éviter une rechute complète."
+
+#: .\templates\relapse-warnings.html:18
+msgid "Common warnings of relapse include:"
+msgstr "Les avertissements courants de rechute comprennent:"
+
+#: .\templates\relapse-warnings.html:21
+msgid ""
+"Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, "
+"or reverting to old habits."
+msgstr ""
+"Changements de comportement: changements soudains de routine, négligence des "
+"responsabilités ou retour à de vieilles habitudes."
+
+#: .\templates\relapse-warnings.html:22
+msgid ""
+"Emotional Instability: Increased irritability, anxiety, depression, or mood "
+"swings."
+msgstr ""
+"Instabilité émotionnelle: augmentation de l'irritabilité, de l'anxiété, de "
+"la dépression ou des sautes d'humeur."
+
+#: .\templates\relapse-warnings.html:23
+msgid ""
+"Social Withdrawal: Avoiding support groups, family, or friends who are "
+"supportive of recovery."
+msgstr ""
+"Retrait social: éviter les groupes de soutien, la famille ou les amis qui "
+"soutiennent le rétablissement."
+
+#: .\templates\relapse-warnings.html:24
+msgid ""
+"Negative Thinking: Engaging in self-defeating thoughts or rationalizing that "
+"one can control the behavior."
+msgstr ""
+"Pensée négative: S'engager dans des pensées autodestructrices ou "
+"rationaliser le fait que l'on peut contrôler le comportement."
+
+#: .\templates\relapse-warnings.html:25
+msgid ""
+"Loss of Interest: Losing interest in activities that were once enjoyable or "
+"helpful in recovery."
+msgstr ""
+"Perte d'intérêt : Perte d'intérêt pour des activités qui étaient autrefois "
+"agréables ou utiles au rétablissement."
+
+#: .\templates\relapse-warnings.html:26
+msgid "Physical Signs: Changes in sleep patterns, appetite, or overall health."
+msgstr ""
+"Signes physiques: changements dans les habitudes de sommeil, l’appétit ou "
+"l’état de santé général."
+
+#: .\templates\relapse-warnings.html:27
+msgid ""
+"Cravings or Urges: Increasing thoughts or desires to engage in the addictive "
+"behavior."
+msgstr ""
+"Envies ou envies: pensées ou désirs croissants de s'engager dans un "
+"comportement addictif."
+
+#: .\templates\relapse-warnings.html:34
+msgid ""
+"Question: Which of the following is a subtle but significant warning sign of "
+"a potential relapse in someone recovering from mental illness?"
+msgstr ""
+"Question: Lequel des éléments suivants constitue un signe avant-coureur "
+"subtil mais significatif d'une rechute potentielle chez une personne en "
+"convalescence?"
+
+#: .\templates\relapse-warnings.html:38
+msgid "A) Participating more actively in social gatherings"
+msgstr "A) Participer plus activement aux rassemblements sociaux"
+
+#: .\templates\relapse-warnings.html:44
+msgid "B) Developing a new hobby or interest"
+msgstr "B) Développer un nouveau passe-temps ou intérêt"
+
+#: .\templates\relapse-warnings.html:52
+msgid "C) Expressing overconfidence in their ability to handle triggers"
+msgstr ""
+"C) Exprimer un excès de confiance dans sa capacité à gérer les déclencheurs"
+
+#: .\templates\relapse-warnings.html:59
+msgid "D) Consistently following a structured daily routine"
+msgstr "D) Suivre systématiquement une routine quotidienne structurée"
+
+#: .\templates\relapse.html:22
+msgid ""
+"Relapse is the return of symptoms or behaviors after a period of improvement "
+"or recovery. This term is commonly used in the context of chronic illnesses, "
+"mental health disorders, and addiction recovery. Relapse can happen even if "
+"the person has been feeling well for some time. Relapse can be triggered by "
+"various factors, including stress, environmental influences, or even "
+"biological changes. Understanding relapse is crucial for developing "
+"effective long-term treatment and management strategies for chronic "
+"conditions."
+msgstr ""
+"La rechute est le retour de symptômes ou de comportements après une période "
+"d'amélioration ou de récupération. Ce terme est couramment utilisé dans le "
+"contexte des maladies chroniques, des troubles de santé mentale et de la "
+"guérison d’une dépendance. Une rechute peut survenir même si la personne se "
+"sent bien depuis un certain temps. La rechute peut être déclenchée par "
+"divers facteurs, notamment le stress, les influences environnementales ou "
+"même des changements biologiques. Comprendre les rechutes est crucial pour "
+"développer des stratégies efficaces de traitement et de gestion à long terme "
+"des maladies chroniques."
+
+#: .\templates\relapse.html:27
+msgid ""
+"Question: Which of the following is NOT typically considered a risk factor "
+"for relapse in individuals recovering from major depressive disorder?"
+msgstr ""
+"Question: Lequel des éléments suivants n'est généralement PAS considéré "
+"comme un facteur de risque de rechute chez les personnes qui se remettent "
+"d'un trouble dépressif majeur?"
+
+#: .\templates\relapse.html:31
+msgid "A) High levels of ongoing stress"
+msgstr "A) Niveaux élevés de stress continu"
+
+#: .\templates\relapse.html:37
+msgid "B) Lack of social support"
+msgstr "B) Manque de soutien social"
+
+#: .\templates\relapse.html:45
+msgid "C) Non-adherence to prescribed medication"
+msgstr "C) Non-observance des médicaments prescrits"
+
+#: .\templates\relapse.html:52
+msgid "D) Regular physical exercise"
+msgstr "D) Exercice physique régulier"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:10
+msgid "Cognitive Symptoms of Schizophrenia"
+msgstr "Symptômes cognitifs de la schizophrénie"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:22
+msgid ""
+"Cognitive symptoms of schizophrenia refer to problems with the mental "
+"processes involved in gaining knowledge and comprehension. These symptoms "
+"affect a person\\"
+msgstr ""
+"Les symptômes cognitifs de la schizophrénie font référence à des problèmes "
+"liés aux processus mentaux impliqués dans l’acquisition de connaissances et "
+"de compréhension. Ces symptômes affectent une personne\\"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:26
+msgid ""
+"Impaired Working Memory: Difficulty holding and manipulating information "
+"over short periods, which affects the ability to follow instructions or "
+"complete tasks."
+msgstr ""
+"Mémoire de travail altérée: difficulté à conserver et à manipuler des "
+"informations sur de courtes périodes, ce qui affecte la capacité à suivre "
+"des instructions ou à accomplir des tâches."
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:27
+msgid ""
+"Poor Executive Functioning: Problems with planning, organizing, and problem-"
+"solving. This can lead to difficulties in managing everyday activities and "
+"making decisions."
+msgstr ""
+"Mauvais fonctionnement exécutif: problèmes de planification, d’organisation "
+"et de résolution de problèmes. Cela peut entraîner des difficultés dans la "
+"gestion des activités quotidiennes et dans la prise de décisions."
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:28
+msgid ""
+"Attention Deficits: Trouble focusing or paying attention, which can make it "
+"hard to concentrate on tasks or conversations."
+msgstr ""
+"Déficit d'attention: difficulté à se concentrer ou à prêter attention, ce "
+"qui peut rendre difficile la concentration sur des tâches ou des "
+"conversations."
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:35
+msgid ""
+"Qeustion: Which of the following cognitive symptoms is NOT commonly "
+"associated with schizophrenia?"
+msgstr ""
+"Question: Lequel des symptômes cognitifs suivants n’est PAS couramment "
+"associé à la schizophrénie?"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:39
+msgid "A) Impaired attention"
+msgstr "A) Attention altérée"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:45
+msgid "B) Poor executive functioning"
+msgstr "B) Mauvais fonctionnement exécutif"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:52
+msgid "C) Enhanced memory recall"
+msgstr "C) Rappel de mémoire amélioré"
+
+#: .\templates\schizophrenia-cognitive-symptoms.html:59
+msgid "D) Difficulty with working memory"
+msgstr "D) Difficulté avec la mémoire de travail"
+
+#: .\templates\schizophrenia-end.html:10
+msgid "Schizophrenia"
+msgstr "Schizophrénie"
+
+#: .\templates\schizophrenia-negative-symptoms.html:10
+msgid "Negative Symptoms of Schizophrenia"
+msgstr "Symptômes négatifs de la schizophrénie"
+
+#: .\templates\schizophrenia-negative-symptoms.html:22
+msgid ""
+"Negative symptoms of schizophrenia refer to the absence or reduction of "
+"normal behaviors and functions that are usually present in healthy "
+"individuals. These symptoms reflect a loss of abilities and can "
+"significantly impair a person\\"
+msgstr ""
+"Les symptômes négatifs de la schizophrénie font référence à l’absence ou à "
+"la réduction des comportements et fonctions normaux habituellement présents "
+"chez les individus en bonne santé. Ces symptômes reflètent une perte de "
+"capacités et peuvent altérer considérablement une personne\\"
+
+#: .\templates\schizophrenia-negative-symptoms.html:26
+msgid ""
+"Reduced expression of emotions: Also known as flat affect, this is where a "
+"person\\"
+msgstr ""
+"Expression réduite des émotions: également connue sous le nom d'affect plat, "
+"c'est là qu'une personne\\"
+
+#: .\templates\schizophrenia-negative-symptoms.html:27
+msgid ""
+"Reduced feelings of pleasure in everyday life: This refers to anhedonia, "
+"where the individual experiences a decreased ability to feel pleasure from "
+"activities that were once enjoyable."
+msgstr ""
+"Sentiments de plaisir réduits dans la vie quotidienne: cela fait référence à "
+"l'anhédonie, où l'individu éprouve une diminution de la capacité à ressentir "
+"du plaisir lors d'activités qui étaient autrefois agréables."
+
+#: .\templates\schizophrenia-negative-symptoms.html:28
+msgid ""
+"Difficulty beginning and sustaining activities: Known as avolition, this is "
+"characterized by a lack of motivation to start or maintain tasks, including "
+"everyday activities."
+msgstr ""
+"Difficulté à démarrer et à maintenir des activités: Connue sous le nom "
+"d’avolition, cette difficulté se caractérise par un manque de motivation "
+"pour démarrer ou maintenir des tâches, y compris les activités quotidiennes."
+
+#: .\templates\schizophrenia-negative-symptoms.html:29
+msgid ""
+"Reduced speaking: Also called alogia, this involves a significant reduction "
+"in the amount and content of speech, often resulting in brief and empty "
+"replies."
+msgstr ""
+"Réduction de la parole: également appelée alogie, cela implique une "
+"réduction significative de la quantité et du contenu de la parole, "
+"entraînant souvent des réponses brèves et vides."
+
+#: .\templates\schizophrenia-negative-symptoms.html:36
+msgid ""
+"Qeustion: Which of the following best describes the negative symptom of "
+"schizophrenia known as avolition?"
+msgstr ""
+"Question: Lequel des énoncés suivants décrit le mieux le symptôme négatif de "
+"la schizophrénie appelé avolition?"
+
+#: .\templates\schizophrenia-negative-symptoms.html:40
+msgid ""
+"A) The individual has difficulty beginning and sustaining activities, "
+"showing a lack of motivation for tasks including daily routines."
+msgstr ""
+"A) L'individu a des difficultés à démarrer et à maintenir des activités, "
+"démontrant un manque de motivation pour les tâches, y compris les routines "
+"quotidiennes."
+
+#: .\templates\schizophrenia-negative-symptoms.html:46
+msgid "B) A person\\"
+msgstr "B) Une personne\\"
+
+#: .\templates\schizophrenia-negative-symptoms.html:53
+msgid ""
+"C) The individual experiences a decreased ability to feel pleasure from "
+"activities that were once enjoyable."
+msgstr ""
+"C) L'individu éprouve une diminution de sa capacité à ressentir du plaisir "
+"lors d'activités qui étaient autrefois agréables."
+
+#: .\templates\schizophrenia-negative-symptoms.html:60
+msgid ""
+"D) The individual has a significant reduction in the amount and content of "
+"speech, often resulting in brief and empty replies."
+msgstr ""
+"D) L'individu présente une réduction significative de la quantité et du "
+"contenu de la parole, ce qui entraîne souvent des réponses brèves et creuses."
+
+#: .\templates\schizophrenia-negative-symptoms.html:67
+msgid ""
+"E) The individual withdraws from social interactions and prefers to be "
+"alone, avoiding social situations."
+msgstr ""
+"E) L'individu se retire des interactions sociales et préfère être seul, "
+"évitant les situations sociales."
+
+#: .\templates\schizophrenia-positive-symptoms.html:10
+msgid "Positive Symptoms of Schizophrenia"
+msgstr "Symptômes positifs de la schizophrénie"
+
+#: .\templates\schizophrenia-positive-symptoms.html:22
+msgid ""
+"Positive Symptoms refer to the presence of behaviors or experiences that are "
+"not typically present when healthy. These symptoms represent an excess or "
+"distortion of normal functions. They are called positive not because they "
+"are beneficial, but because they add something to the persons mental state "
+"that should not be there."
+msgstr ""
+"Les symptômes positifs font référence à la présence de comportements ou "
+"d'expériences qui ne sont généralement pas présents lorsque l'on est en "
+"bonne santé. Ces symptômes représentent un excès ou une distorsion des "
+"fonctions normales. Ils sont appelés positifs non pas parce qu'ils sont "
+"bénéfiques, mais parce qu'ils ajoutent quelque chose à l'état mental de la "
+"personne. cela ne devrait pas être là."
+
+#: .\templates\schizophrenia-positive-symptoms.html:26
+msgid ""
+"Hallucinations: These are false sensory perceptions that occur without any "
+"external stimuli. For example it might be that the individual hears voices "
+"or sees things that aren\\"
+msgstr ""
+"Hallucinations: Ce sont de fausses perceptions sensorielles qui se "
+"produisent sans aucun stimuli externe. Par exemple, il se peut que "
+"l'individu entende des voix ou voie des choses qui ne sont pas réelles."
+
+#: .\templates\schizophrenia-positive-symptoms.html:27
+msgid ""
+"Delusions: These are strong, false beliefs that are not based in reality. "
+"For instance, a person might believe they have special powers, or they might "
+"think they are being persecuted or watched."
+msgstr ""
+"Délires : Ce sont des croyances fortes et fausses qui ne sont pas fondées "
+"sur la réalité. Par exemple, une personne peut croire qu’elle possède des "
+"pouvoirs spéciaux, ou elle peut penser qu’elle est persécutée ou surveillée."
+
+#: .\templates\schizophrenia-positive-symptoms.html:28
+msgid ""
+"Thought Disorders: These involve unusual or dysfunctional ways of thinking. "
+"A person might have trouble organizing their thoughts or connecting them "
+"logically."
+msgstr ""
+"Troubles de la pensée: ils impliquent des modes de pensée inhabituels ou "
+"dysfonctionnels. Une personne peut avoir du mal à organiser ses pensées ou à "
+"les relier logiquement."
+
+#: .\templates\schizophrenia-positive-symptoms.html:29
+msgid ""
+"Movement Disorders: These can include a variety of abnormal motor behaviors. "
+"This might involve repetitive movements or, conversely, catatonia, which is "
+"a state of immobility and unresponsiveness."
+msgstr ""
+"Troubles du mouvement: ceux-ci peuvent inclure une variété de comportements "
+"moteurs anormaux. Cela peut impliquer des mouvements répétitifs ou, à "
+"l’inverse, une catatonie, qui est un état d’immobilité et d’insensibilité."
+
+#: .\templates\schizophrenia-positive-symptoms.html:36
+msgid ""
+"Qeustion: Which of the following statements correctly describes the positive "
+"symptoms of schizophrenia?"
+msgstr ""
+"Question: Lequel des énoncés suivants décrit correctement les symptômes "
+"positifs de la schizophrénie?"
+
+#: .\templates\schizophrenia-positive-symptoms.html:40
+msgid ""
+"A) Hallucinations: These involve sensory experiences without external "
+"stimuli, such as hearing voices or seeing things that are not there."
+msgstr ""
+"A) Hallucinations: elles impliquent des expériences sensorielles sans "
+"stimuli externes, comme entendre des voix ou voir des choses qui n'existent "
+"pas."
+
+#: .\templates\schizophrenia-positive-symptoms.html:46
+msgid ""
+"B) Delusions: These are weakly held false beliefs that are based in reality, "
+"such as thinking that one is occasionally being followed."
+msgstr ""
+"B) Délires: Il s'agit de fausses croyances faiblement ancrées qui sont "
+"fondées sur la réalité, comme penser que l'on est parfois suivi."
+
+#: .\templates\schizophrenia-positive-symptoms.html:53
+msgid ""
+"C) Thought Disorders: These involve highly organized and logical ways of "
+"thinking that enhance a person’s cognitive functions."
+msgstr ""
+"C) Troubles de la pensée: ils impliquent des modes de pensée hautement "
+"organisés et logiques qui améliorent les fonctions cognitives d’une personne."
+
+#: .\templates\schizophrenia-positive-symptoms.html:60
+msgid ""
+"D) Movement Disorders: These include both agitated body movements and "
+"catatonia, which is characterized by excessive physical activity."
+msgstr ""
+"D) Troubles du mouvement: ils comprennent à la fois les mouvements corporels "
+"agités et la catatonie, caractérisée par une activité physique excessive."
+
+#: .\templates\schizophrenia-symptoms.html:10
+msgid "Symptoms of Schizophrenia"
+msgstr "Symptômes de la schizophrénie"
+
+#: .\templates\schizophrenia-symptoms.html:22
+msgid ""
+"Symptoms of schizophrenia can be broadly categorized into three groups: "
+"positive symptoms, negative symptoms, and cognitive symptoms."
+msgstr ""
+"Les symptômes de la schizophrénie peuvent être globalement classés en trois "
+"groupes : les symptômes positifs, les symptômes négatifs et les symptômes "
+"cognitifs."
+
+#: .\templates\schizophrenia-symptoms.html:26
+msgid ""
+"Positive symptoms include additional things that others do not have like "
+"hearing voices, seeing things that are not there etc."
+msgstr ""
+"Les symptômes positifs incluent des choses supplémentaires que les autres "
+"n'ont pas, comme entendre des voix, voir des choses qui n'existent pas, etc."
+
+#: .\templates\schizophrenia-symptoms.html:27
+msgid ""
+"Negative symptoms could be loss of something such as ability to feel joy."
+msgstr ""
+"Les symptômes négatifs pourraient être la perte de quelque chose comme la "
+"capacité à ressentir de la joie."
+
+#: .\templates\schizophrenia-symptoms.html:28
+msgid ""
+"Cognitive symptoms are related to changes in memory or other aspects of "
+"thinking."
+msgstr ""
+"Les symptômes cognitifs sont liés à des changements dans la mémoire ou dans "
+"d’autres aspects de la pensée."
+
+#: .\templates\schizophrenia-symptoms.html:35
+msgid ""
+"Which categorization distinguishes the symptoms of schizophrenia based on "
+"their characteristics?"
+msgstr ""
+"Quelle catégorisation distingue les symptômes de la schizophrénie en "
+"fonction de leurs caractéristiques?"
+
+#: .\templates\schizophrenia-symptoms.html:39
+msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
+msgstr "A) Symptômes primaires, symptômes secondaires, symptômes tertiaires."
+
+#: .\templates\schizophrenia-symptoms.html:45
+msgid "B) Active symptoms, passive symptoms, cognitive symptoms."
+msgstr "B) Symptômes actifs, symptômes passifs, symptômes cognitifs."
+
+#: .\templates\schizophrenia-symptoms.html:52
+msgid "C) Manifest symptoms, latent symptoms, residual symptoms."
+msgstr "C) Symptômes manifestes, symptômes latents, symptômes résiduels."
+
+#: .\templates\schizophrenia-symptoms.html:59
+msgid "D) Positive symptoms, negative symptoms, cognitive symptoms."
+msgstr "D) Symptômes positifs, symptômes négatifs, symptômes cognitifs."
+
+#: .\templates\schizophrenia.html:10
+msgid "schizophrenia"
+msgstr "schizophrénie"
+
+#: .\templates\schizophrenia.html:22
+msgid ""
+"Schizophrenia is a chronic and severe mental disorder that affects how a "
+"person thinks, feels, and behaves. When someone has schizophrenia it can "
+"seem like they have lost touch with reality, which can be distressing for "
+"them and for those around them. "
+msgstr ""
+"La schizophrénie est un trouble mental chronique et grave qui affecte la "
+"façon dont une personne pense, ressent et se comporte. Lorsqu’une personne "
+"souffre de schizophrénie, elle peut avoir l’impression d’avoir perdu le "
+"contact avec la réalité, ce qui peut être pénible pour elle et pour son "
+"entourage."
+
+#: .\templates\schizophrenia.html:28
+msgid "Which of the following best characterizes schizophrenia?"
+msgstr "Lequel des énoncés suivants caractérise le mieux la schizophrénie?"
+
+#: .\templates\schizophrenia.html:32
+msgid "A) A temporary mental disorder caused by stress"
+msgstr "A) Un trouble mental temporaire causé par le stress"
+
+#: .\templates\schizophrenia.html:38
+msgid "B) A chronic condition affecting thinking, feeling, and behavior"
+msgstr ""
+"B) Une maladie chronique affectant la pensée, les sentiments et le "
+"comportement"
+
+#: .\templates\schizophrenia.html:46
+msgid "C) A physical illness with visible symptoms"
+msgstr "C) Une maladie physique avec des symptômes visibles"
+
+#: .\templates\schizophrenia.html:53
+msgid "D) A mood disorder primarily marked by extreme sadness"
+msgstr ""
+"D) Un trouble de l'humeur principalement marqué par une extrême tristesse"
+
+#: .\views.py:8 .\views.py:15 .\views.py:22 .\views.py:29 .\views.py:36
+#: .\views.py:43 .\views.py:55 .\views.py:62 .\views.py:69 .\views.py:76
+#: .\views.py:83 .\views.py:90
+msgid "<strong>Incorrect</strong><br>You have selected an incorrect option."
+msgstr ""
+"<strong>Incorrect</strong><br>Vous avez sélectionné une option incorrecte."
+
+#: .\views.py:9 .\views.py:16 .\views.py:23 .\views.py:30 .\views.py:37
+#: .\views.py:44 .\views.py:56 .\views.py:63 .\views.py:70 .\views.py:77
+#: .\views.py:84 .\views.py:91
+msgid "<strong>Correct</strong><br>You have selected a correct option."
+msgstr "<strong>Correct</strong><br>Vous avez sélectionné une option correcte."
