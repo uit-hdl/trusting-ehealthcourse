@@ -20,69 +20,69 @@ msgstr ""
 
 #: .\templates\base.html:22
 msgid "Health Course"
-msgstr ""
+msgstr "Sağlık Kursu"
 
 #: .\templates\course-end.html:10
 msgid "Congratulations!"
-msgstr ""
+msgstr "Tebrikler!"
 
 #: .\templates\course-end.html:22
 msgid "Congratulations on completing the health course!"
-msgstr ""
+msgstr "Sağlık kursunu tamamladığınız için tebrikler!"
 
 #: .\templates\course-end.html:25
 msgid ""
 "We greatly appreciate your dedication in completing the course on "
 "schizophrenia and relapse. Through your commitment, we trust you\\"
-msgstr ""
+msgstr "Şizofreni ve nüksetmeye ilişkin kursu tamamlama konusundaki kararlılığınızı büyük ölçüde takdir ediyoruz. Bağlılığınız sayesinde size güveniyoruz\\"
 
 #: .\templates\errors.html:10
 msgid "Types of Errors"
-msgstr ""
+msgstr "Hata Türleri"
 
 #: .\templates\errors.html:22
 msgid ""
 "False positives and errors are both terms used to describe situations where "
 "a result or conclusion is incorrect. However, they are often used in "
 "different contexts:"
-msgstr ""
+msgstr "Yanlış pozitifler ve hatalar, bir sonucun veya sonucun yanlış olduğu durumları tanımlamak için kullanılan terimlerdir. Ancak sıklıkla farklı bağlamlarda kullanılırlar:"
 
 #: .\templates\errors.html:24
 msgid "False Positive:"
-msgstr ""
+msgstr "Yanlış pozitif:"
 
 #: .\templates\errors.html:27
 msgid ""
 "A false positive occurs when a test or procedure incorrectly indicates the "
 "presence of a condition or attribute that is not actually present."
-msgstr ""
+msgstr "Bir test veya prosedür, aslında mevcut olmayan bir koşulun veya özelliğin varlığını yanlış bir şekilde gösterdiğinde yanlış pozitif ortaya çıkar."
 
 #: .\templates\errors.html:28
 msgid "In other words, it\\"
-msgstr ""
+msgstr "Başka bir deyişle\\"
 
 #: .\templates\errors.html:29
 msgid ""
 "For example, in medical testing, a false positive in a covid screening test "
 "would mean that the test suggests covid is present when the person is "
 "actually covid-free."
-msgstr ""
+msgstr "Örneğin, tıbbi testlerde, bir covid tarama testindeki hatalı pozitif sonuç, testin, kişi aslında covid içermediği halde covid'in mevcut olduğunu öne sürdüğü anlamına gelir."
 
 #: .\templates\errors.html:32
 msgid "Errors:"
-msgstr ""
+msgstr "Hatalar:"
 
 #: .\templates\errors.html:35
 msgid ""
 "Errors are discrepancies between a computed, observed, or measured value and "
 "the true, theoretically correct, or accepted value."
-msgstr ""
+msgstr "Hatalar, hesaplanan, gözlemlenen veya ölçülen değer ile gerçek, teorik olarak doğru veya kabul edilen değer arasındaki tutarsızlıklardır."
 
 #: .\templates\errors.html:36
 msgid ""
 "In a broader sense, errors can encompass various types of mistakes, "
 "inaccuracies, or deviations from what is expected or desired."
-msgstr ""
+msgstr "Daha geniş anlamda hatalar, çeşitli hata türlerini, yanlışlıkları veya beklenenden veya istenenden sapmaları kapsayabilir."
 
 #: .\templates\errors.html:40
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "minimize these occurrences through improved testing methods, rigorous "
 "quality control measures, and careful consideration of potential sources of "
 "error."
-msgstr ""
+msgstr "Hem yanlış pozitifler hem de hatalar, meydana geldikleri bağlama bağlı olarak önemli sonuçlar doğurabilir. Çoğu durumda, iyileştirilmiş test yöntemleri, sıkı kalite kontrol önlemleri ve potansiyel hata kaynaklarının dikkatle değerlendirilmesi yoluyla bu olayların en aza indirilmesi için çaba gösterilmektedir."
 
 #: .\templates\errors.html:46 .\templates\relapse-char.html:78
 #: .\templates\relapse-end.html:33 .\templates\relapse-management.html:77
@@ -103,7 +103,7 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:74
 #: .\templates\schizophrenia-symptoms.html:73 .\templates\schizophrenia.html:67
 msgid "Previous"
-msgstr ""
+msgstr "Öncesi"
 
 #: .\templates\errors.html:48 .\templates\relapse-char.html:80
 #: .\templates\relapse-end.html:35 .\templates\relapse-management.html:79
@@ -115,7 +115,7 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:76
 #: .\templates\schizophrenia-symptoms.html:75 .\templates\schizophrenia.html:69
 msgid "Ask AI Chatbot"
-msgstr ""
+msgstr "AI Chatbot'a sorun"
 
 #: .\templates\errors.html:49 .\templates\relapse-char.html:81
 #: .\templates\relapse-end.html:36 .\templates\relapse-management.html:80
@@ -127,33 +127,33 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:77
 #: .\templates\schizophrenia-symptoms.html:76 .\templates\schizophrenia.html:70
 msgid "Next"
-msgstr ""
+msgstr "Sonraki"
 
 #: .\templates\home.html:10
 msgid "Course Objectives"
-msgstr ""
+msgstr "Kurs Hedefleri"
 
 #: .\templates\home.html:21
 msgid "This brief course has three primary goals:"
-msgstr ""
+msgstr "Bu kısa kursun üç temel hedefi vardır:"
 
 #: .\templates\home.html:24
 msgid ""
 "Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
 "a naturally occurring illness and not the fault of the individual."
-msgstr ""
+msgstr "Şizofreninin temel kavramlarını tanıtın, bunun doğal olarak oluşan bir hastalık olduğunu ve bireyin hatası olmadığını vurgulayın."
 
 #: .\templates\home.html:25
 msgid ""
 "Educate participants about the concept of relapses and how to predict them "
 "early."
-msgstr ""
+msgstr "Katılımcıları nüksetme kavramı ve bunları erkenden nasıl tahmin edebilecekleri konusunda eğitin."
 
 #: .\templates\home.html:26
 msgid ""
 "Help participants understand that there can be false positives and errors in "
 "diagnosing schizophrenia and identifying relapses."
-msgstr ""
+msgstr "Katılımcıların, şizofreninin teşhisinde ve nüksetmelerin belirlenmesinde yanlış pozitifliklerin ve hataların olabileceğini anlamalarına yardımcı olun."
 
 #: .\templates\home.html:30
 msgid ""
@@ -161,15 +161,15 @@ msgid ""
 "throughout the slides. After each slide, there will be a simple multiple-"
 "choice question. You can proceed to the next slide only after correctly "
 "answering the question on the current slide."
-msgstr ""
+msgstr "Slaytlar boyunca değerli bilgileri küçük, anlaşılması kolay birimler halinde sunmayı hedefliyoruz. Her slayttan sonra çoktan seçmeli basit bir soru olacaktır. Bir sonraki slayda ancak mevcut slayttaki soruyu doğru yanıtladıktan sonra geçebilirsiniz."
 
 #: .\templates\home.html:34
 msgid "Start Course"
-msgstr ""
+msgstr "Kursu Başlat"
 
 #: .\templates\relapse-char.html:10
 msgid "Characteristics of Relapse"
-msgstr ""
+msgstr "Nüksün Özellikleri"
 
 #: .\templates\relapse-char.html:22
 msgid ""
@@ -178,13 +178,13 @@ msgid ""
 "health condition after a period of improvement or remission. These "
 "characteristics help in identifying when a relapse is happening or is likely "
 "to happen, allowing for timely intervention."
-msgstr ""
+msgstr "Nüksetmenin özellikleri, bir kişinin zihinsel sağlık durumunun bir iyileşme veya iyileşme döneminden sonra tekrar ortaya çıktığını gösteren spesifik işaretler, semptomlar ve kalıpları ifade eder. Bu özellikler, bir nüksetmenin ne zaman gerçekleştiğini veya meydana gelme ihtimalinin ne zaman olduğunu belirlemeye yardımcı olarak zamanında müdahaleye izin verir."
 
 #: .\templates\relapse-char.html:25
 msgid ""
 "Symptoms Reappearance: This means the return of the particular symptoms "
 "associated with the person\\"
-msgstr ""
+msgstr "Semptomların Yeniden Ortaya Çıkması: Bu, kişiyle ilişkili belirli semptomların yeniden ortaya çıkması anlamına gelir."
 
 #: .\templates\relapse-char.html:26
 msgid ""
@@ -192,95 +192,95 @@ msgid ""
 "relapse. These triggers can include stress, trauma, changes in medication, "
 "or environmental factors. Identifying these triggers is crucial for "
 "prevention and management."
-msgstr ""
+msgstr "Tetikleyici Faktörler: Belirli olaylar veya durumlar, hastalığın nüksetmesini tetikleyebilir. Bu tetikleyiciler arasında stres, travma, ilaç değişiklikleri veya çevresel faktörler bulunabilir. Bu tetikleyicilerin belirlenmesi, önleme ve yönetim açısından çok önemlidir."
 
 #: .\templates\relapse-char.html:27
 msgid ""
 "Gradual Onset: Relapse often does not happen suddenly. There can be early "
 "warning signs such as slight changes in mood, behavior, or thinking patterns "
 "that gradually escalate."
-msgstr ""
+msgstr "Kademeli Başlangıç: Nüksetme sıklıkla aniden gerçekleşmez. Ruh halindeki, davranıştaki veya düşünce kalıplarındaki hafif değişiklikler gibi yavaş yavaş artan erken uyarı işaretleri olabilir."
 
 #: .\templates\relapse-char.html:28
 msgid "Behavioral Changes: These are observable changes in a person\\"
-msgstr ""
+msgstr "Davranış Değişiklikleri: Bunlar kişide gözlemlenebilir değişikliklerdir\\"
 
 #: .\templates\relapse-char.html:29
 msgid ""
 "Cognitive Changes: These refer to changes in thinking patterns, such as "
 "increased negative thoughts, difficulty concentrating, or changes in how a "
 "person perceives reality."
-msgstr ""
+msgstr "Bilişsel Değişiklikler: Bunlar, olumsuz düşüncelerin artması, konsantre olma zorluğu veya kişinin gerçekliği algılama biçimindeki değişiklikler gibi düşünme kalıplarındaki değişiklikleri ifade eder."
 
 #: .\templates\relapse-char.html:30
 msgid ""
 "Emotional Changes: Relapse can also be marked by changes in emotional state, "
 "like increased irritability, mood swings, or emotional numbness."
-msgstr ""
+msgstr "Duygusal Değişiklikler: Nüksetme, artan sinirlilik, ruh hali değişimleri veya duygusal uyuşukluk gibi duygusal durumdaki değişikliklerle de işaretlenebilir."
 
 #: .\templates\relapse-char.html:31
 msgid ""
 "Physical Symptoms: These are physical manifestations that can accompany "
 "mental health relapses, like changes in sleep patterns, appetite, or "
 "unexplained physical pains."
-msgstr ""
+msgstr "Fiziksel Belirtiler: Bunlar, uyku düzenindeki değişiklikler, iştah veya açıklanamayan fiziksel ağrılar gibi zihinsel sağlık bozukluklarına eşlik edebilen fiziksel belirtilerdir."
 
 #: .\templates\relapse-char.html:32
 msgid ""
 "Impaired Functioning: A relapse often leads to a decline in a person’s "
 "ability to function in daily life, affecting their work, school, and "
 "personal relationships."
-msgstr ""
+msgstr "İşlevselliğin Bozulması: Bir nüksetme sıklıkla kişinin günlük yaşamdaki işlevsellik yeteneğinde bir düşüşe yol açarak işini, okulunu ve kişisel ilişkilerini etkiler."
 
 #: .\templates\relapse-char.html:39
 msgid ""
 "Question: Which of the following combinations best describe the early "
 "warning signs of a relapse in a mental health condition?"
-msgstr ""
+msgstr "Soru: Aşağıdaki kombinasyonlardan hangisi bir akıl sağlığı durumunda hastalığın nüksetmesine ilişkin erken uyarı işaretlerini en iyi şekilde tanımlar?"
 
 #: .\templates\relapse-char.html:43
 msgid ""
 "A) Gradual onset of physical symptoms, social withdrawal, and sudden "
 "behavioral changes"
-msgstr ""
+msgstr "A) Yavaş yavaş başlayan fiziksel semptomlar, sosyal geri çekilme ve ani davranış değişiklikleri"
 
 #: .\templates\relapse-char.html:49
 msgid ""
 "B) Immediate onset of cognitive changes, emotional stability, and adherence "
 "to treatment"
-msgstr ""
+msgstr "B) Bilişsel değişikliklerin hemen başlaması, duygusal istikrar ve tedaviye uyum"
 
 #: .\templates\relapse-char.html:57
 msgid ""
 "C) Gradual onset of changes in mood, social withdrawal, and impaired "
 "functioning"
-msgstr ""
+msgstr "C) Ruh halinde yavaş yavaş başlayan değişiklikler, sosyal geri çekilme ve işlevsellikte bozulma"
 
 #: .\templates\relapse-char.html:64
 msgid ""
 "D) Immediate onset of physical symptoms, cognitive improvement, and "
 "emotional numbness"
-msgstr ""
+msgstr "D) Aniden başlayan fiziksel semptomlar, bilişsel iyileşme ve duygusal uyuşukluk"
 
 #: .\templates\relapse-end.html:10 .\templates\relapse.html:10
 msgid "Relapse"
-msgstr ""
+msgstr "Nüksetme"
 
 #: .\templates\relapse-end.html:22 .\templates\schizophrenia-end.html:22
 msgid "Congratulations on completing this part of the course!"
-msgstr ""
+msgstr "Kursun bu bölümünü tamamladığınız için tebrikler!"
 
 #: .\templates\relapse-end.html:25 .\templates\schizophrenia-end.html:25
 msgid "You\\"
-msgstr ""
+msgstr "Sen\\"
 
 #: .\templates\relapse-end.html:27 .\templates\schizophrenia-end.html:27
 msgid "Keep going strong!"
-msgstr ""
+msgstr "Güçlü olmaya devam edin!"
 
 #: .\templates\relapse-management.html:10
 msgid "Relapse Management"
-msgstr ""
+msgstr "Nüks Yönetimi"
 
 #: .\templates\relapse-management.html:22
 msgid ""
@@ -291,18 +291,18 @@ msgid ""
 "to address these signs, and seeking appropriate professional help if "
 "necessary. The goal is to maintain stability, reduce the severity of "
 "symptoms, and enhance the individual\\"
-msgstr ""
+msgstr "Ruh sağlığı bağlamında nüksetme yönetimi, zihinsel sağlık durumlarıyla ilişkili semptomların tekrarını önlemek veya yönetmek için tasarlanmış bir dizi strateji ve müdahaleyi ifade eder. Potansiyel bir nüksetmenin erken uyarı işaretlerini tanımayı, bu işaretlerle başa çıkmak için başa çıkma stratejilerini uygulamayı ve gerekirse uygun profesyonel yardım almayı içerir. Amaç istikrarı korumak, semptomların şiddetini azaltmak ve bireyi geliştirmektir."
 
 #: .\templates\relapse-management.html:23
 msgid "Key components of relapse management include:"
-msgstr ""
+msgstr "Nüks yönetiminin temel bileşenleri şunları içerir:"
 
 #: .\templates\relapse-management.html:26
 msgid ""
 "Education and Awareness: Educating the individual and their support network "
 "about the nature of their mental health condition, potential triggers, and "
 "signs of relapse."
-msgstr ""
+msgstr "Eğitim ve Farkındalık: Bireyi ve destek ağını zihinsel sağlık durumunun doğası, potansiyel tetikleyiciler ve nüksetme belirtileri hakkında eğitmek."
 
 #: .\templates\relapse-management.html:27
 msgid ""
@@ -310,7 +310,7 @@ msgid ""
 "stress and prevent relapse. These strategies might include mindfulness, "
 "relaxation techniques, exercise, healthy eating, maintaining a routine, and "
 "engaging in hobbies or activities that bring joy and relaxation."
-msgstr ""
+msgstr "Başa Çıkma Stratejileri: Stresi yönetmek ve nüksetmeyi önlemek için başa çıkma stratejileri geliştirmek ve uygulamak. Bu stratejiler arasında farkındalık, rahatlama teknikleri, egzersiz, sağlıklı beslenme, bir rutini sürdürme ve neşe ve rahatlama getiren hobiler veya aktivitelerle ilgilenme yer alabilir."
 
 #: .\templates\relapse-management.html:28
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "plan, which may include medication, therapy, or a combination of both. "
 "Regular check-ins with mental health professionals are often part of this "
 "process."
-msgstr ""
+msgstr "Tedaviye Uyum: Bireyin ilaç tedavisini, terapiyi veya her ikisinin birleşimini içerebilen tedavi planına uymasının sağlanması. Ruh sağlığı uzmanlarıyla yapılan düzenli kontroller genellikle bu sürecin bir parçasıdır."
 
 #: .\templates\relapse-management.html:29
 msgid ""
@@ -326,7 +326,7 @@ msgid ""
 "relapse occurs. This plan might include emergency contact numbers, immediate "
 "steps to manage symptoms, and instructions for seeking urgent professional "
 "help."
-msgstr ""
+msgstr "Kriz Planı: Bir krizin tekrarlaması halinde atılacak adımların ana hatlarını çizen bir kriz planının mevcut olması. Bu plan, acil durum iletişim numaralarını, semptomları yönetmek için acil adımları ve acil profesyonel yardım alma talimatlarını içerebilir."
 
 #: .\templates\relapse-management.html:30
 msgid ""
@@ -334,7 +334,7 @@ msgid ""
 "health, such as sleep hygiene, nutrition, exercise, and substance use. "
 "Encouraging healthy habits and routines can play a significant role in "
 "relapse prevention."
-msgstr ""
+msgstr "Yaşam Tarzı Faktörleri: Uyku hijyeni, beslenme, egzersiz ve madde kullanımı gibi ruh sağlığını etkileyebilecek yaşam tarzı faktörlerinin ele alınması. Sağlıklı alışkanlıkların ve rutinlerin teşvik edilmesi, nüksetmenin önlenmesinde önemli bir rol oynayabilir."
 
 #: .\templates\relapse-management.html:31
 msgid ""
@@ -342,37 +342,37 @@ msgid ""
 "making adjustments to the relapse prevention plan as needed. This may "
 "involve identifying new triggers, refining coping strategies, or accessing "
 "additional support services."
-msgstr ""
+msgstr "Sürekli İzleme ve Ayarlama: İlerlemeyi düzenli olarak değerlendirmek ve gerektiğinde nüksetmeyi önleme planında ayarlamalar yapmak. Bu, yeni tetikleyicilerin belirlenmesini, başa çıkma stratejilerinin geliştirilmesini veya ek destek hizmetlerine erişilmesini içerebilir."
 
 #: .\templates\relapse-management.html:38
 msgid ""
 "Question: Which of the following best describes the primary goal of relapse "
 "management?"
-msgstr ""
+msgstr "Soru: Aşağıdakilerden hangisi nüksetme yönetiminin temel amacını en iyi şekilde tanımlar?"
 
 #: .\templates\relapse-management.html:42
 msgid ""
 "A) Encouraging individuals to embrace their setbacks as part of the recovery "
 "process and not dwell on them excessively."
-msgstr ""
+msgstr "A) Bireyleri, iyileşme sürecinin bir parçası olarak başarısızlıklarını kabul etmeye ve bunların üzerinde aşırı derecede durmamaya teşvik etmek."
 
 #: .\templates\relapse-management.html:48
 msgid ""
 "B) Providing immediate punishment for relapse behavior to deter future "
 "occurrences."
-msgstr ""
+msgstr "B) Tekrarlayan davranışlara derhal ceza vererek gelecekte tekrar yaşanmasını engellemek."
 
 #: .\templates\relapse-management.html:56
 msgid ""
 "C) Helping individuals develop strategies to recognize warning signs and "
 "prevent a return to the problematic behavior."
-msgstr ""
+msgstr "C) Bireylerin uyarı işaretlerini tanımaya ve sorunlu davranışın tekrarını engellemeye yönelik stratejiler geliştirmelerine yardımcı olmak."
 
 #: .\templates\relapse-management.html:63
 msgid ""
 "D) Ignoring relapse incidents entirely to avoid triggering feelings of guilt "
 "or shame in individuals undergoing recovery."
-msgstr ""
+msgstr "D) İyileşen bireylerde suçluluk veya utanç duygularını tetiklememek için nüksetme olaylarını tamamen göz ardı etmek."
 
 #: .\templates\relapse-triggers.html:10
 msgid "Triggers of Relapse"
@@ -386,79 +386,79 @@ msgid ""
 "triggers can be internal (thoughts, emotions, physical sensations) or "
 "external (people, places, situations) and often provoke strong cravings or "
 "urges to return to the problematic behavior."
-msgstr ""
+msgstr "Nüksetmenin tetikleyicileri, bir kişinin belirli bir iyileşme veya iyileşme döneminden sonra önceki sağlıksız davranış veya bağımlılık durumuna geri dönme olasılığını artıran faktörleri veya koşulları ifade eder. Bu tetikleyiciler içsel (düşünceler, duygular, fiziksel duyumlar) veya dışsal (insanlar, yerler, durumlar) olabilir ve sıklıkla sorunlu davranışa geri dönmeye yönelik güçlü istek veya dürtüleri tetikler."
 
 #: .\templates\relapse-triggers.html:23
 msgid "Common triggers of relapse include:"
-msgstr ""
+msgstr "Nüksün yaygın tetikleyicileri şunlardır:"
 
 #: .\templates\relapse-triggers.html:27
 msgid ""
 "Stress: High levels of stress from work, relationships, or life changes can "
 "lead to relapse."
-msgstr ""
+msgstr "Stres: İş, ilişkiler veya yaşam değişikliklerinden kaynaklanan yüksek düzeyde stres, hastalığın nüksetmesine yol açabilir."
 
 #: .\templates\relapse-triggers.html:28
 msgid ""
 "Negative Emotions: Feelings of sadness, anger, frustration, or loneliness "
 "can act as triggers."
-msgstr ""
+msgstr "Olumsuz Duygular: Üzüntü, öfke, hayal kırıklığı veya yalnızlık duyguları tetikleyici olabilir."
 
 #: .\templates\relapse-triggers.html:29
 msgid ""
 "Environmental Cues: Being in places or situations associated with the past "
 "problematic behavior, like bars for alcoholics or certain neighborhoods for "
 "former drug users."
-msgstr ""
+msgstr "Çevresel İpuçları: Alkolikler için barlar veya eski uyuşturucu kullanıcıları için belirli mahalleler gibi geçmişteki sorunlu davranışlarla ilişkili yer veya durumlarda bulunmak."
 
 #: .\templates\relapse-triggers.html:30
 msgid ""
 "Social Pressure: Influence from friends or family members who engage in "
 "problematic behavior or don\\"
-msgstr ""
+msgstr "Sosyal Baskı: Sorunlu davranışlarda bulunan veya yapmayan arkadaşların veya aile üyelerinin etkisi"
 
 #: .\templates\relapse-triggers.html:31
 msgid ""
 "Positive Emotions: Celebratory moments or a sense of overconfidence in one\\"
-msgstr ""
+msgstr "Olumlu Duygular: Kutlama anları veya birine aşırı güven duygusu\\"
 
 #: .\templates\relapse-triggers.html:32
 msgid ""
 "Boredom: Lack of engaging activities or hobbies can lead to a desire to "
 "revert to old behaviors."
-msgstr ""
+msgstr "Sıkıntı: İlgi çekici etkinliklerin veya hobilerin eksikliği, eski davranışlara dönme arzusuna yol açabilir."
 
 #: .\templates\relapse-triggers.html:33
 msgid ""
 "Physical Discomfort: Pain or illness can trigger a relapse, especially if "
 "the behavior was a way to cope with these feelings."
-msgstr ""
+msgstr "Fiziksel Rahatsızlık: Ağrı veya hastalık, özellikle de davranış bu duygularla başa çıkmanın bir yoluysa, hastalığın nüksetmesini tetikleyebilir."
 
 #: .\templates\relapse-triggers.html:41
 msgid ""
 "Question: Which of the following is NOT commonly considered a trigger for "
 "relapse in individuals recovering from addiction or unhealthy behaviors?"
-msgstr ""
+msgstr "Soru: Aşağıdakilerden hangisi, bağımlılık veya sağlıksız davranışlardan kurtulan bireylerde hastalığın nüksetmesinin tetikleyicisi olarak kabul edilmez?"
 
 #: .\templates\relapse-triggers.html:45
 msgid "A) High levels of stress from work or personal life"
-msgstr ""
+msgstr "A) İş veya kişisel yaşamdan kaynaklanan yüksek düzeyde stres"
 
 #: .\templates\relapse-triggers.html:52
 msgid "B) Consistently practicing healthy coping mechanisms"
-msgstr ""
+msgstr "B) Sağlıklı başa çıkma mekanizmalarını tutarlı bir şekilde uygulamak"
 
 #: .\templates\relapse-triggers.html:58
 msgid "C) Celebratory moments or a sense of overconfidence"
-msgstr ""
+msgstr "C) Kutlama anları veya aşırı güven duygusu"
 
 #: .\templates\relapse-triggers.html:66
 msgid "D) Lack of engagement in activities or hobbies"
-msgstr ""
+msgstr "D) Faaliyetlere veya hobilere katılım eksikliği"
 
 #: .\templates\relapse-warnings.html:10
 msgid "Warnings of Relapse"
-msgstr ""
+msgstr "Tekrarlama Uyarıları"
 
 #: .\templates\relapse-warnings.html:17
 msgid ""
@@ -467,73 +467,73 @@ msgid ""
 "risk of returning to that behavior. Recognizing these warnings can help the "
 "individual or their support network take proactive steps to prevent a full "
 "relapse."
-msgstr ""
+msgstr "Nüksetmeye ilişkin uyarılar, akıl hastalığından veya sağlıksız bir davranıştan kurtulan bir kişinin bu davranışa geri dönme riski altında olabileceğine dair erken işaret veya göstergeleri ifade eder. Bu uyarıların dikkate alınması, bireyin veya destek ağının, hastalığın tekrarlanmasını önlemek için proaktif adımlar atmasına yardımcı olabilir."
 
 #: .\templates\relapse-warnings.html:18
 msgid "Common warnings of relapse include:"
-msgstr ""
+msgstr "Nüksetmeye ilişkin yaygın uyarılar şunları içerir:"
 
 #: .\templates\relapse-warnings.html:21
 msgid ""
 "Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, "
 "or reverting to old habits."
-msgstr ""
+msgstr "Davranış Değişiklikleri: Rutinlerde ani değişiklikler, sorumlulukların ihmal edilmesi veya eski alışkanlıklara dönüş."
 
 #: .\templates\relapse-warnings.html:22
 msgid ""
 "Emotional Instability: Increased irritability, anxiety, depression, or mood "
 "swings."
-msgstr ""
+msgstr "Duygusal Dengesizlik: Artan sinirlilik, kaygı, depresyon veya ruh hali değişimleri."
 
 #: .\templates\relapse-warnings.html:23
 msgid ""
 "Social Withdrawal: Avoiding support groups, family, or friends who are "
 "supportive of recovery."
-msgstr ""
+msgstr "Sosyal Geri Çekilme: İyileşmeyi destekleyen destek gruplarından, aileden veya arkadaşlardan kaçınmak."
 
 #: .\templates\relapse-warnings.html:24
 msgid ""
 "Negative Thinking: Engaging in self-defeating thoughts or rationalizing that "
 "one can control the behavior."
-msgstr ""
+msgstr "Olumsuz Düşünme: Kendini engelleyen düşüncelere dalmak veya kişinin davranışı kontrol edebileceğini rasyonelleştirmek."
 
 #: .\templates\relapse-warnings.html:25
 msgid ""
 "Loss of Interest: Losing interest in activities that were once enjoyable or "
 "helpful in recovery."
-msgstr ""
+msgstr "İlgi Kaybı: Bir zamanlar keyif veren veya iyileşmeye yardımcı olan aktivitelere olan ilginin kaybolması."
 
 #: .\templates\relapse-warnings.html:26
 msgid "Physical Signs: Changes in sleep patterns, appetite, or overall health."
-msgstr ""
+msgstr "Fiziksel Belirtiler: Uyku düzeninde, iştahta veya genel sağlıkta değişiklikler."
 
 #: .\templates\relapse-warnings.html:27
 msgid ""
 "Cravings or Urges: Increasing thoughts or desires to engage in the addictive "
 "behavior."
-msgstr ""
+msgstr "İstek veya Dürtü: Bağımlılık yapıcı davranışta bulunmaya yönelik düşüncelerin veya arzuların artması."
 
 #: .\templates\relapse-warnings.html:34
 msgid ""
 "Question: Which of the following is a subtle but significant warning sign of "
 "a potential relapse in someone recovering from mental illness?"
-msgstr ""
+msgstr "Soru: Aşağıdakilerden hangisi, akıl hastalığından iyileşmekte olan bir kişide olası bir nüksetmeye ilişkin ince fakat anlamlı bir uyarı işaretidir?"
 
 #: .\templates\relapse-warnings.html:38
 msgid "A) Participating more actively in social gatherings"
-msgstr ""
+msgstr "A) Sosyal toplantılara daha aktif katılmak"
 
 #: .\templates\relapse-warnings.html:44
 msgid "B) Developing a new hobby or interest"
-msgstr ""
+msgstr "B) Yeni bir hobi veya ilgi geliştirmek"
 
 #: .\templates\relapse-warnings.html:52
 msgid "C) Expressing overconfidence in their ability to handle triggers"
-msgstr ""
+msgstr "C) Tetikleyicileri ele alma becerilerine aşırı güven duyma"
 
 #: .\templates\relapse-warnings.html:59
 msgid "D) Consistently following a structured daily routine"
-msgstr ""
+msgstr "D) Yapılandırılmış bir günlük rutini tutarlı bir şekilde takip etmek"
 
 #: .\templates\relapse.html:22
 msgid ""
@@ -545,90 +545,90 @@ msgid ""
 "biological changes. Understanding relapse is crucial for developing "
 "effective long-term treatment and management strategies for chronic "
 "conditions."
-msgstr ""
+msgstr "Relaps, belirli bir iyileşme veya iyileşme döneminden sonra semptomların veya davranışların geri dönmesidir. Bu terim genellikle kronik hastalıklar, zihinsel sağlık bozuklukları ve bağımlılıktan kurtulma bağlamında kullanılır. Kişi bir süredir kendini iyi hissetse bile hastalığın nüksetmesi gerçekleşebilir. Nüksetme, stres, çevresel etkiler ve hatta biyolojik değişiklikler gibi çeşitli faktörler tarafından tetiklenebilir. Nüksetmeyi anlamak, kronik durumlar için etkili uzun vadeli tedavi ve yönetim stratejileri geliştirmek için çok önemlidir."
 
 #: .\templates\relapse.html:27
 msgid ""
 "Question: Which of the following is NOT typically considered a risk factor "
 "for relapse in individuals recovering from major depressive disorder?"
-msgstr ""
+msgstr "Soru: Aşağıdakilerden hangisi majör depresif bozukluktan iyileşen bireylerde tipik olarak nüksetme açısından bir risk faktörü olarak kabul edilmez?"
 
 #: .\templates\relapse.html:31
 msgid "A) High levels of ongoing stress"
-msgstr ""
+msgstr "A) Yüksek düzeyde devam eden stres"
 
 #: .\templates\relapse.html:37
 msgid "B) Lack of social support"
-msgstr ""
+msgstr "B) Sosyal destek eksikliği"
 
 #: .\templates\relapse.html:45
 msgid "C) Non-adherence to prescribed medication"
-msgstr ""
+msgstr "C) Reçeteli ilaçlara uymamak"
 
 #: .\templates\relapse.html:52
 msgid "D) Regular physical exercise"
-msgstr ""
+msgstr "D) Düzenli fiziksel egzersiz"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
 msgid "Cognitive Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Şizofreninin Bilişsel Belirtileri"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:22
 msgid ""
 "Cognitive symptoms of schizophrenia refer to problems with the mental "
 "processes involved in gaining knowledge and comprehension. These symptoms "
 "affect a person\\"
-msgstr ""
+msgstr "Şizofreninin bilişsel belirtileri, bilgi edinme ve kavramayla ilgili zihinsel süreçlerle ilgili sorunlara işaret eder. Bu belirtiler kişiyi etkiler\\"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:26
 msgid ""
 "Impaired Working Memory: Difficulty holding and manipulating information "
 "over short periods, which affects the ability to follow instructions or "
 "complete tasks."
-msgstr ""
+msgstr "Bozulmuş Çalışma Belleği: Talimatları takip etme veya görevleri tamamlama yeteneğini etkileyen kısa süreler boyunca bilgiyi tutma ve kullanma zorluğu."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:27
 msgid ""
 "Poor Executive Functioning: Problems with planning, organizing, and problem-"
 "solving. This can lead to difficulties in managing everyday activities and "
 "making decisions."
-msgstr ""
+msgstr "Zayıf Yönetici İşleyişi: Planlama, organize etme ve problem çözme ile ilgili sorunlar. Bu, günlük aktiviteleri yönetmede ve karar vermede zorluklara yol açabilir."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:28
 msgid ""
 "Attention Deficits: Trouble focusing or paying attention, which can make it "
 "hard to concentrate on tasks or conversations."
-msgstr ""
+msgstr "Dikkat Eksikliği: Odaklanma veya dikkat vermede zorluk; bu da görevlere veya konuşmalara konsantre olmayı zorlaştırabilir."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:35
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
 "associated with schizophrenia?"
-msgstr ""
+msgstr "Soru: Aşağıdaki bilişsel belirtilerden hangisi sıklıkla şizofreniyle ilişkili DEĞİLDİR?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:39
 msgid "A) Impaired attention"
-msgstr ""
+msgstr "A) Dikkatin bozulması"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:45
 msgid "B) Poor executive functioning"
-msgstr ""
+msgstr "B) Yönetici işleyişinin zayıf olması"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:52
 msgid "C) Enhanced memory recall"
-msgstr ""
+msgstr "C) Gelişmiş hafıza hatırlama"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:59
 msgid "D) Difficulty with working memory"
-msgstr ""
+msgstr "D) Çalışma belleğinde zorluk"
 
 #: .\templates\schizophrenia-end.html:10
 msgid "Schizophrenia"
-msgstr ""
+msgstr "Şizofreni"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
 msgid "Negative Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Şizofreninin Olumsuz Belirtileri"
 
 #: .\templates\schizophrenia-negative-symptoms.html:22
 msgid ""
@@ -636,72 +636,72 @@ msgid ""
 "normal behaviors and functions that are usually present in healthy "
 "individuals. These symptoms reflect a loss of abilities and can "
 "significantly impair a person\\"
-msgstr ""
+msgstr "Şizofreninin negatif belirtileri, genellikle sağlıklı bireylerde mevcut olan normal davranış ve işlevlerin yokluğu veya azalması anlamına gelir. Bu belirtiler yetenek kaybını yansıtır ve kişiyi önemli ölçüde olumsuz etkileyebilir."
 
 #: .\templates\schizophrenia-negative-symptoms.html:26
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person\\"
-msgstr ""
+msgstr "Duyguların daha az ifade edilmesi: Düz duygulanım olarak da bilinen bu durum, kişinin"
 
 #: .\templates\schizophrenia-negative-symptoms.html:27
 msgid ""
 "Reduced feelings of pleasure in everyday life: This refers to anhedonia, "
 "where the individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "Günlük yaşamda zevk hissinin azalması: Bu, bireyin bir zamanlar keyifli olan aktivitelerden zevk alma yeteneğinin azaldığı anhedoniyi ifade eder."
 
 #: .\templates\schizophrenia-negative-symptoms.html:28
 msgid ""
 "Difficulty beginning and sustaining activities: Known as avolition, this is "
 "characterized by a lack of motivation to start or maintain tasks, including "
 "everyday activities."
-msgstr ""
+msgstr "Faaliyetleri başlatma ve sürdürmede zorluk: İstemsizlik olarak bilinen bu durum, günlük faaliyetler de dahil olmak üzere görevleri başlatma veya sürdürme konusunda motivasyon eksikliği ile karakterize edilir."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced speaking: Also called alogia, this involves a significant reduction "
 "in the amount and content of speech, often resulting in brief and empty "
 "replies."
-msgstr ""
+msgstr "Azalan konuşma: Alogia olarak da adlandırılan bu, konuşmanın miktarında ve içeriğinde önemli bir azalmayı içerir ve genellikle kısa ve boş yanıtlarla sonuçlanır."
 
 #: .\templates\schizophrenia-negative-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
 "schizophrenia known as avolition?"
-msgstr ""
+msgstr "Soru: Aşağıdakilerden hangisi şizofreninin istemsizlik olarak bilinen negatif belirtisini en iyi şekilde tanımlar?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:40
 msgid ""
 "A) The individual has difficulty beginning and sustaining activities, "
 "showing a lack of motivation for tasks including daily routines."
-msgstr ""
+msgstr "A) Birey, günlük rutinler de dahil olmak üzere görevlerde motivasyon eksikliği göstererek, etkinliklere başlama ve sürdürmede zorluk yaşar."
 
 #: .\templates\schizophrenia-negative-symptoms.html:46
 msgid "B) A person\\"
-msgstr ""
+msgstr "B) Bir kişi\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:53
 msgid ""
 "C) The individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "C) Birey, bir zamanlar keyifli olan aktivitelerden zevk alma yeteneğinde azalma yaşar."
 
 #: .\templates\schizophrenia-negative-symptoms.html:60
 msgid ""
 "D) The individual has a significant reduction in the amount and content of "
 "speech, often resulting in brief and empty replies."
-msgstr ""
+msgstr "D) Bireyin konuşma miktarı ve içeriğinde önemli bir azalma vardır, bu da çoğu zaman kısa ve boş yanıtlarla sonuçlanır."
 
 #: .\templates\schizophrenia-negative-symptoms.html:67
 msgid ""
 "E) The individual withdraws from social interactions and prefers to be "
 "alone, avoiding social situations."
-msgstr ""
+msgstr "E) Birey sosyal etkileşimlerden uzaklaşır ve sosyal durumlardan kaçınarak yalnız kalmayı tercih eder."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
 msgid "Positive Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Şizofreninin Olumlu Belirtileri"
 
 #: .\templates\schizophrenia-positive-symptoms.html:22
 msgid ""
@@ -710,118 +710,118 @@ msgid ""
 "distortion of normal functions. They are called positive not because they "
 "are beneficial, but because they add something to the persons mental state "
 "that should not be there."
-msgstr ""
+msgstr "Pozitif Semptomlar, sağlıklıyken genellikle mevcut olmayan davranış veya deneyimlerin varlığını ifade eder. Bu semptomlar normal işlevlerin aşırılığını veya bozulmasını temsil eder. Faydalı oldukları için değil, kişinin zihinsel durumuna olmaması gereken bir şeyler kattıkları için pozitif olarak adlandırılırlar."
 
 #: .\templates\schizophrenia-positive-symptoms.html:26
 msgid ""
 "Hallucinations: These are false sensory perceptions that occur without any "
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren\\"
-msgstr ""
+msgstr "Halüsinasyonlar: Herhangi bir dış uyaran olmadan ortaya çıkan yanlış duyusal algılardır. Örneğin kişi gerçek olmayan sesler duyabilir ya da şeyler görebilir.\\"
 
 #: .\templates\schizophrenia-positive-symptoms.html:27
 msgid ""
 "Delusions: These are strong, false beliefs that are not based in reality. "
 "For instance, a person might believe they have special powers, or they might "
 "think they are being persecuted or watched."
-msgstr ""
+msgstr "Sanrılar: Bunlar gerçekliğe dayanmayan güçlü, yanlış inançlardır. Örneğin bir kişi özel güçlere sahip olduğuna inanabilir veya zulüm gördüğünü veya izlendiğini düşünebilir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:28
 msgid ""
 "Thought Disorders: These involve unusual or dysfunctional ways of thinking. "
 "A person might have trouble organizing their thoughts or connecting them "
 "logically."
-msgstr ""
+msgstr "Düşünce Bozuklukları: Bunlar alışılmadık veya işlevsiz düşünme biçimlerini içerir. Bir kişi düşüncelerini organize etmekte veya bunları mantıksal olarak birbirine bağlamakta zorluk yaşayabilir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:29
 msgid ""
 "Movement Disorders: These can include a variety of abnormal motor behaviors. "
 "This might involve repetitive movements or, conversely, catatonia, which is "
 "a state of immobility and unresponsiveness."
-msgstr ""
+msgstr "Hareket Bozuklukları: Bunlar çeşitli anormal motor davranışları içerebilir. Bu, tekrarlayan hareketleri veya tam tersine hareketsizlik ve tepkisizlik durumu olan katatoniyi içerebilir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
 "symptoms of schizophrenia?"
-msgstr ""
+msgstr "Soru: Aşağıdaki ifadelerden hangisi şizofreninin pozitif belirtilerini doğru şekilde tanımlamaktadır?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:40
 msgid ""
 "A) Hallucinations: These involve sensory experiences without external "
 "stimuli, such as hearing voices or seeing things that are not there."
-msgstr ""
+msgstr "A) Halüsinasyonlar: Bunlar, sesler duymak veya olmayan şeyleri görmek gibi dış uyaran olmaksızın duyusal deneyimleri içerir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:46
 msgid ""
 "B) Delusions: These are weakly held false beliefs that are based in reality, "
 "such as thinking that one is occasionally being followed."
-msgstr ""
+msgstr "B) Sanrılar: Bunlar, kişinin ara sıra takip edildiğini düşünmesi gibi, gerçeğe dayalı, zayıf biçimde benimsenen yanlış inançlardır."
 
 #: .\templates\schizophrenia-positive-symptoms.html:53
 msgid ""
 "C) Thought Disorders: These involve highly organized and logical ways of "
 "thinking that enhance a person’s cognitive functions."
-msgstr ""
+msgstr "C) Düşünce Bozuklukları: Kişinin bilişsel işlevlerini geliştiren, oldukça organize ve mantıklı düşünme yollarını içerir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:60
 msgid ""
 "D) Movement Disorders: These include both agitated body movements and "
 "catatonia, which is characterized by excessive physical activity."
-msgstr ""
+msgstr "D) Hareket Bozuklukları: Bunlar hem ajite vücut hareketlerini hem de aşırı fiziksel aktivite ile karakterize edilen katatoniyi içerir."
 
 #: .\templates\schizophrenia-symptoms.html:10
 msgid "Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Şizofreni Belirtileri"
 
 #: .\templates\schizophrenia-symptoms.html:22
 msgid ""
 "Symptoms of schizophrenia can be broadly categorized into three groups: "
 "positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
+msgstr "Şizofreni belirtileri genel olarak üç gruba ayrılabilir: pozitif belirtiler, negatif belirtiler ve bilişsel belirtiler."
 
 #: .\templates\schizophrenia-symptoms.html:26
 msgid ""
 "Positive symptoms include additional things that others do not have like "
 "hearing voices, seeing things that are not there etc."
-msgstr ""
+msgstr "Pozitif semptomlar, başkalarının sahip olmadığı, sesler duymak, olmayan şeyleri görmek gibi ek şeyleri içerir."
 
 #: .\templates\schizophrenia-symptoms.html:27
 msgid ""
 "Negative symptoms could be loss of something such as ability to feel joy."
-msgstr ""
+msgstr "Olumsuz belirtiler sevinç hissetme yeteneği gibi bir şeyin kaybı olabilir."
 
 #: .\templates\schizophrenia-symptoms.html:28
 msgid ""
 "Cognitive symptoms are related to changes in memory or other aspects of "
 "thinking."
-msgstr ""
+msgstr "Bilişsel semptomlar hafızadaki veya düşüncenin diğer yönlerindeki değişikliklerle ilgilidir."
 
 #: .\templates\schizophrenia-symptoms.html:35
 msgid ""
 "Which categorization distinguishes the symptoms of schizophrenia based on "
 "their characteristics?"
-msgstr ""
+msgstr "Şizofreni belirtilerini özelliklerine göre ayıran sınıflandırma hangisidir?"
 
 #: .\templates\schizophrenia-symptoms.html:39
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
-msgstr ""
+msgstr "A) Birincil belirtiler, ikincil belirtiler, üçüncül belirtiler."
 
 #: .\templates\schizophrenia-symptoms.html:45
 msgid "B) Active symptoms, passive symptoms, cognitive symptoms."
-msgstr ""
+msgstr "B) Aktif semptomlar, pasif semptomlar, bilişsel semptomlar."
 
 #: .\templates\schizophrenia-symptoms.html:52
 msgid "C) Manifest symptoms, latent symptoms, residual symptoms."
-msgstr ""
+msgstr "C) Açık semptomlar, gizli semptomlar, kalıntı semptomlar."
 
 #: .\templates\schizophrenia-symptoms.html:59
 msgid "D) Positive symptoms, negative symptoms, cognitive symptoms."
-msgstr ""
+msgstr "D) Pozitif belirtiler, negatif belirtiler, bilişsel belirtiler."
 
 #: .\templates\schizophrenia.html:10
 msgid "schizophrenia"
-msgstr ""
+msgstr "şizofreni"
 
 #: .\templates\schizophrenia.html:22
 msgid ""
@@ -829,36 +829,36 @@ msgid ""
 "person thinks, feels, and behaves. When someone has schizophrenia it can "
 "seem like they have lost touch with reality, which can be distressing for "
 "them and for those around them. "
-msgstr ""
+msgstr "Şizofreni, kişinin nasıl düşündüğünü, hissettiğini ve davrandığını etkileyen kronik ve ciddi bir zihinsel bozukluktur. Birisi şizofreni hastası olduğunda gerçeklikle bağını kaybetmiş gibi görünebilir ve bu hem kendisi hem de etrafındakiler için üzücü olabilir."
 
 #: .\templates\schizophrenia.html:28
 msgid "Which of the following best characterizes schizophrenia?"
-msgstr ""
+msgstr "Aşağıdakilerden hangisi şizofreniyi en iyi karakterize eder?"
 
 #: .\templates\schizophrenia.html:32
 msgid "A) A temporary mental disorder caused by stress"
-msgstr ""
+msgstr "A) Stresin neden olduğu geçici bir zihinsel bozukluk"
 
 #: .\templates\schizophrenia.html:38
 msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr ""
+msgstr "B) Düşünceyi, duyguyu ve davranışı etkileyen kronik bir durum"
 
 #: .\templates\schizophrenia.html:46
 msgid "C) A physical illness with visible symptoms"
-msgstr ""
+msgstr "C) Görünür semptomları olan fiziksel bir hastalık"
 
 #: .\templates\schizophrenia.html:53
 msgid "D) A mood disorder primarily marked by extreme sadness"
-msgstr ""
+msgstr "D) Esasen aşırı üzüntüyle belirginleşen bir duygudurum bozukluğu"
 
 #: .\views.py:8 .\views.py:15 .\views.py:22 .\views.py:29 .\views.py:36
 #: .\views.py:43 .\views.py:55 .\views.py:62 .\views.py:69 .\views.py:76
 #: .\views.py:83 .\views.py:90
 msgid "<strong>Incorrect</strong><br>You have selected an incorrect option."
-msgstr ""
+msgstr "<strong>Yanlış</strong><br>Yanlış bir seçenek seçtiniz."
 
 #: .\views.py:9 .\views.py:16 .\views.py:23 .\views.py:30 .\views.py:37
 #: .\views.py:44 .\views.py:56 .\views.py:63 .\views.py:70 .\views.py:77
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
-msgstr ""
+msgstr "<strong>Doğru</strong><br>Doğru bir seçeneği seçtiniz."
