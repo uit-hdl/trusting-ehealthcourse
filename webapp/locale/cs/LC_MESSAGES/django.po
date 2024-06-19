@@ -20,69 +20,69 @@ msgstr ""
 "<= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
 #: .\templates\base.html:22
 msgid "Health Course"
-msgstr ""
+msgstr "Kurz zdraví"
 
 #: .\templates\course-end.html:10
 msgid "Congratulations!"
-msgstr ""
+msgstr "Gratulujeme!"
 
 #: .\templates\course-end.html:22
 msgid "Congratulations on completing the health course!"
-msgstr ""
+msgstr "Gratulujeme k dokončení zdravotního kurzu!"
 
 #: .\templates\course-end.html:25
 msgid ""
 "We greatly appreciate your dedication in completing the course on "
 "schizophrenia and relapse. Through your commitment, we trust you\\"
-msgstr ""
+msgstr "Velmi si vážíme vaší obětavosti při absolvování kurzu o schizofrenii a relapsu. Díky vašemu závazku vám věříme\\"
 
 #: .\templates\errors.html:10
 msgid "Types of Errors"
-msgstr ""
+msgstr "Typy chyb"
 
 #: .\templates\errors.html:22
 msgid ""
 "False positives and errors are both terms used to describe situations where "
 "a result or conclusion is incorrect. However, they are often used in "
 "different contexts:"
-msgstr ""
+msgstr "Falešná pozitiva a chyby jsou termíny používané k popisu situací, kdy je výsledek nebo závěr nesprávný. Často se však používají v různých kontextech:"
 
 #: .\templates\errors.html:24
 msgid "False Positive:"
-msgstr ""
+msgstr "Falešně pozitivní:"
 
 #: .\templates\errors.html:27
 msgid ""
 "A false positive occurs when a test or procedure incorrectly indicates the "
 "presence of a condition or attribute that is not actually present."
-msgstr ""
+msgstr "Falešně pozitivní nastane, když test nebo postup nesprávně indikuje přítomnost stavu nebo atributu, který ve skutečnosti není."
 
 #: .\templates\errors.html:28
 msgid "In other words, it\\"
-msgstr ""
+msgstr "Jinými slovy, \\"
 
 #: .\templates\errors.html:29
 msgid ""
 "For example, in medical testing, a false positive in a covid screening test "
 "would mean that the test suggests covid is present when the person is "
 "actually covid-free."
-msgstr ""
+msgstr "Například při lékařském testování by falešně pozitivní ve screeningovém testu na covid znamenalo, že test naznačuje, že je covid přítomen, když je osoba skutečně bez covidu."
 
 #: .\templates\errors.html:32
 msgid "Errors:"
-msgstr ""
+msgstr "chyby:"
 
 #: .\templates\errors.html:35
 msgid ""
 "Errors are discrepancies between a computed, observed, or measured value and "
 "the true, theoretically correct, or accepted value."
-msgstr ""
+msgstr "Chyby jsou nesrovnalosti mezi vypočítanou, pozorovanou nebo naměřenou hodnotou a skutečnou, teoreticky správnou nebo akceptovanou hodnotou."
 
 #: .\templates\errors.html:36
 msgid ""
 "In a broader sense, errors can encompass various types of mistakes, "
 "inaccuracies, or deviations from what is expected or desired."
-msgstr ""
+msgstr "V širším smyslu mohou chyby zahrnovat různé typy chyb, nepřesností nebo odchylek od toho, co se očekává nebo požaduje."
 
 #: .\templates\errors.html:40
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "minimize these occurrences through improved testing methods, rigorous "
 "quality control measures, and careful consideration of potential sources of "
 "error."
-msgstr ""
+msgstr "Falešná pozitiva i chyby mohou mít významné důsledky v závislosti na kontextu, ve kterém se vyskytují. V mnoha případech je vyvíjeno úsilí k minimalizaci těchto výskytů prostřednictvím vylepšených testovacích metod, přísných opatření kontroly kvality a pečlivého zvážení potenciálních zdrojů chyb."
 
 #: .\templates\errors.html:46 .\templates\relapse-char.html:78
 #: .\templates\relapse-end.html:33 .\templates\relapse-management.html:77
@@ -103,7 +103,7 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:74
 #: .\templates\schizophrenia-symptoms.html:73 .\templates\schizophrenia.html:67
 msgid "Previous"
-msgstr ""
+msgstr "Předchozí"
 
 #: .\templates\errors.html:48 .\templates\relapse-char.html:80
 #: .\templates\relapse-end.html:35 .\templates\relapse-management.html:79
@@ -115,7 +115,7 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:76
 #: .\templates\schizophrenia-symptoms.html:75 .\templates\schizophrenia.html:69
 msgid "Ask AI Chatbot"
-msgstr ""
+msgstr "Zeptejte se AI Chatbota"
 
 #: .\templates\errors.html:49 .\templates\relapse-char.html:81
 #: .\templates\relapse-end.html:36 .\templates\relapse-management.html:80
@@ -127,33 +127,33 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:77
 #: .\templates\schizophrenia-symptoms.html:76 .\templates\schizophrenia.html:70
 msgid "Next"
-msgstr ""
+msgstr "další"
 
 #: .\templates\home.html:10
 msgid "Course Objectives"
-msgstr ""
+msgstr "Cíle kurzu"
 
 #: .\templates\home.html:21
 msgid "This brief course has three primary goals:"
-msgstr ""
+msgstr "Tento krátký kurz má tři hlavní cíle:"
 
 #: .\templates\home.html:24
 msgid ""
 "Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
 "a naturally occurring illness and not the fault of the individual."
-msgstr ""
+msgstr "Představte základní pojmy schizofrenie a zdůrazněte, že jde o přirozeně se vyskytující onemocnění a nikoli o chybu jednotlivce."
 
 #: .\templates\home.html:25
 msgid ""
 "Educate participants about the concept of relapses and how to predict them "
 "early."
-msgstr ""
+msgstr "Poučte účastníky o konceptu relapsů a o tom, jak je včas předvídat."
 
 #: .\templates\home.html:26
 msgid ""
 "Help participants understand that there can be false positives and errors in "
 "diagnosing schizophrenia and identifying relapses."
-msgstr ""
+msgstr "Pomozte účastníkům pochopit, že při diagnostice schizofrenie a identifikaci relapsů mohou existovat falešně pozitivní výsledky a chyby."
 
 #: .\templates\home.html:30
 msgid ""
@@ -161,15 +161,15 @@ msgid ""
 "throughout the slides. After each slide, there will be a simple multiple-"
 "choice question. You can proceed to the next slide only after correctly "
 "answering the question on the current slide."
-msgstr ""
+msgstr "Naším cílem je poskytovat cenné informace v malých, snadno srozumitelných jednotkách v rámci snímků. Po každém snímku bude jednoduchá otázka s výběrem z více odpovědí. Na další snímek můžete přejít pouze po správném zodpovězení otázky na aktuálním snímku."
 
 #: .\templates\home.html:34
 msgid "Start Course"
-msgstr ""
+msgstr "Zahájit kurz"
 
 #: .\templates\relapse-char.html:10
 msgid "Characteristics of Relapse"
-msgstr ""
+msgstr "Charakteristika relapsu"
 
 #: .\templates\relapse-char.html:22
 msgid ""
@@ -178,13 +178,13 @@ msgid ""
 "health condition after a period of improvement or remission. These "
 "characteristics help in identifying when a relapse is happening or is likely "
 "to happen, allowing for timely intervention."
-msgstr ""
+msgstr "Charakteristiky relapsu se týkají specifických příznaků, symptomů a vzorců, které naznačují, že osoba zažívá recidivu svého duševního zdraví po období zlepšení nebo remise. Tyto charakteristiky pomáhají při identifikaci, kdy dochází nebo pravděpodobně dojde k relapsu, což umožňuje včasnou intervenci."
 
 #: .\templates\relapse-char.html:25
 msgid ""
 "Symptoms Reappearance: This means the return of the particular symptoms "
 "associated with the person\\"
-msgstr ""
+msgstr "Znovuobjevení příznaků: To znamená návrat konkrétních příznaků spojených s osobou\\"
 
 #: .\templates\relapse-char.html:26
 msgid ""
@@ -192,95 +192,95 @@ msgid ""
 "relapse. These triggers can include stress, trauma, changes in medication, "
 "or environmental factors. Identifying these triggers is crucial for "
 "prevention and management."
-msgstr ""
+msgstr "Spouštěcí faktory: Některé události nebo situace mohou působit jako spouštěče recidivy. Tyto spouštěče mohou zahrnovat stres, trauma, změny léků nebo faktory prostředí. Identifikace těchto spouštěčů je zásadní pro prevenci a léčbu."
 
 #: .\templates\relapse-char.html:27
 msgid ""
 "Gradual Onset: Relapse often does not happen suddenly. There can be early "
 "warning signs such as slight changes in mood, behavior, or thinking patterns "
 "that gradually escalate."
-msgstr ""
+msgstr "Postupný nástup: K relapsu často nedochází náhle. Mohou se objevit včasné varovné signály, jako jsou mírné změny nálady, chování nebo vzorce myšlení, které se postupně stupňují."
 
 #: .\templates\relapse-char.html:28
 msgid "Behavioral Changes: These are observable changes in a person\\"
-msgstr ""
+msgstr "Změny chování: Jedná se o pozorovatelné změny u člověka\\"
 
 #: .\templates\relapse-char.html:29
 msgid ""
 "Cognitive Changes: These refer to changes in thinking patterns, such as "
 "increased negative thoughts, difficulty concentrating, or changes in how a "
 "person perceives reality."
-msgstr ""
+msgstr "Kognitivní změny: Týkají se změn ve vzorcích myšlení, jako jsou zvýšené negativní myšlenky, potíže se soustředěním nebo změny toho, jak člověk vnímá realitu."
 
 #: .\templates\relapse-char.html:30
 msgid ""
 "Emotional Changes: Relapse can also be marked by changes in emotional state, "
 "like increased irritability, mood swings, or emotional numbness."
-msgstr ""
+msgstr "Emocionální změny: Relaps může být také poznamenán změnami emočního stavu, jako je zvýšená podrážděnost, změny nálady nebo emoční otupělost."
 
 #: .\templates\relapse-char.html:31
 msgid ""
 "Physical Symptoms: These are physical manifestations that can accompany "
 "mental health relapses, like changes in sleep patterns, appetite, or "
 "unexplained physical pains."
-msgstr ""
+msgstr "Fyzické příznaky: Jedná se o fyzické projevy, které mohou doprovázet relapsy duševního zdraví, jako jsou změny ve spánkových vzorcích, chuť k jídlu nebo nevysvětlitelné fyzické bolesti."
 
 #: .\templates\relapse-char.html:32
 msgid ""
 "Impaired Functioning: A relapse often leads to a decline in a person’s "
 "ability to function in daily life, affecting their work, school, and "
 "personal relationships."
-msgstr ""
+msgstr "Zhoršené fungování: Recidiva často vede k poklesu schopnosti člověka fungovat v každodenním životě, což ovlivňuje jeho práci, školu a osobní vztahy."
 
 #: .\templates\relapse-char.html:39
 msgid ""
 "Question: Which of the following combinations best describe the early "
 "warning signs of a relapse in a mental health condition?"
-msgstr ""
+msgstr "Otázka: Která z následujících kombinací nejlépe popisuje včasné varovné příznaky relapsu duševního onemocnění?"
 
 #: .\templates\relapse-char.html:43
 msgid ""
 "A) Gradual onset of physical symptoms, social withdrawal, and sudden "
 "behavioral changes"
-msgstr ""
+msgstr "A) Postupný nástup fyzických příznaků, sociální stažení a náhlé změny chování"
 
 #: .\templates\relapse-char.html:49
 msgid ""
 "B) Immediate onset of cognitive changes, emotional stability, and adherence "
 "to treatment"
-msgstr ""
+msgstr "B) Okamžitý nástup kognitivních změn, emoční stabilita a adherence k léčbě"
 
 #: .\templates\relapse-char.html:57
 msgid ""
 "C) Gradual onset of changes in mood, social withdrawal, and impaired "
 "functioning"
-msgstr ""
+msgstr "C) Postupný nástup změn nálady, sociální stažení a zhoršené fungování"
 
 #: .\templates\relapse-char.html:64
 msgid ""
 "D) Immediate onset of physical symptoms, cognitive improvement, and "
 "emotional numbness"
-msgstr ""
+msgstr "D) Okamžitý nástup fyzických příznaků, zlepšení kognitivních funkcí a emoční otupělost"
 
 #: .\templates\relapse-end.html:10 .\templates\relapse.html:10
 msgid "Relapse"
-msgstr ""
+msgstr "Relaps"
 
 #: .\templates\relapse-end.html:22 .\templates\schizophrenia-end.html:22
 msgid "Congratulations on completing this part of the course!"
-msgstr ""
+msgstr "Gratulujeme k dokončení této části kurzu!"
 
 #: .\templates\relapse-end.html:25 .\templates\schizophrenia-end.html:25
 msgid "You\\"
-msgstr ""
+msgstr "Vy\\"
 
 #: .\templates\relapse-end.html:27 .\templates\schizophrenia-end.html:27
 msgid "Keep going strong!"
-msgstr ""
+msgstr "Pokračujte silně!"
 
 #: .\templates\relapse-management.html:10
 msgid "Relapse Management"
-msgstr ""
+msgstr "Relaps Management"
 
 #: .\templates\relapse-management.html:22
 msgid ""
@@ -291,18 +291,18 @@ msgid ""
 "to address these signs, and seeking appropriate professional help if "
 "necessary. The goal is to maintain stability, reduce the severity of "
 "symptoms, and enhance the individual\\"
-msgstr ""
+msgstr "Management relapsu v kontextu duševního zdraví se týká souboru strategií a intervencí navržených k prevenci nebo zvládání recidivy symptomů spojených s duševními poruchami. Zahrnuje rozpoznání včasných varovných příznaků možného relapsu, implementaci copingových strategií k řešení těchto příznaků a v případě potřeby vyhledání vhodné odborné pomoci. Cílem je udržet stabilitu, snížit závažnost symptomů a zlepšit jedince\\"
 
 #: .\templates\relapse-management.html:23
 msgid "Key components of relapse management include:"
-msgstr ""
+msgstr "Mezi klíčové složky léčby relapsu patří:"
 
 #: .\templates\relapse-management.html:26
 msgid ""
 "Education and Awareness: Educating the individual and their support network "
 "about the nature of their mental health condition, potential triggers, and "
 "signs of relapse."
-msgstr ""
+msgstr "Vzdělávání a povědomí: Vzdělávání jednotlivce a jeho podpůrné sítě o povaze jejich duševního zdraví, potenciálních spouštěcích faktorech a známkách relapsu."
 
 #: .\templates\relapse-management.html:27
 msgid ""
@@ -310,7 +310,7 @@ msgid ""
 "stress and prevent relapse. These strategies might include mindfulness, "
 "relaxation techniques, exercise, healthy eating, maintaining a routine, and "
 "engaging in hobbies or activities that bring joy and relaxation."
-msgstr ""
+msgstr "Copingové strategie: Rozvíjení a procvičování copingových strategií pro zvládání stresu a prevenci relapsu. Tyto strategie mohou zahrnovat všímavost, relaxační techniky, cvičení, zdravé stravování, udržování rutiny a zapojení se do koníčků nebo činností, které přinášejí radost a relaxaci."
 
 #: .\templates\relapse-management.html:28
 msgid ""
@@ -318,7 +318,7 @@ msgid ""
 "plan, which may include medication, therapy, or a combination of both. "
 "Regular check-ins with mental health professionals are often part of this "
 "process."
-msgstr ""
+msgstr "Dodržování léčby: Zajištění, že jednotlivec dodržuje svůj léčebný plán, který může zahrnovat léky, terapii nebo kombinaci obojího. Součástí tohoto procesu jsou často pravidelné kontroly u odborníků na duševní zdraví."
 
 #: .\templates\relapse-management.html:29
 msgid ""
@@ -326,7 +326,7 @@ msgid ""
 "relapse occurs. This plan might include emergency contact numbers, immediate "
 "steps to manage symptoms, and instructions for seeking urgent professional "
 "help."
-msgstr ""
+msgstr "Krizový plán: Mít vypracovaný krizový plán, který nastiňuje kroky, které je třeba podniknout, pokud dojde k recidivě. Tento plán může zahrnovat nouzová kontaktní čísla, okamžité kroky ke zvládnutí příznaků a pokyny k vyhledání naléhavé odborné pomoci."
 
 #: .\templates\relapse-management.html:30
 msgid ""
@@ -334,7 +334,7 @@ msgid ""
 "health, such as sleep hygiene, nutrition, exercise, and substance use. "
 "Encouraging healthy habits and routines can play a significant role in "
 "relapse prevention."
-msgstr ""
+msgstr "Faktory životního stylu: Řešení faktorů životního stylu, které mohou ovlivnit duševní zdraví, jako je hygiena spánku, výživa, cvičení a užívání návykových látek. Podpora zdravých návyků a rutiny může hrát významnou roli v prevenci relapsu."
 
 #: .\templates\relapse-management.html:31
 msgid ""
@@ -342,41 +342,41 @@ msgid ""
 "making adjustments to the relapse prevention plan as needed. This may "
 "involve identifying new triggers, refining coping strategies, or accessing "
 "additional support services."
-msgstr ""
+msgstr "Průběžné monitorování a přizpůsobení: Pravidelně vyhodnocujte pokrok a podle potřeby upravujte plán prevence relapsu. To může zahrnovat identifikaci nových spouštěčů, upřesnění strategií zvládání nebo přístup k dalším službám podpory."
 
 #: .\templates\relapse-management.html:38
 msgid ""
 "Question: Which of the following best describes the primary goal of relapse "
 "management?"
-msgstr ""
+msgstr "Otázka: Která z následujících možností nejlépe popisuje primární cíl řízení relapsu?"
 
 #: .\templates\relapse-management.html:42
 msgid ""
 "A) Encouraging individuals to embrace their setbacks as part of the recovery "
 "process and not dwell on them excessively."
-msgstr ""
+msgstr "A) Povzbuzení jednotlivců, aby přijali své neúspěchy jako součást procesu obnovy a nezdržovali se nad nimi přehnaně."
 
 #: .\templates\relapse-management.html:48
 msgid ""
 "B) Providing immediate punishment for relapse behavior to deter future "
 "occurrences."
-msgstr ""
+msgstr "B) Poskytování okamžitého trestu za recidivující chování, aby se zabránilo budoucím událostem."
 
 #: .\templates\relapse-management.html:56
 msgid ""
 "C) Helping individuals develop strategies to recognize warning signs and "
 "prevent a return to the problematic behavior."
-msgstr ""
+msgstr "C) Pomoc jednotlivcům vyvinout strategie, jak rozpoznat varovné signály a zabránit návratu k problematickému chování."
 
 #: .\templates\relapse-management.html:63
 msgid ""
 "D) Ignoring relapse incidents entirely to avoid triggering feelings of guilt "
 "or shame in individuals undergoing recovery."
-msgstr ""
+msgstr "D) Úplně ignorujte případy relapsu, abyste se vyhnuli vyvolání pocitů viny nebo hanby u jedinců, kteří se zotavují."
 
 #: .\templates\relapse-triggers.html:10
 msgid "Triggers of Relapse"
-msgstr ""
+msgstr "Spouštěče Relapsu"
 
 #: .\templates\relapse-triggers.html:22
 msgid ""
@@ -386,79 +386,79 @@ msgid ""
 "triggers can be internal (thoughts, emotions, physical sensations) or "
 "external (people, places, situations) and often provoke strong cravings or "
 "urges to return to the problematic behavior."
-msgstr ""
+msgstr "Spouštěče recidivy se týkají faktorů nebo okolností, které zvyšují pravděpodobnost návratu jedince do předchozího stavu nezdravého chování nebo závislosti po období zlepšení nebo zotavení. Tyto spouštěče mohou být vnitřní (myšlenky, emoce, fyzické vjemy) nebo vnější (lidé, místa, situace) a často vyvolávají silné touhy nebo nutkání vrátit se k problematickému chování."
 
 #: .\templates\relapse-triggers.html:23
 msgid "Common triggers of relapse include:"
-msgstr ""
+msgstr "Mezi běžné spouštěče relapsu patří:"
 
 #: .\templates\relapse-triggers.html:27
 msgid ""
 "Stress: High levels of stress from work, relationships, or life changes can "
 "lead to relapse."
-msgstr ""
+msgstr "Stres: Vysoká míra stresu z práce, vztahů nebo životních změn může vést k relapsu."
 
 #: .\templates\relapse-triggers.html:28
 msgid ""
 "Negative Emotions: Feelings of sadness, anger, frustration, or loneliness "
 "can act as triggers."
-msgstr ""
+msgstr "Negativní emoce: Pocity smutku, hněvu, frustrace nebo osamělosti mohou působit jako spouštěče."
 
 #: .\templates\relapse-triggers.html:29
 msgid ""
 "Environmental Cues: Being in places or situations associated with the past "
 "problematic behavior, like bars for alcoholics or certain neighborhoods for "
 "former drug users."
-msgstr ""
+msgstr "Environmentální podněty: Být na místech nebo v situacích spojených s minulým problematickým chováním, jako jsou bary pro alkoholiky nebo určité čtvrti pro bývalé uživatele drog."
 
 #: .\templates\relapse-triggers.html:30
 msgid ""
 "Social Pressure: Influence from friends or family members who engage in "
 "problematic behavior or don\\"
-msgstr ""
+msgstr "Sociální tlak: Vliv přátel nebo rodinných příslušníků, kteří se zapojují do problematického chování nebo ne."
 
 #: .\templates\relapse-triggers.html:31
 msgid ""
 "Positive Emotions: Celebratory moments or a sense of overconfidence in one\\"
-msgstr ""
+msgstr "Pozitivní emoce: Slavnostní okamžiky nebo pocit přehnané důvěry v jednoho\\"
 
 #: .\templates\relapse-triggers.html:32
 msgid ""
 "Boredom: Lack of engaging activities or hobbies can lead to a desire to "
 "revert to old behaviors."
-msgstr ""
+msgstr "Nuda: Nedostatek poutavých aktivit nebo koníčků může vést k touze vrátit se ke starému chování."
 
 #: .\templates\relapse-triggers.html:33
 msgid ""
 "Physical Discomfort: Pain or illness can trigger a relapse, especially if "
 "the behavior was a way to cope with these feelings."
-msgstr ""
+msgstr "Fyzické nepohodlí: Bolest nebo nemoc mohou vyvolat recidivu, zvláště pokud bylo chování způsobem, jak se s těmito pocity vyrovnat."
 
 #: .\templates\relapse-triggers.html:41
 msgid ""
 "Question: Which of the following is NOT commonly considered a trigger for "
 "relapse in individuals recovering from addiction or unhealthy behaviors?"
-msgstr ""
+msgstr "Otázka: Které z následujících NENÍ běžně považováno za spouštěč recidivy u jedinců, kteří se zotavují ze závislosti nebo nezdravého chování?"
 
 #: .\templates\relapse-triggers.html:45
 msgid "A) High levels of stress from work or personal life"
-msgstr ""
+msgstr "A) Vysoká míra stresu z pracovního nebo osobního života"
 
 #: .\templates\relapse-triggers.html:52
 msgid "B) Consistently practicing healthy coping mechanisms"
-msgstr ""
+msgstr "B) Důsledně procvičovat zdravé mechanismy zvládání"
 
 #: .\templates\relapse-triggers.html:58
 msgid "C) Celebratory moments or a sense of overconfidence"
-msgstr ""
+msgstr "C) Slavnostní okamžiky nebo pocit přílišné sebedůvěry"
 
 #: .\templates\relapse-triggers.html:66
 msgid "D) Lack of engagement in activities or hobbies"
-msgstr ""
+msgstr "D) Nedostatek zapojení do aktivit nebo koníčků"
 
 #: .\templates\relapse-warnings.html:10
 msgid "Warnings of Relapse"
-msgstr ""
+msgstr "Varování před relapsem"
 
 #: .\templates\relapse-warnings.html:17
 msgid ""
@@ -467,73 +467,73 @@ msgid ""
 "risk of returning to that behavior. Recognizing these warnings can help the "
 "individual or their support network take proactive steps to prevent a full "
 "relapse."
-msgstr ""
+msgstr "Varování před recidivou se týkají časných známek nebo indikátorů, že jedinec, který se zotavuje z duševní choroby nebo nezdravého chování, může být vystaven riziku návratu k tomuto chování. Rozpoznání těchto varování může pomoci jednotlivci nebo jeho podpůrné síti podniknout proaktivní kroky k zabránění úplnému relapsu."
 
 #: .\templates\relapse-warnings.html:18
 msgid "Common warnings of relapse include:"
-msgstr ""
+msgstr "Mezi běžná varování před relapsem patří:"
 
 #: .\templates\relapse-warnings.html:21
 msgid ""
 "Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, "
 "or reverting to old habits."
-msgstr ""
+msgstr "Změny v chování: Náhlé posuny v rutině, zanedbávání povinností nebo návrat ke starým návykům."
 
 #: .\templates\relapse-warnings.html:22
 msgid ""
 "Emotional Instability: Increased irritability, anxiety, depression, or mood "
 "swings."
-msgstr ""
+msgstr "Emoční nestabilita: Zvýšená podrážděnost, úzkost, deprese nebo změny nálad."
 
 #: .\templates\relapse-warnings.html:23
 msgid ""
 "Social Withdrawal: Avoiding support groups, family, or friends who are "
 "supportive of recovery."
-msgstr ""
+msgstr "Sociální stažení: Vyhýbejte se podpůrným skupinám, rodině nebo přátelům, kteří podporují zotavení."
 
 #: .\templates\relapse-warnings.html:24
 msgid ""
 "Negative Thinking: Engaging in self-defeating thoughts or rationalizing that "
 "one can control the behavior."
-msgstr ""
+msgstr "Negativní myšlení: Zapojování se do sebeporážejících myšlenek nebo racionalizace, že člověk může ovládat své chování."
 
 #: .\templates\relapse-warnings.html:25
 msgid ""
 "Loss of Interest: Losing interest in activities that were once enjoyable or "
 "helpful in recovery."
-msgstr ""
+msgstr "Ztráta zájmu: Ztráta zájmu o činnosti, které byly kdysi příjemné nebo užitečné při zotavování."
 
 #: .\templates\relapse-warnings.html:26
 msgid "Physical Signs: Changes in sleep patterns, appetite, or overall health."
-msgstr ""
+msgstr "Fyzické příznaky: Změny ve spánkových vzorcích, chuti k jídlu nebo celkovém zdraví."
 
 #: .\templates\relapse-warnings.html:27
 msgid ""
 "Cravings or Urges: Increasing thoughts or desires to engage in the addictive "
 "behavior."
-msgstr ""
+msgstr "Touhy nebo nutkání: Zvyšující se myšlenky nebo touhy zapojit se do návykového chování."
 
 #: .\templates\relapse-warnings.html:34
 msgid ""
 "Question: Which of the following is a subtle but significant warning sign of "
 "a potential relapse in someone recovering from mental illness?"
-msgstr ""
+msgstr "Otázka: Která z následujících možností je nenápadným, ale významným varovným signálem možného relapsu u někoho, kdo se zotavuje z duševní choroby?"
 
 #: .\templates\relapse-warnings.html:38
 msgid "A) Participating more actively in social gatherings"
-msgstr ""
+msgstr "A) Aktivnější účast na společenských setkáních"
 
 #: .\templates\relapse-warnings.html:44
 msgid "B) Developing a new hobby or interest"
-msgstr ""
+msgstr "B) Rozvoj nového koníčku nebo zájmu"
 
 #: .\templates\relapse-warnings.html:52
 msgid "C) Expressing overconfidence in their ability to handle triggers"
-msgstr ""
+msgstr "C) Vyjadřování přílišné sebedůvěry v jejich schopnost zvládnout spouštěče"
 
 #: .\templates\relapse-warnings.html:59
 msgid "D) Consistently following a structured daily routine"
-msgstr ""
+msgstr "D) Důsledně dodržovat strukturovaný denní režim"
 
 #: .\templates\relapse.html:22
 msgid ""
@@ -545,90 +545,90 @@ msgid ""
 "biological changes. Understanding relapse is crucial for developing "
 "effective long-term treatment and management strategies for chronic "
 "conditions."
-msgstr ""
+msgstr "Relaps je návrat symptomů nebo chování po období zlepšení nebo zotavení. Tento termín se běžně používá v souvislosti s chronickými nemocemi, poruchami duševního zdraví a zotavením ze závislosti. Recidiva může nastat, i když se člověk už nějakou dobu cítí dobře. Relaps mohou vyvolat různé faktory, včetně stresu, vlivů prostředí nebo dokonce biologických změn. Pochopení relapsu je klíčové pro vývoj efektivní dlouhodobé léčby a strategií managementu chronických stavů."
 
 #: .\templates\relapse.html:27
 msgid ""
 "Question: Which of the following is NOT typically considered a risk factor "
 "for relapse in individuals recovering from major depressive disorder?"
-msgstr ""
+msgstr "Otázka: Který z následujících NENÍ typicky považován za rizikový faktor pro relaps u jedinců zotavujících se z těžké depresivní poruchy?"
 
 #: .\templates\relapse.html:31
 msgid "A) High levels of ongoing stress"
-msgstr ""
+msgstr "A) Vysoká úroveň trvalého stresu"
 
 #: .\templates\relapse.html:37
 msgid "B) Lack of social support"
-msgstr ""
+msgstr "B) Nedostatek sociální opory"
 
 #: .\templates\relapse.html:45
 msgid "C) Non-adherence to prescribed medication"
-msgstr ""
+msgstr "C) Nedodržování předepsané medikace"
 
 #: .\templates\relapse.html:52
 msgid "D) Regular physical exercise"
-msgstr ""
+msgstr "D) Pravidelné fyzické cvičení"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
 msgid "Cognitive Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Kognitivní příznaky schizofrenie"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:22
 msgid ""
 "Cognitive symptoms of schizophrenia refer to problems with the mental "
 "processes involved in gaining knowledge and comprehension. These symptoms "
 "affect a person\\"
-msgstr ""
+msgstr "Kognitivní příznaky schizofrenie se týkají problémů s mentálními procesy, které se podílejí na získávání znalostí a porozumění. Tyto příznaky ovlivňují člověka\\"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:26
 msgid ""
 "Impaired Working Memory: Difficulty holding and manipulating information "
 "over short periods, which affects the ability to follow instructions or "
 "complete tasks."
-msgstr ""
+msgstr "Zhoršená pracovní paměť: Potíže s udržováním a manipulací s informacemi v krátkém časovém období, což ovlivňuje schopnost dodržovat pokyny nebo dokončit úkoly."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:27
 msgid ""
 "Poor Executive Functioning: Problems with planning, organizing, and problem-"
 "solving. This can lead to difficulties in managing everyday activities and "
 "making decisions."
-msgstr ""
+msgstr "Špatné výkonné fungování: Problémy s plánováním, organizací a řešením problémů. To může vést k potížím při zvládání každodenních činností a rozhodování."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:28
 msgid ""
 "Attention Deficits: Trouble focusing or paying attention, which can make it "
 "hard to concentrate on tasks or conversations."
-msgstr ""
+msgstr "Nedostatky pozornosti: Potíže se zaměřením nebo věnováním pozornosti, které mohou ztěžovat soustředění na úkoly nebo konverzace."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:35
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
 "associated with schizophrenia?"
-msgstr ""
+msgstr "Otázka: Který z následujících kognitivních symptomů NENÍ běžně spojován se schizofrenií?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:39
 msgid "A) Impaired attention"
-msgstr ""
+msgstr "A) Snížená pozornost"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:45
 msgid "B) Poor executive functioning"
-msgstr ""
+msgstr "B) Špatné fungování exekutivy"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:52
 msgid "C) Enhanced memory recall"
-msgstr ""
+msgstr "C) Vylepšené vyvolání paměti"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:59
 msgid "D) Difficulty with working memory"
-msgstr ""
+msgstr "D) Potíže s pracovní pamětí"
 
 #: .\templates\schizophrenia-end.html:10
 msgid "Schizophrenia"
-msgstr ""
+msgstr "Schizofrenie"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
 msgid "Negative Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Negativní příznaky schizofrenie"
 
 #: .\templates\schizophrenia-negative-symptoms.html:22
 msgid ""
@@ -636,72 +636,72 @@ msgid ""
 "normal behaviors and functions that are usually present in healthy "
 "individuals. These symptoms reflect a loss of abilities and can "
 "significantly impair a person\\"
-msgstr ""
+msgstr "Negativní příznaky schizofrenie Negativní příznaky schizofrenie se týkají nepřítomnosti nebo omezení normálního chování a funkcí, které jsou obvykle přítomny u zdravých jedinců. Tyto příznaky odrážejí ztrátu schopností a mohou člověka výrazně poškodit\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:26
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person\\"
-msgstr ""
+msgstr "Snížený projev emocí: Také známý jako plochý afekt, je to místo, kde člověk\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:27
 msgid ""
 "Reduced feelings of pleasure in everyday life: This refers to anhedonia, "
 "where the individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "Snížené pocity potěšení v každodenním životě: To se týká anhedonie, kdy jedinec zažívá sníženou schopnost cítit potěšení z činností, které byly kdysi příjemné."
 
 #: .\templates\schizophrenia-negative-symptoms.html:28
 msgid ""
 "Difficulty beginning and sustaining activities: Known as avolition, this is "
 "characterized by a lack of motivation to start or maintain tasks, including "
 "everyday activities."
-msgstr ""
+msgstr "Obtížné zahájení a udržení činností: Známé jako avolition, je charakterizováno nedostatkem motivace k zahájení nebo udržení úkolů, včetně každodenních činností."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced speaking: Also called alogia, this involves a significant reduction "
 "in the amount and content of speech, often resulting in brief and empty "
 "replies."
-msgstr ""
+msgstr "Omezené mluvení: Nazývá se také alogie, což zahrnuje významné snížení množství a obsahu řeči, což často vede ke krátkým a prázdným odpovědím."
 
 #: .\templates\schizophrenia-negative-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
 "schizophrenia known as avolition?"
-msgstr ""
+msgstr "Otázka: Která z následujících možností nejlépe popisuje negativní symptom schizofrenie známý jako avolition?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:40
 msgid ""
 "A) The individual has difficulty beginning and sustaining activities, "
 "showing a lack of motivation for tasks including daily routines."
-msgstr ""
+msgstr "A) Jednotlivec má potíže se zahájením a udržením činností, projevuje nedostatek motivace pro úkoly včetně denních rutin."
 
 #: .\templates\schizophrenia-negative-symptoms.html:46
 msgid "B) A person\\"
-msgstr ""
+msgstr "B) Osoba\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:53
 msgid ""
 "C) The individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "C) Jedinec zažívá sníženou schopnost cítit potěšení z činností, které byly kdysi příjemné."
 
 #: .\templates\schizophrenia-negative-symptoms.html:60
 msgid ""
 "D) The individual has a significant reduction in the amount and content of "
 "speech, often resulting in brief and empty replies."
-msgstr ""
+msgstr "D) Jednotlivec má výrazné snížení množství a obsahu řeči, což často vede ke krátkým a prázdným odpovědím."
 
 #: .\templates\schizophrenia-negative-symptoms.html:67
 msgid ""
 "E) The individual withdraws from social interactions and prefers to be "
 "alone, avoiding social situations."
-msgstr ""
+msgstr "E) Jedinec se stahuje ze sociálních interakcí a dává přednost samotě, vyhýbá se sociálním situacím."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
 msgid "Positive Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Pozitivní příznaky schizofrenie"
 
 #: .\templates\schizophrenia-positive-symptoms.html:22
 msgid ""
@@ -710,118 +710,118 @@ msgid ""
 "distortion of normal functions. They are called positive not because they "
 "are beneficial, but because they add something to the persons mental state "
 "that should not be there."
-msgstr ""
+msgstr "Pozitivní příznaky se týkají přítomnosti chování nebo zážitků, které se ve zdraví obvykle nevyskytují. Tyto příznaky představují nadbytek nebo narušení normálních funkcí. Říká se jim pozitivní ne proto, že jsou prospěšné, ale proto, že přidávají k duševnímu stavu člověka něco, co by tam nemělo být."
 
 #: .\templates\schizophrenia-positive-symptoms.html:26
 msgid ""
 "Hallucinations: These are false sensory perceptions that occur without any "
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren\\"
-msgstr ""
+msgstr "Halucinace: Jde o falešné smyslové vjemy, ke kterým dochází bez jakýchkoliv vnějších podnětů. Může se například stát, že jednotlivec slyší hlasy nebo vidí věci, které nejsou\\"
 
 #: .\templates\schizophrenia-positive-symptoms.html:27
 msgid ""
 "Delusions: These are strong, false beliefs that are not based in reality. "
 "For instance, a person might believe they have special powers, or they might "
 "think they are being persecuted or watched."
-msgstr ""
+msgstr "Bludy: Jsou to silná, falešná přesvědčení, která nejsou založena na skutečnosti. Někdo může například věřit, že má zvláštní schopnosti, nebo si může myslet, že je pronásledován nebo sledován."
 
 #: .\templates\schizophrenia-positive-symptoms.html:28
 msgid ""
 "Thought Disorders: These involve unusual or dysfunctional ways of thinking. "
 "A person might have trouble organizing their thoughts or connecting them "
 "logically."
-msgstr ""
+msgstr "Poruchy myšlení: Zahrnují neobvyklé nebo dysfunkční způsoby myšlení. Člověk může mít problém uspořádat své myšlenky nebo je logicky propojit."
 
 #: .\templates\schizophrenia-positive-symptoms.html:29
 msgid ""
 "Movement Disorders: These can include a variety of abnormal motor behaviors. "
 "This might involve repetitive movements or, conversely, catatonia, which is "
 "a state of immobility and unresponsiveness."
-msgstr ""
+msgstr "Pohybové poruchy: Mohou zahrnovat různé abnormální motorické chování. To může zahrnovat opakované pohyby nebo naopak katatonii, což je stav nehybnosti a nereagování."
 
 #: .\templates\schizophrenia-positive-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
 "symptoms of schizophrenia?"
-msgstr ""
+msgstr "Otázka: Které z následujících tvrzení správně popisuje pozitivní příznaky schizofrenie?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:40
 msgid ""
 "A) Hallucinations: These involve sensory experiences without external "
 "stimuli, such as hearing voices or seeing things that are not there."
-msgstr ""
+msgstr "A) Halucinace: Jedná se o smyslové zážitky bez vnějších podnětů, jako je slyšení hlasů nebo vidění věcí, které tam nejsou."
 
 #: .\templates\schizophrenia-positive-symptoms.html:46
 msgid ""
 "B) Delusions: These are weakly held false beliefs that are based in reality, "
 "such as thinking that one is occasionally being followed."
-msgstr ""
+msgstr "B) Přeludy: Jsou to slabě zastávaná falešná přesvědčení, která jsou založena na realitě, jako je domněnka, že někdo je občas následován."
 
 #: .\templates\schizophrenia-positive-symptoms.html:53
 msgid ""
 "C) Thought Disorders: These involve highly organized and logical ways of "
 "thinking that enhance a person’s cognitive functions."
-msgstr ""
+msgstr "C) Poruchy myšlení: Zahrnují vysoce organizované a logické způsoby myšlení, které zlepšují kognitivní funkce člověka."
 
 #: .\templates\schizophrenia-positive-symptoms.html:60
 msgid ""
 "D) Movement Disorders: These include both agitated body movements and "
 "catatonia, which is characterized by excessive physical activity."
-msgstr ""
+msgstr "D) Pohybové poruchy: Patří sem jak rozrušené pohyby těla, tak katatonie, která se vyznačuje nadměrnou fyzickou aktivitou."
 
 #: .\templates\schizophrenia-symptoms.html:10
 msgid "Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Příznaky schizofrenie"
 
 #: .\templates\schizophrenia-symptoms.html:22
 msgid ""
 "Symptoms of schizophrenia can be broadly categorized into three groups: "
 "positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
+msgstr "Symptomy schizofrenie lze obecně rozdělit do tří skupin: pozitivní symptomy, negativní symptomy a kognitivní symptomy."
 
 #: .\templates\schizophrenia-symptoms.html:26
 msgid ""
 "Positive symptoms include additional things that others do not have like "
 "hearing voices, seeing things that are not there etc."
-msgstr ""
+msgstr "Pozitivní příznaky zahrnují další věci, které ostatní nemají, jako je slyšet hlasy, vidět věci, které tam nejsou atd."
 
 #: .\templates\schizophrenia-symptoms.html:27
 msgid ""
 "Negative symptoms could be loss of something such as ability to feel joy."
-msgstr ""
+msgstr "Negativní příznaky mohou být ztráta něčeho, jako je schopnost cítit radost."
 
 #: .\templates\schizophrenia-symptoms.html:28
 msgid ""
 "Cognitive symptoms are related to changes in memory or other aspects of "
 "thinking."
-msgstr ""
+msgstr "Kognitivní symptomy souvisejí se změnami paměti nebo jiných aspektů myšlení."
 
 #: .\templates\schizophrenia-symptoms.html:35
 msgid ""
 "Which categorization distinguishes the symptoms of schizophrenia based on "
 "their characteristics?"
-msgstr ""
+msgstr "Která kategorizace rozlišuje příznaky schizofrenie na základě jejich charakteristik?"
 
 #: .\templates\schizophrenia-symptoms.html:39
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
-msgstr ""
+msgstr "A) Primární příznaky, sekundární příznaky, terciární příznaky."
 
 #: .\templates\schizophrenia-symptoms.html:45
 msgid "B) Active symptoms, passive symptoms, cognitive symptoms."
-msgstr ""
+msgstr "B) Aktivní symptomy, pasivní symptomy, kognitivní symptomy."
 
 #: .\templates\schizophrenia-symptoms.html:52
 msgid "C) Manifest symptoms, latent symptoms, residual symptoms."
-msgstr ""
+msgstr "C) Manifestní příznaky, latentní příznaky, reziduální příznaky."
 
 #: .\templates\schizophrenia-symptoms.html:59
 msgid "D) Positive symptoms, negative symptoms, cognitive symptoms."
-msgstr ""
+msgstr "D) Pozitivní symptomy, negativní symptomy, kognitivní symptomy."
 
 #: .\templates\schizophrenia.html:10
 msgid "schizophrenia"
-msgstr ""
+msgstr "schizofrenie"
 
 #: .\templates\schizophrenia.html:22
 msgid ""
@@ -829,36 +829,36 @@ msgid ""
 "person thinks, feels, and behaves. When someone has schizophrenia it can "
 "seem like they have lost touch with reality, which can be distressing for "
 "them and for those around them. "
-msgstr ""
+msgstr "Schizofrenie je chronická a závažná duševní porucha, která ovlivňuje to, jak člověk myslí, cítí a chová se. Když má někdo schizofrenii, může se zdát, že ztratil kontakt s realitou, což může být pro něj i pro jeho okolí znepokojující."
 
 #: .\templates\schizophrenia.html:28
 msgid "Which of the following best characterizes schizophrenia?"
-msgstr ""
+msgstr "Která z následujících charakteristik nejlépe charakterizuje schizofrenii?"
 
 #: .\templates\schizophrenia.html:32
 msgid "A) A temporary mental disorder caused by stress"
-msgstr ""
+msgstr "A) Dočasná duševní porucha způsobená stresem"
 
 #: .\templates\schizophrenia.html:38
 msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr ""
+msgstr "B) Chronický stav ovlivňující myšlení, cítění a chování"
 
 #: .\templates\schizophrenia.html:46
 msgid "C) A physical illness with visible symptoms"
-msgstr ""
+msgstr "C) Fyzické onemocnění s viditelnými příznaky"
 
 #: .\templates\schizophrenia.html:53
 msgid "D) A mood disorder primarily marked by extreme sadness"
-msgstr ""
+msgstr "D) Porucha nálady primárně charakterizovaná extrémním smutkem"
 
 #: .\views.py:8 .\views.py:15 .\views.py:22 .\views.py:29 .\views.py:36
 #: .\views.py:43 .\views.py:55 .\views.py:62 .\views.py:69 .\views.py:76
 #: .\views.py:83 .\views.py:90
 msgid "<strong>Incorrect</strong><br>You have selected an incorrect option."
-msgstr ""
+msgstr "<strong>Nesprávné</strong><br>Vybrali jste nesprávnou možnost."
 
 #: .\views.py:9 .\views.py:16 .\views.py:23 .\views.py:30 .\views.py:37
 #: .\views.py:44 .\views.py:56 .\views.py:63 .\views.py:70 .\views.py:77
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
-msgstr ""
+msgstr "<strong>Správně</strong><br>Vybrali jste správnou možnost."
