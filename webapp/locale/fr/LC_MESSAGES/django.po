@@ -20,7 +20,7 @@ msgstr ""
 
 #: .\templates\base.html:22
 msgid "Health Course"
-msgstr ""
+msgstr "Cours de santé"
 
 #: .\templates\course-end.html:10
 msgid "Congratulations!"
