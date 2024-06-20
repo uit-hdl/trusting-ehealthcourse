@@ -10,11 +10,15 @@
 	  <div class="card-header"> <h1>{% trans 'Relapse' %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-5">
-	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-relapse.png' %}" height="400">{% endif %}
+
+	  		<img src="{% static 'images/'|add:LANGUAGE_CODE|add:'-relapse.png' %}" height="400">
+
+
+	  		<!-- {% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-relapse.png' %}" height="400">{% endif %}
 	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-relapse.png' %}" height="400">{% endif %}
 	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-relapse.png' %}" height="400">{% endif %}
 	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-relapse.png' %}" height="400">{% endif %}
-	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-relapse.png' %}" height="400">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-relapse.png' %}" height="400">{% endif %} -->
 	  		
 	  	</div>
 

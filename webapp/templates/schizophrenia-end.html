@@ -10,11 +10,14 @@
 	  <div class="card-header"> <h1>{% trans 'Schizophrenia' %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
-	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-schizophrenia-end.png' %}" height="500">{% endif %}
+
+	  		<img src="{% static 'images/'|add:LANGUAGE_CODE|add:'-schizophrenia-end.png' %}" height="400">
+
+	  		<!-- {% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-schizophrenia-end.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-schizophrenia-end.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-schizophrenia-end.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-schizophrenia-end.png' %}" height="500">{% endif %}
-	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-schizophrenia-end.png' %}" height="500">{% endif %}
+	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-schizophrenia-end.png' %}" height="500">{% endif %} -->
 	  		
 	  	</div>
 
