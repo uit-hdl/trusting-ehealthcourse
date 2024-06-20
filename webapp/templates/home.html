@@ -10,13 +10,16 @@
 	  <div class="card-header"> <h1>{% trans 'Course Objectives' %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
-	  		{% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-courese-objectives.png' %}" height="500">{% endif %}
+
+	  		<img src="{% static 'images/'|add:LANGUAGE_CODE|add:'-courese-objectives.png' %}" height="400">
+
+	  		<!-- {% if LANGUAGE_CODE == "en" %}<img src="{% static 'images/en-courese-objectives.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "fr" %}<img src="{% static 'images/fr-courese-objectives.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "de" %}<img src="{% static 'images/de-courese-objectives.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "nl" %}<img src="{% static 'images/nl-courese-objectives.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "cs" %}<img src="{% static 'images/cs-courese-objectives.png' %}" height="500">{% endif %}
 	  		{% if LANGUAGE_CODE == "tr" %}<img src="{% static 'images/tr-courese-objectives.png' %}" height="500">{% endif %}
-	  		
+	  		 -->
 	  	</div>
 
 	    <h2 class="card-text mt-5">{% trans 'This brief course has three primary goals:' %}</h2>
@@ -34,8 +37,6 @@
 <div class="container text-end mt-3">
 	<a href="{% url 'schizophrenia' %}" class="btn btn-primary nextbtn" role="button">{% trans 'Start Course' %}</a>
 </div>
-
-{%  include 'tellme/js_inc.html' %}
 
 
 {% endblock content %}
