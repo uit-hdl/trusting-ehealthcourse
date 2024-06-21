@@ -591,43 +591,43 @@ msgid ""
 "Poor Executive Functioning: Problems with planning, organizing, and problem-"
 "solving. This can lead to difficulties in managing everyday activities and "
 "making decisions."
-msgstr ""
+msgstr "Slecht uitvoerend functioneren: problemen met plannen, organiseren en probleemoplossing. Dit kan leiden tot problemen bij het beheren van dagelijkse activiteiten en het nemen van beslissingen."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:28
 msgid ""
 "Attention Deficits: Trouble focusing or paying attention, which can make it "
 "hard to concentrate on tasks or conversations."
-msgstr ""
+msgstr "Aandachtstekorten: problemen met concentreren of opletten, waardoor het moeilijk kan worden om zich te concentreren op taken of gesprekken."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:35
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
 "associated with schizophrenia?"
-msgstr ""
+msgstr "Vraag: Welke van de volgende cognitieve symptomen wordt NIET vaak geassocieerd met schizofrenie?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:39
 msgid "A) Impaired attention"
-msgstr ""
+msgstr "A) Verminderde aandacht"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:45
 msgid "B) Poor executive functioning"
-msgstr ""
+msgstr "B) Slecht uitvoerend functioneren"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:52
 msgid "C) Enhanced memory recall"
-msgstr ""
+msgstr "C) Verbeterde geheugenoproep"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:59
 msgid "D) Difficulty with working memory"
-msgstr ""
+msgstr "D) Moeilijkheden met werkgeheugen"
 
 #: .\templates\schizophrenia-end.html:10
 msgid "Schizophrenia"
-msgstr ""
+msgstr "Schizofrenie"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
 msgid "Negative Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Negatieve symptomen van schizofrenie"
 
 #: .\templates\schizophrenia-negative-symptoms.html:22
 msgid ""
@@ -635,72 +635,72 @@ msgid ""
 "normal behaviors and functions that are usually present in healthy "
 "individuals. These symptoms reflect a loss of abilities and can "
 "significantly impair a person\\"
-msgstr ""
+msgstr "Negatieve symptomen van schizofrenie verwijzen naar de afwezigheid of vermindering van normaal gedrag en normale functies die gewoonlijk aanwezig zijn bij gezonde individuen. Deze symptomen weerspiegelen een verlies van vaardigheden en kunnen een persoon aanzienlijk schaden\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:26
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person\\"
-msgstr ""
+msgstr "Verminderde expressie van emoties: Dit is ook wel bekend als vlak affect, dit is waar een persoon\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:27
 msgid ""
 "Reduced feelings of pleasure in everyday life: This refers to anhedonia, "
 "where the individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "Verminderde gevoelens van plezier in het dagelijks leven: Dit verwijst naar anhedonie, waarbij het individu een verminderd vermogen ervaart om plezier te voelen bij activiteiten die ooit plezierig waren."
 
 #: .\templates\schizophrenia-negative-symptoms.html:28
 msgid ""
 "Difficulty beginning and sustaining activities: Known as avolition, this is "
 "characterized by a lack of motivation to start or maintain tasks, including "
 "everyday activities."
-msgstr ""
+msgstr "Moeilijkheden bij het starten en volhouden van activiteiten: Dit staat bekend als avolitie en wordt gekenmerkt door een gebrek aan motivatie om taken te starten of vol te houden, inclusief dagelijkse activiteiten."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced speaking: Also called alogia, this involves a significant reduction "
 "in the amount and content of speech, often resulting in brief and empty "
 "replies."
-msgstr ""
+msgstr "Verminderd spreken: Ook wel alogia genoemd, dit houdt een aanzienlijke vermindering in van de hoeveelheid en de inhoud van de spraak, wat vaak resulteert in korte en lege antwoorden."
 
 #: .\templates\schizophrenia-negative-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
 "schizophrenia known as avolition?"
-msgstr ""
+msgstr "Vraag: Welke van de volgende omschrijvingen beschrijft het beste het negatieve symptoom van schizofrenie, bekend als avolitie?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:40
 msgid ""
 "A) The individual has difficulty beginning and sustaining activities, "
 "showing a lack of motivation for tasks including daily routines."
-msgstr ""
+msgstr "A) Het individu heeft moeite met het starten en volhouden van activiteiten, wat blijk geeft van een gebrek aan motivatie voor taken, waaronder dagelijkse routines."
 
 #: .\templates\schizophrenia-negative-symptoms.html:46
 msgid "B) A person\\"
-msgstr ""
+msgstr "B) Een persoon\\"
 
 #: .\templates\schizophrenia-negative-symptoms.html:53
 msgid ""
 "C) The individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr ""
+msgstr "Het individu ervaart een verminderd vermogen om plezier te beleven aan activiteiten die ooit plezierig waren."
 
 #: .\templates\schizophrenia-negative-symptoms.html:60
 msgid ""
 "D) The individual has a significant reduction in the amount and content of "
 "speech, often resulting in brief and empty replies."
-msgstr ""
+msgstr "D) Het individu heeft een aanzienlijke vermindering van de hoeveelheid en de inhoud van de spraak, wat vaak resulteert in korte en lege antwoorden."
 
 #: .\templates\schizophrenia-negative-symptoms.html:67
 msgid ""
 "E) The individual withdraws from social interactions and prefers to be "
 "alone, avoiding social situations."
-msgstr ""
+msgstr "E) Het individu trekt zich terug uit sociale interacties en is het liefst alleen, waarbij hij sociale situaties vermijdt."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
 msgid "Positive Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Positieve symptomen van schizofrenie"
 
 #: .\templates\schizophrenia-positive-symptoms.html:22
 msgid ""
@@ -709,118 +709,118 @@ msgid ""
 "distortion of normal functions. They are called positive not because they "
 "are beneficial, but because they add something to the persons mental state "
 "that should not be there."
-msgstr ""
+msgstr "Positieve symptomen verwijzen naar de aanwezigheid van gedrag of ervaringen die normaal gesproken niet aanwezig zijn als ze gezond zijn. Deze symptomen vertegenwoordigen een overmaat of vervorming van de normale functies. Ze worden niet positief genoemd omdat ze heilzaam zijn, maar omdat ze iets toevoegen aan de mentale toestand van de persoon dat er niet zou moeten zijn."
 
 #: .\templates\schizophrenia-positive-symptoms.html:26
 msgid ""
 "Hallucinations: These are false sensory perceptions that occur without any "
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren\\"
-msgstr ""
+msgstr "Hallucinaties: dit zijn valse zintuiglijke waarnemingen die plaatsvinden zonder externe stimuli. Het kan bijvoorbeeld zijn dat het individu stemmen hoort of dingen ziet die niet\\"
 
 #: .\templates\schizophrenia-positive-symptoms.html:27
 msgid ""
 "Delusions: These are strong, false beliefs that are not based in reality. "
 "For instance, a person might believe they have special powers, or they might "
 "think they are being persecuted or watched."
-msgstr ""
+msgstr "Wanen: dit zijn sterke, valse overtuigingen die niet op de werkelijkheid zijn gebaseerd. Iemand kan bijvoorbeeld denken dat hij speciale krachten heeft, of hij kan denken dat hij wordt vervolgd of in de gaten wordt gehouden."
 
 #: .\templates\schizophrenia-positive-symptoms.html:28
 msgid ""
 "Thought Disorders: These involve unusual or dysfunctional ways of thinking. "
 "A person might have trouble organizing their thoughts or connecting them "
 "logically."
-msgstr ""
+msgstr "Gedachtestoornissen: deze omvatten ongebruikelijke of disfunctionele manieren van denken. Iemand kan problemen hebben met het ordenen van zijn gedachten of het logisch verbinden ervan."
 
 #: .\templates\schizophrenia-positive-symptoms.html:29
 msgid ""
 "Movement Disorders: These can include a variety of abnormal motor behaviors. "
 "This might involve repetitive movements or, conversely, catatonia, which is "
 "a state of immobility and unresponsiveness."
-msgstr ""
+msgstr "Bewegingsstoornissen: deze kunnen een verscheidenheid aan abnormaal motorisch gedrag omvatten. Hierbij kan sprake zijn van repetitieve bewegingen of, omgekeerd, van catatonie, wat een toestand van immobiliteit en niet-reactiviteit is."
 
 #: .\templates\schizophrenia-positive-symptoms.html:36
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
 "symptoms of schizophrenia?"
-msgstr ""
+msgstr "Vraag: Welke van de volgende beweringen beschrijft correct de positieve symptomen van schizofrenie?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:40
 msgid ""
 "A) Hallucinations: These involve sensory experiences without external "
 "stimuli, such as hearing voices or seeing things that are not there."
-msgstr ""
+msgstr "A) Hallucinaties: hierbij gaat het om zintuiglijke ervaringen zonder externe prikkels, zoals het horen van stemmen of het zien van dingen die er niet zijn."
 
 #: .\templates\schizophrenia-positive-symptoms.html:46
 msgid ""
 "B) Delusions: These are weakly held false beliefs that are based in reality, "
 "such as thinking that one is occasionally being followed."
-msgstr ""
+msgstr "B) Waanvoorstellingen: dit zijn zwakke, valse overtuigingen die op de werkelijkheid zijn gebaseerd, zoals het denken dat iemand af en toe wordt gevolgd."
 
 #: .\templates\schizophrenia-positive-symptoms.html:53
 msgid ""
 "C) Thought Disorders: These involve highly organized and logical ways of "
 "thinking that enhance a person’s cognitive functions."
-msgstr ""
+msgstr "C) Denkstoornissen: deze omvatten zeer georganiseerde en logische manieren van denken die de cognitieve functies van een persoon verbeteren."
 
 #: .\templates\schizophrenia-positive-symptoms.html:60
 msgid ""
 "D) Movement Disorders: These include both agitated body movements and "
 "catatonia, which is characterized by excessive physical activity."
-msgstr ""
+msgstr "D) Bewegingsstoornissen: Deze omvatten zowel geagiteerde lichaamsbewegingen als catatonie, die wordt gekenmerkt door overmatige fysieke activiteit."
 
 #: .\templates\schizophrenia-symptoms.html:10
 msgid "Symptoms of Schizophrenia"
-msgstr ""
+msgstr "Symptomen van schizofrenie"
 
 #: .\templates\schizophrenia-symptoms.html:22
 msgid ""
 "Symptoms of schizophrenia can be broadly categorized into three groups: "
 "positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
+msgstr "Symptomen van schizofrenie kunnen grofweg in drie groepen worden onderverdeeld: positieve symptomen, negatieve symptomen en cognitieve symptomen."
 
 #: .\templates\schizophrenia-symptoms.html:26
 msgid ""
 "Positive symptoms include additional things that others do not have like "
 "hearing voices, seeing things that are not there etc."
-msgstr ""
+msgstr "Positieve symptomen omvatten extra dingen die anderen niet hebben, zoals het horen van stemmen, het zien van dingen die er niet zijn, enz."
 
 #: .\templates\schizophrenia-symptoms.html:27
 msgid ""
 "Negative symptoms could be loss of something such as ability to feel joy."
-msgstr ""
+msgstr "Negatieve symptomen kunnen het verlies van iets zijn, zoals het vermogen om vreugde te voelen."
 
 #: .\templates\schizophrenia-symptoms.html:28
 msgid ""
 "Cognitive symptoms are related to changes in memory or other aspects of "
 "thinking."
-msgstr ""
+msgstr "Cognitieve symptomen houden verband met veranderingen in het geheugen of andere aspecten van het denken."
 
 #: .\templates\schizophrenia-symptoms.html:35
 msgid ""
 "Which categorization distinguishes the symptoms of schizophrenia based on "
 "their characteristics?"
-msgstr ""
+msgstr "Welke categorisering onderscheidt de symptomen van schizofrenie op basis van hun kenmerken?"
 
 #: .\templates\schizophrenia-symptoms.html:39
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
-msgstr ""
+msgstr "A) Primaire symptomen, secundaire symptomen, tertiaire symptomen."
 
 #: .\templates\schizophrenia-symptoms.html:45
 msgid "B) Active symptoms, passive symptoms, cognitive symptoms."
-msgstr ""
+msgstr "B) Actieve symptomen, passieve symptomen, cognitieve symptomen."
 
 #: .\templates\schizophrenia-symptoms.html:52
 msgid "C) Manifest symptoms, latent symptoms, residual symptoms."
-msgstr ""
+msgstr "C) Manifeste symptomen, latente symptomen, restsymptomen."
 
 #: .\templates\schizophrenia-symptoms.html:59
 msgid "D) Positive symptoms, negative symptoms, cognitive symptoms."
-msgstr ""
+msgstr "D) Positieve symptomen, negatieve symptomen, cognitieve symptomen."
 
 #: .\templates\schizophrenia.html:10
 msgid "schizophrenia"
-msgstr ""
+msgstr "schizofrenie"
 
 #: .\templates\schizophrenia.html:22
 msgid ""
@@ -828,36 +828,36 @@ msgid ""
 "person thinks, feels, and behaves. When someone has schizophrenia it can "
 "seem like they have lost touch with reality, which can be distressing for "
 "them and for those around them. "
-msgstr ""
+msgstr "Schizofrenie is een chronische en ernstige psychische stoornis die invloed heeft op hoe iemand denkt, voelt en zich gedraagt. Wanneer iemand schizofrenie heeft, kan het lijken alsof hij of zij het contact met de werkelijkheid is kwijtgeraakt, wat verontrustend kan zijn voor hemzelf en voor de mensen om hem heen."
 
 #: .\templates\schizophrenia.html:28
 msgid "Which of the following best characterizes schizophrenia?"
-msgstr ""
+msgstr "Welke van de volgende karakteriseert schizofrenie het beste?"
 
 #: .\templates\schizophrenia.html:32
 msgid "A) A temporary mental disorder caused by stress"
-msgstr ""
+msgstr "A) Een tijdelijke psychische stoornis veroorzaakt door stress"
 
 #: .\templates\schizophrenia.html:38
 msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr ""
+msgstr "B) Een chronische aandoening die het denken, voelen en gedrag beïnvloedt"
 
 #: .\templates\schizophrenia.html:46
 msgid "C) A physical illness with visible symptoms"
-msgstr ""
+msgstr "C) Een lichamelijke ziekte met zichtbare symptomen"
 
 #: .\templates\schizophrenia.html:53
 msgid "D) A mood disorder primarily marked by extreme sadness"
-msgstr ""
+msgstr "D) Een stemmingsstoornis die voornamelijk wordt gekenmerkt door extreme droefheid"
 
 #: .\views.py:8 .\views.py:15 .\views.py:22 .\views.py:29 .\views.py:36
 #: .\views.py:43 .\views.py:55 .\views.py:62 .\views.py:69 .\views.py:76
 #: .\views.py:83 .\views.py:90
 msgid "<strong>Incorrect</strong><br>You have selected an incorrect option."
-msgstr ""
+msgstr "<strong>Onjuist</strong><br>U heeft een onjuiste optie geselecteerd."
 
 #: .\views.py:9 .\views.py:16 .\views.py:23 .\views.py:30 .\views.py:37
 #: .\views.py:44 .\views.py:56 .\views.py:63 .\views.py:70 .\views.py:77
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
-msgstr ""
+msgstr "<strong>Juist</strong><br>U heeft de juiste optie geselecteerd."
