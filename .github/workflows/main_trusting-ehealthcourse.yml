@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'trusting-ehealthcourse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38479B22B9C34FE882C16E1322BDA072 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9C4BABDAAC642188C822D8717DE1D41 }}
