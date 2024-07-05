@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Relapse' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Relapse" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-5">
 
@@ -23,22 +23,22 @@
 	  	</div>
 
 	  	<p>
-	  		{% trans 'Relapse is the return of symptoms or behaviors after a period of improvement or recovery. This term is commonly used in the context of chronic illnesses, mental health disorders, and addiction recovery. Relapse can happen even if the person has been feeling well for some time. Relapse can be triggered by various factors, including stress, environmental influences, or even biological changes. Understanding relapse is crucial for developing effective long-term treatment and management strategies for chronic conditions.' %}</p>
+	  		{% trans "Relapse is the return of symptoms or behaviors after a period of improvement or recovery. This term is commonly used in the context of chronic illnesses, mental health disorders, and addiction recovery. Relapse can happen even if the person has been feeling well for some time. Relapse can be triggered by various factors, including stress, environmental influences, or even biological changes. Understanding relapse is crucial for developing effective long-term treatment and management strategies for chronic conditions." %}</p>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans 'Question: Which of the following is NOT typically considered a risk factor for relapse in individuals recovering from major depressive disorder?' %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Question: Which of the following is NOT typically considered a risk factor for relapse in individuals recovering from major depressive disorder?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'A) High levels of ongoing stress' %}
+									{% trans "A) High levels of ongoing stress" %}
 								</label>
 							</div>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'B) Lack of social support' %}
+									{% trans "B) Lack of social support" %}
 								</label>
 							</div>
 							
@@ -46,14 +46,14 @@
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235243">
-									{% trans 'C) Non-adherence to prescribed medication' %}
+									{% trans "C) Non-adherence to prescribed medication" %}
 								</label>
 							</div>
 
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235240">
-									{% trans 'D) Regular physical exercise' %}
+									{% trans "D) Regular physical exercise" %}
 								</label>
 							</div>
 
@@ -67,10 +67,10 @@
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-end' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-end' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'relapse-characteristics' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'relapse-characteristics' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

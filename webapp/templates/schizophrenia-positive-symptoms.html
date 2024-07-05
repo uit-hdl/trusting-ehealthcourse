@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Positive Symptoms of Schizophrenia' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Positive Symptoms of Schizophrenia" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
 
@@ -22,45 +22,45 @@
 	  	</div>
 
 	  	<h6>
-	  		{% trans 'Positive Symptoms refer to the presence of behaviors or experiences that are not typically present when healthy. These symptoms represent an excess or distortion of normal functions. They are called positive not because they are beneficial, but because they add something to the persons mental state that should not be there.' %}
+	  		{% trans "Positive Symptoms refer to the presence of behaviors or experiences that are not typically present when healthy. These symptoms represent an excess or distortion of normal functions. They are called positive not because they are beneficial, but because they add something to the persons mental state that should not be there." %}
 	  	</h6>
 	  	<p>
 	    	<ol>
-				  <li>{% trans 'Hallucinations: These are false sensory perceptions that occur without any external stimuli. For example it might be that the individual hears voices or sees things that aren\'t actually present.' %}</li>
-				  <li>{% trans 'Delusions: These are strong, false beliefs that are not based in reality. For instance, a person might believe they have special powers, or they might think they are being persecuted or watched.' %}</li>
-				  <li>{% trans 'Thought Disorders: These involve unusual or dysfunctional ways of thinking. A person might have trouble organizing their thoughts or connecting them logically.' %}</li>
-				  <li>{% trans 'Movement Disorders: These can include a variety of abnormal motor behaviors. This might involve repetitive movements or, conversely, catatonia, which is a state of immobility and unresponsiveness.' %}</li>
+				  <li>{% trans "Hallucinations: These are false sensory perceptions that occur without any external stimuli. For example it might be that the individual hears voices or sees things that aren't actually present." %}</li>
+				  <li>{% trans "Delusions: These are strong, false beliefs that are not based in reality. For instance, a person might believe they have special powers, or they might think they are being persecuted or watched." %}</li>
+				  <li>{% trans "Thought Disorders: These involve unusual or dysfunctional ways of thinking. A person might have trouble organizing their thoughts or connecting them logically." %}</li>
+				  <li>{% trans "Movement Disorders: These can include a variety of abnormal motor behaviors. This might involve repetitive movements or, conversely, catatonia, which is a state of immobility and unresponsiveness." %}</li>
 				</ol>
 	    </p>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans 'Qeustion: Which of the following statements correctly describes the positive symptoms of schizophrenia?' %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Qeustion: Which of the following statements correctly describes the positive symptoms of schizophrenia?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235240">
-									{% trans 'A) Hallucinations: These involve sensory experiences without external stimuli, such as hearing voices or seeing things that are not there.' %}
+									{% trans "A) Hallucinations: These involve sensory experiences without external stimuli, such as hearing voices or seeing things that are not there." %}
 								</label>
 							</div>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'B) Delusions: These are weakly held false beliefs that are based in reality, such as thinking that one is occasionally being followed.' %}
+									{% trans "B) Delusions: These are weakly held false beliefs that are based in reality, such as thinking that one is occasionally being followed." %}
 								</label>
 							</div>
 						
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'C) Thought Disorders: These involve highly organized and logical ways of thinking that enhance a person’s cognitive functions.' %}
+									{% trans "C) Thought Disorders: These involve highly organized and logical ways of thinking that enhance a person’s cognitive functions." %}
 								</label>
 							</div>
 
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235243">
-									{% trans 'D) Movement Disorders: These include both agitated body movements and catatonia, which is characterized by excessive physical activity.' %}
+									{% trans "D) Movement Disorders: These include both agitated body movements and catatonia, which is characterized by excessive physical activity." %}
 								</label>
 							</div>
 
@@ -74,10 +74,10 @@
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-symptoms' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia-symptoms' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'schizophrenia-negative-symptoms' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'schizophrenia-negative-symptoms' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

@@ -7,41 +7,41 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Warnings of Relapse' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Warnings of Relapse" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-5">
 	  		<img src="{% static 'images/en-relapse-warnings.png' %}" height="400">	  		
 	  	</div>
 
 	  	<p>
-	  		{% trans 'Warnings of relapse refer to early signs or indicators that an individual who is recovering from mental illness or an unhealthy behavior may be at risk of returning to that behavior. Recognizing these warnings can help the individual or their support network take proactive steps to prevent a full relapse.' %}</p>
-	  		<p><h5>{% trans 'Common warnings of relapse include:' %}</h5></p>
+	  		{% trans "Warnings of relapse refer to early signs or indicators that an individual who is recovering from mental illness or an unhealthy behavior may be at risk of returning to that behavior. Recognizing these warnings can help the individual or their support network take proactive steps to prevent a full relapse." %}</p>
+	  		<p><h5>{% trans "Common warnings of relapse include:" %}</h5></p>
 	  		<p>
 	  		<ol>
-	  			<li>{% trans 'Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, or reverting to old habits.' %}</li>
-	  			<li>{% trans 'Emotional Instability: Increased irritability, anxiety, depression, or mood swings.' %}</li>
-	  			<li>{% trans 'Social Withdrawal: Avoiding support groups, family, or friends who are supportive of recovery.' %}</li>
-	  			<li>{% trans 'Negative Thinking: Engaging in self-defeating thoughts or rationalizing that one can control the behavior.' %}</li>
-	  			<li>{% trans 'Loss of Interest: Losing interest in activities that were once enjoyable or helpful in recovery.' %}</li>
-	  			<li>{% trans 'Physical Signs: Changes in sleep patterns, appetite, or overall health.' %}</li>
-	  			<li>{% trans 'Cravings or Urges: Increasing thoughts or desires to engage in the addictive behavior.' %}</li>
+	  			<li>{% trans "Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, or reverting to old habits." %}</li>
+	  			<li>{% trans "Emotional Instability: Increased irritability, anxiety, depression, or mood swings." %}</li>
+	  			<li>{% trans "Social Withdrawal: Avoiding support groups, family, or friends who are supportive of recovery." %}</li>
+	  			<li>{% trans "Negative Thinking: Engaging in self-defeating thoughts or rationalizing that one can control the behavior." %}</li>
+	  			<li>{% trans "Loss of Interest: Losing interest in activities that were once enjoyable or helpful in recovery." %}</li>
+	  			<li>{% trans "Physical Signs: Changes in sleep patterns, appetite, or overall health." %}</li>
+	  			<li>{% trans "Cravings or Urges: Increasing thoughts or desires to engage in the addictive behavior." %}</li>
 	  		</ol>
 	  	</p>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans 'Question: Which of the following is a subtle but significant warning sign of a potential relapse in someone recovering from mental illness?' %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Question: Which of the following is a subtle but significant warning sign of a potential relapse in someone recovering from mental illness?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'A) Participating more actively in social gatherings' %}
+									{% trans "A) Participating more actively in social gatherings" %}
 								</label>
 							</div>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'B) Developing a new hobby or interest' %}
+									{% trans "B) Developing a new hobby or interest" %}
 								</label>
 							</div>
 							
@@ -49,14 +49,14 @@
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235243">
-									{% trans 'C) Expressing overconfidence in their ability to handle triggers' %}
+									{% trans "C) Expressing overconfidence in their ability to handle triggers" %}
 								</label>
 							</div>
 
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'D) Consistently following a structured daily routine' %}
+									{% trans "D) Consistently following a structured daily routine" %}
 								</label>
 							</div>
 
@@ -70,10 +70,10 @@
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse-triggers' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse-triggers' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'relapse-management' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'relapse-management' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

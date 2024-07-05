@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Symptoms of Schizophrenia' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Symptoms of Schizophrenia" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
 
@@ -22,44 +22,44 @@
 	  	</div>
 
 	  	<h6>
-	  		{% trans 'Symptoms of schizophrenia can be broadly categorized into three groups: positive symptoms, negative symptoms, and cognitive symptoms.' %}
+	  		{% trans "Symptoms of schizophrenia can be broadly categorized into three groups: positive symptoms, negative symptoms, and cognitive symptoms." %}
 	  	</h6>
 	  	<p>
 	    	<ol>
-				  <li>{% trans 'Positive symptoms include additional things that others do not have like hearing voices, seeing things that are not there etc.' %}</li>
-				  <li>{% trans 'Negative symptoms could be loss of something such as ability to feel joy.' %}</li>
-				  <li>{% trans 'Cognitive symptoms are related to changes in memory or other aspects of thinking.' %}</li>
+				  <li>{% trans "Positive symptoms include additional things that others do not have like hearing voices, seeing things that are not there etc." %}</li>
+				  <li>{% trans "Negative symptoms could be loss of something such as ability to feel joy." %}</li>
+				  <li>{% trans "Cognitive symptoms are related to changes in memory or other aspects of thinking." %}</li>
 				</ol>
 	    </p>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans 'Which categorization distinguishes the symptoms of schizophrenia based on their characteristics?' %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Question: Which categorization distinguishes the symptoms of schizophrenia based on their characteristics?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'A) Primary symptoms, secondary symptoms, tertiary symptoms.' %}
+									{% trans "A) Primary symptoms, secondary symptoms, tertiary symptoms." %}
 								</label>
 							</div>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'B) Active symptoms, passive symptoms, cognitive symptoms.' %}
+									{% trans "B) Active symptoms, passive symptoms, cognitive symptoms." %}
 								</label>
 							</div>
 						
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'C) Manifest symptoms, latent symptoms, residual symptoms.' %}
+									{% trans "C) Manifest symptoms, latent symptoms, residual symptoms." %}
 								</label>
 							</div>
 
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235243">
-									{% trans 'D) Positive symptoms, negative symptoms, cognitive symptoms.' %}
+									{% trans "D) Positive symptoms, negative symptoms, cognitive symptoms." %}
 								</label>
 							</div>
 
@@ -73,10 +73,10 @@
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'schizophrenia' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'schizophrenia-positive-symptoms' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'schizophrenia-positive-symptoms' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

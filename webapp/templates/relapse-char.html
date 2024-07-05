@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Characteristics of Relapse' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Characteristics of Relapse" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-5">
 
@@ -22,34 +22,34 @@
 	  	</div>
 
 	  	<p>
-	  		{% trans 'The characteristics of relapse refer to the specific signs, symptoms, and patterns that indicate a person is experiencing a recurrence of their mental health condition after a period of improvement or remission. These characteristics help in identifying when a relapse is happening or is likely to happen, allowing for timely intervention.' %}</p>
+	  		{% trans "The characteristics of relapse refer to the specific signs, symptoms, and patterns that indicate a person is experiencing a recurrence of their mental health condition after a period of improvement or remission. These characteristics help in identifying when a relapse is happening or is likely to happen, allowing for timely intervention." %}</p>
 	  	<p>
 	  		<ol>
-	  			<li>{% trans 'Symptoms Reappearance: This means the return of the particular symptoms associated with the person\'s mental health condition. For example, in depression, it might mean feeling sad or hopeless again; in anxiety, it could mean experiencing heightened levels of worry or panic attacks.' %}</li>
-	  			<li>{% trans 'Triggering Factors: Certain events or situations can act as triggers for a relapse. These triggers can include stress, trauma, changes in medication, or environmental factors. Identifying these triggers is crucial for prevention and management.' %}</li>
-	  			<li>{% trans 'Gradual Onset: Relapse often does not happen suddenly. There can be early warning signs such as slight changes in mood, behavior, or thinking patterns that gradually escalate.' %}</li>
-	  			<li>{% trans 'Behavioral Changes: These are observable changes in a person\'s behavior, such as withdrawing from social activities, neglecting responsibilities, or changes in daily routines.' %}</li>
-	  			<li>{% trans 'Cognitive Changes: These refer to changes in thinking patterns, such as increased negative thoughts, difficulty concentrating, or changes in how a person perceives reality.' %}</li>
-	  			<li>{% trans 'Emotional Changes: Relapse can also be marked by changes in emotional state, like increased irritability, mood swings, or emotional numbness.' %}</li>
-	  			<li>{% trans 'Physical Symptoms: These are physical manifestations that can accompany mental health relapses, like changes in sleep patterns, appetite, or unexplained physical pains.' %}</li>
-	  			<li>{% trans 'Impaired Functioning: A relapse often leads to a decline in a person’s ability to function in daily life, affecting their work, school, and personal relationships.' %}</li>
+	  			<li>{% trans "Symptoms Reappearance: This means the return of the particular symptoms associated with the person's mental health condition. For example, in depression, it might mean feeling sad or hopeless again; in anxiety, it could mean experiencing heightened levels of worry or panic attacks." %}</li>
+	  			<li>{% trans "Triggering Factors: Certain events or situations can act as triggers for a relapse. These triggers can include stress, trauma, changes in medication, or environmental factors. Identifying these triggers is crucial for prevention and management." %}</li>
+	  			<li>{% trans "Gradual Onset: Relapse often does not happen suddenly. There can be early warning signs such as slight changes in mood, behavior, or thinking patterns that gradually escalate." %}</li>
+	  			<li>{% trans "Behavioral Changes: These are observable changes in a person's behavior, such as withdrawing from social activities, neglecting responsibilities, or changes in daily routines." %}</li>
+	  			<li>{% trans "Cognitive Changes: These refer to changes in thinking patterns, such as increased negative thoughts, difficulty concentrating, or changes in how a person perceives reality." %}</li>
+	  			<li>{% trans "Emotional Changes: Relapse can also be marked by changes in emotional state, like increased irritability, mood swings, or emotional numbness." %}</li>
+	  			<li>{% trans "Physical Symptoms: These are physical manifestations that can accompany mental health relapses, like changes in sleep patterns, appetite, or unexplained physical pains." %}</li>
+	  			<li>{% trans "Impaired Functioning: A relapse often leads to a decline in a person’s ability to function in daily life, affecting their work, school, and personal relationships." %}</li>
 	  		</ol>
 	  	</p>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans 'Question: Which of the following combinations best describe the early warning signs of a relapse in a mental health condition?' %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Question: Which of the following combinations best describe the early warning signs of a relapse in a mental health condition?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'A) Gradual onset of physical symptoms, social withdrawal, and sudden behavioral changes' %}
+									{% trans "A) Gradual onset of physical symptoms, social withdrawal, and sudden behavioral changes" %}
 								</label>
 							</div>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'B) Immediate onset of cognitive changes, emotional stability, and adherence to treatment' %}
+									{% trans "B) Immediate onset of cognitive changes, emotional stability, and adherence to treatment" %}
 								</label>
 							</div>
 							
@@ -57,14 +57,14 @@
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-3" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235243">
-									{% trans 'C) Gradual onset of changes in mood, social withdrawal, and impaired functioning' %}
+									{% trans "C) Gradual onset of changes in mood, social withdrawal, and impaired functioning" %}
 								</label>
 							</div>
 
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-4" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
-									{% trans 'D) Immediate onset of physical symptoms, cognitive improvement, and emotional numbness' %}
+									{% trans "D) Immediate onset of physical symptoms, cognitive improvement, and emotional numbness" %}
 								</label>
 							</div>
 
@@ -78,10 +78,10 @@
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'relapse-triggers' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'relapse-triggers' %}" class="btn btn-primary disabled nextbtn" role="button" aria-disabled="true">{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

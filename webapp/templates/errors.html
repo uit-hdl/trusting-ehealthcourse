@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans 'Types of Errors' %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Types of Errors" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
 
@@ -22,34 +22,34 @@
 	  	</div>
 
 	  	<p>
-	    	{% trans 'False positives and errors are both terms used to describe situations where a result or conclusion is incorrect. However, they are often used in different contexts:' %}
+	    	{% trans "False positives and errors are both terms used to describe situations where a result or conclusion is incorrect. However, they are often used in different contexts:" %}
 	    </p>
-	    <h5>{% trans 'False Positive:' %}</h5>
+	    <h5>{% trans "False Positive:" %}</h5>
 	    <p>
 	    	<ul>
-	    		<li>{% trans 'A false positive occurs when a test or procedure incorrectly indicates the presence of a condition or attribute that is not actually present.' %}</li>
-	    		<li>{% trans 'In other words, it\'s a result that wrongly indicates that something is present when it\'s not.' %}</li>
-	    		<li>{% trans 'For example, in medical testing, a false positive in a covid screening test would mean that the test suggests covid is present when the person is actually covid-free.' %}</li>
+	    		<li>{% trans "A false positive occurs when a test or procedure incorrectly indicates the presence of a condition or attribute that is not actually present." %}</li>
+	    		<li>{% trans "In other words, it's a result that wrongly indicates that something is present when it's not." %}</li>
+	    		<li>{% trans "For example, in medical testing, a false positive in a covid screening test would mean that the test suggests covid is present when the person is actually covid-free." %}</li>
 	    	</ul>
 	    </p>
-	    <h5>{% trans 'Errors:' %}</h5>
+	    <h5>{% trans "Errors:" %}</h5>
 	    <p>
 	    	<ul>
-	    		<li>{% trans 'Errors are discrepancies between a computed, observed, or measured value and the true, theoretically correct, or accepted value.' %}</li>
-	    		<li>{% trans 'In a broader sense, errors can encompass various types of mistakes, inaccuracies, or deviations from what is expected or desired.' %}</li>
+	    		<li>{% trans "Errors are discrepancies between a computed, observed, or measured value and the true, theoretically correct, or accepted value." %}</li>
+	    		<li>{% trans "In a broader sense, errors can encompass various types of mistakes, inaccuracies, or deviations from what is expected or desired." %}</li>
 	    	</ul>
 	    </p>
 
-	    <p>{% trans 'Both false positives and errors can have significant implications depending on the context in which they occur. In many cases, efforts are made to minimize these occurrences through improved testing methods, rigorous quality control measures, and careful consideration of potential sources of error.' %}</p>
+	    <p>{% trans "Both false positives and errors can have significant implications depending on the context in which they occur. In many cases, efforts are made to minimize these occurrences through improved testing methods, rigorous quality control measures, and careful consideration of potential sources of error." %}</p>
 	  </div>
 	</div>
 </div>
 <div class="container text-end mt-3">
 	<div class="row">
-			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse-end' %}" class="btn btn-secondary">{% trans 'Previous' %}</a></div>
+			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-left"><a href="{% url 'relapse-end' %}" class="btn btn-secondary">{% trans "Previous" %}</a></div>
 			<div class="col-sm d-grid gap-2 d-md-flex justify-content-md-end">
-				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans 'Ask AI Chatbot' %}</button>
-				<a href="{% url 'course-end' %}" class="btn btn-primary nextbtn" role="button" >{% trans 'Next' %}</a>
+				<button type="button" class="btn btn-outline-secondary mx-3" disabled>{% trans "Ask AI Chatbot" %}</button>
+				<a href="{% url 'course-end' %}" class="btn btn-primary nextbtn" role="button" >{% trans "Next" %}</a>
 			</div>
 		</div>
 </div>

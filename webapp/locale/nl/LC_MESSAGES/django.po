@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-11 15:41+0200\n"
+"POT-Creation-Date: 2024-07-04 16:42+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-#: .\templates\base.html:22
+
+#: .\templates\base.html:33
 msgid "Health Course"
 msgstr "Gezondheidscursus"
 
@@ -25,106 +26,130 @@ msgstr "Gezondheidscursus"
 msgid "Congratulations!"
 msgstr "Gefeliciteerd!"
 
-#: .\templates\course-end.html:22
+#: .\templates\course-end.html:25
 msgid "Congratulations on completing the health course!"
 msgstr "Gefeliciteerd met het behalen van de gezondheidscursus!"
 
-#: .\templates\course-end.html:25
+#: .\templates\course-end.html:28
 msgid ""
 "We greatly appreciate your dedication in completing the course on "
-"schizophrenia and relapse. Through your commitment, we trust you\\"
-msgstr "Wij stellen uw inzet bij het voltooien van de cursus over schizofrenie en terugval zeer op prijs. Door uw inzet vertrouwen wij u\\"
+"schizophrenia and relapse. Through your commitment, we trust you've acquired "
+"vital insights into these topics. Furthermore, we're confident you've "
+"recognized the nuances of errors, whether they stem from false positives or "
+"false negatives. Our aim is that the information provided will empower you "
+"to navigate your daily activities with greater understanding and efficacy."
+msgstr "Wij stellen uw inzet bij het voltooien van de cursus over schizofrenie en terugval zeer op prijs. Wij vertrouwen erop dat u dankzij uw inzet essentiële inzichten in deze onderwerpen heeft verworven. Bovendien zijn we ervan overtuigd dat u de nuances van fouten heeft onderkend, of deze nu voortkomen uit fout-positieve of fout-negatieven. Ons doel is dat de verstrekte informatie u in staat stelt om met meer begrip en doeltreffendheid door uw dagelijkse activiteiten te navigeren."
 
 #: .\templates\errors.html:10
-msgid "False Positive and Errors"
-msgstr "Valse positieven en fouten"
+msgid "Types of Errors"
+msgstr "Soorten fouten"
 
-#: .\templates\errors.html:22
+#: .\templates\errors.html:25
 msgid ""
 "False positives and errors are both terms used to describe situations where "
 "a result or conclusion is incorrect. However, they are often used in "
 "different contexts:"
-msgstr "Valse positieven en fouten zijn beide termen die worden gebruikt om situaties te beschrijven waarin een resultaat of conclusie onjuist is. Ze worden echter vaak in verschillende contexten gebruikt:"
+msgstr ""
+"Valse positieven en fouten zijn beide termen die worden gebruikt om "
+"situaties te beschrijven waarin een resultaat of conclusie onjuist is. Ze "
+"worden echter vaak in verschillende contexten gebruikt:"
 
-#: .\templates\errors.html:24
+#: .\templates\errors.html:27
 msgid "False Positive:"
 msgstr "Vals positief:"
 
-#: .\templates\errors.html:27
+#: .\templates\errors.html:30
 msgid ""
 "A false positive occurs when a test or procedure incorrectly indicates the "
 "presence of a condition or attribute that is not actually present."
-msgstr "Er is sprake van een vals-positief resultaat wanneer een test of procedure ten onrechte de aanwezigheid aangeeft van een aandoening of kenmerk dat in werkelijkheid niet aanwezig is."
+msgstr ""
+"Er is sprake van een vals-positief resultaat wanneer een test of procedure "
+"ten onrechte de aanwezigheid aangeeft van een aandoening of kenmerk dat in "
+"werkelijkheid niet aanwezig is."
 
-#: .\templates\errors.html:28
-msgid "In other words, it\\"
-msgstr "Met andere woorden: het\\"
+#: .\templates\errors.html:31
+msgid ""
+"In other words, it's a result that wrongly indicates that something is "
+"present when it's not."
+msgstr ""
 
-#: .\templates\errors.html:29
+#: .\templates\errors.html:32
 msgid ""
 "For example, in medical testing, a false positive in a covid screening test "
 "would mean that the test suggests covid is present when the person is "
 "actually covid-free."
-msgstr "Bij medische tests zou een vals-positief resultaat bij een covid-screeningstest bijvoorbeeld betekenen dat de test suggereert dat covid aanwezig is, terwijl de persoon daadwerkelijk covid-vrij is."
+msgstr ""
+"Bij medische tests zou een vals-positief resultaat bij een covid-"
+"screeningstest bijvoorbeeld betekenen dat de test suggereert dat covid "
+"aanwezig is, terwijl de persoon daadwerkelijk covid-vrij is."
 
-#: .\templates\errors.html:32
+#: .\templates\errors.html:35
 msgid "Errors:"
 msgstr "Fouten:"
 
-#: .\templates\errors.html:35
+#: .\templates\errors.html:38
 msgid ""
 "Errors are discrepancies between a computed, observed, or measured value and "
 "the true, theoretically correct, or accepted value."
-msgstr "Fouten zijn discrepanties tussen een berekende, waargenomen of gemeten waarde en de werkelijke, theoretisch correcte of geaccepteerde waarde."
+msgstr ""
+"Fouten zijn discrepanties tussen een berekende, waargenomen of gemeten "
+"waarde en de werkelijke, theoretisch correcte of geaccepteerde waarde."
 
-#: .\templates\errors.html:36
+#: .\templates\errors.html:39
 msgid ""
 "In a broader sense, errors can encompass various types of mistakes, "
 "inaccuracies, or deviations from what is expected or desired."
-msgstr "In bredere zin kunnen fouten verschillende soorten fouten, onnauwkeurigheden of afwijkingen van wat wordt verwacht of gewenst omvatten."
+msgstr ""
+"In bredere zin kunnen fouten verschillende soorten fouten, onnauwkeurigheden "
+"of afwijkingen van wat wordt verwacht of gewenst omvatten."
 
-#: .\templates\errors.html:40
+#: .\templates\errors.html:43
 msgid ""
 "Both false positives and errors can have significant implications depending "
 "on the context in which they occur. In many cases, efforts are made to "
 "minimize these occurrences through improved testing methods, rigorous "
 "quality control measures, and careful consideration of potential sources of "
 "error."
-msgstr "Zowel valse positieven als fouten kunnen aanzienlijke gevolgen hebben, afhankelijk van de context waarin ze voorkomen. In veel gevallen worden pogingen ondernomen om deze voorvallen tot een minimum te beperken door middel van verbeterde testmethoden, rigoureuze kwaliteitscontrolemaatregelen en een zorgvuldige afweging van potentiële bronnen van fouten."
-
-#: .\templates\errors.html:46 .\templates\relapse-char.html:78
-#: .\templates\relapse-end.html:33 .\templates\relapse-management.html:77
-#: .\templates\relapse-triggers.html:80 .\templates\relapse-warnings.html:73
-#: .\templates\relapse.html:66
-#: .\templates\schizophrenia-cognitive-symptoms.html:73
-#: .\templates\schizophrenia-end.html:33
-#: .\templates\schizophrenia-negative-symptoms.html:82
-#: .\templates\schizophrenia-positive-symptoms.html:74
-#: .\templates\schizophrenia-symptoms.html:73 .\templates\schizophrenia.html:67
-msgid "Previous"
-msgstr "Vorig"
-
-#: .\templates\errors.html:48 .\templates\relapse-char.html:80
-#: .\templates\relapse-end.html:35 .\templates\relapse-management.html:79
-#: .\templates\relapse-triggers.html:82 .\templates\relapse-warnings.html:75
-#: .\templates\relapse.html:68
-#: .\templates\schizophrenia-cognitive-symptoms.html:75
-#: .\templates\schizophrenia-end.html:35
-#: .\templates\schizophrenia-negative-symptoms.html:84
-#: .\templates\schizophrenia-positive-symptoms.html:76
-#: .\templates\schizophrenia-symptoms.html:75 .\templates\schizophrenia.html:69
-msgid "Ask AI Chatbot"
-msgstr "Vraag het aan AI Chatbot"
+msgstr ""
+"Zowel valse positieven als fouten kunnen aanzienlijke gevolgen hebben, "
+"afhankelijk van de context waarin ze voorkomen. In veel gevallen worden "
+"pogingen ondernomen om deze voorvallen tot een minimum te beperken door "
+"middel van verbeterde testmethoden, rigoureuze kwaliteitscontrolemaatregelen "
+"en een zorgvuldige afweging van potentiële bronnen van fouten."
 
 #: .\templates\errors.html:49 .\templates\relapse-char.html:81
 #: .\templates\relapse-end.html:36 .\templates\relapse-management.html:80
-#: .\templates\relapse-triggers.html:83 .\templates\relapse-warnings.html:76
-#: .\templates\relapse.html:69
+#: .\templates\relapse-triggers.html:83 .\templates\relapse-warnings.html:73
+#: .\templates\relapse.html:70
 #: .\templates\schizophrenia-cognitive-symptoms.html:76
 #: .\templates\schizophrenia-end.html:36
 #: .\templates\schizophrenia-negative-symptoms.html:85
 #: .\templates\schizophrenia-positive-symptoms.html:77
-#: .\templates\schizophrenia-symptoms.html:76 .\templates\schizophrenia.html:70
+#: .\templates\schizophrenia-symptoms.html:76 .\templates\schizophrenia.html:71
+msgid "Previous"
+msgstr "Vorig"
+
+#: .\templates\errors.html:51 .\templates\relapse-char.html:83
+#: .\templates\relapse-end.html:38 .\templates\relapse-management.html:82
+#: .\templates\relapse-triggers.html:85 .\templates\relapse-warnings.html:75
+#: .\templates\relapse.html:72
+#: .\templates\schizophrenia-cognitive-symptoms.html:78
+#: .\templates\schizophrenia-end.html:38
+#: .\templates\schizophrenia-negative-symptoms.html:87
+#: .\templates\schizophrenia-positive-symptoms.html:79
+#: .\templates\schizophrenia-symptoms.html:78 .\templates\schizophrenia.html:73
+msgid "Ask AI Chatbot"
+msgstr "Vraag het aan AI Chatbot"
+
+#: .\templates\errors.html:52 .\templates\relapse-char.html:84
+#: .\templates\relapse-end.html:39 .\templates\relapse-management.html:83
+#: .\templates\relapse-triggers.html:86 .\templates\relapse-warnings.html:76
+#: .\templates\relapse.html:73
+#: .\templates\schizophrenia-cognitive-symptoms.html:79
+#: .\templates\schizophrenia-end.html:39
+#: .\templates\schizophrenia-negative-symptoms.html:88
+#: .\templates\schizophrenia-positive-symptoms.html:80
+#: .\templates\schizophrenia-symptoms.html:79 .\templates\schizophrenia.html:74
 msgid "Next"
 msgstr "Volgende"
 
@@ -132,37 +157,48 @@ msgstr "Volgende"
 msgid "Course Objectives"
 msgstr "Cursus Doelstellingen"
 
-#: .\templates\home.html:21
+#: .\templates\home.html:25
 msgid "This brief course has three primary goals:"
 msgstr "Deze korte cursus heeft drie hoofddoelen:"
 
-#: .\templates\home.html:24
+#: .\templates\home.html:28
 msgid ""
 "Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
 "a naturally occurring illness and not the fault of the individual."
-msgstr "Introduceer de fundamentele concepten van schizofrenie en benadruk dat het een natuurlijk voorkomende ziekte is en niet de schuld van het individu."
+msgstr ""
+"Introduceer de fundamentele concepten van schizofrenie en benadruk dat het "
+"een natuurlijk voorkomende ziekte is en niet de schuld van het individu."
 
-#: .\templates\home.html:25
+#: .\templates\home.html:29
 msgid ""
 "Educate participants about the concept of relapses and how to predict them "
 "early."
-msgstr "Informeer de deelnemers over het concept van terugval en hoe u deze vroegtijdig kunt voorspellen."
+msgstr ""
+"Informeer de deelnemers over het concept van terugval en hoe u deze "
+"vroegtijdig kunt voorspellen."
 
-#: .\templates\home.html:26
+#: .\templates\home.html:30
 msgid ""
 "Help participants understand that there can be false positives and errors in "
 "diagnosing schizophrenia and identifying relapses."
-msgstr "Help de deelnemers begrijpen dat er valse positieven en fouten kunnen optreden bij het diagnosticeren van schizofrenie en het identificeren van terugval."
+msgstr ""
+"Help de deelnemers begrijpen dat er valse positieven en fouten kunnen "
+"optreden bij het diagnosticeren van schizofrenie en het identificeren van "
+"terugval."
 
-#: .\templates\home.html:30
+#: .\templates\home.html:34
 msgid ""
 "We aim to provide valuable information in small, easy to understand units "
 "throughout the slides. After each slide, there will be a simple multiple-"
 "choice question. You can proceed to the next slide only after correctly "
 "answering the question on the current slide."
-msgstr "We streven ernaar om waardevolle informatie in kleine, gemakkelijk te begrijpen eenheden op de dia's aan te bieden. Na elke dia volgt een eenvoudige meerkeuzevraag. U kunt pas naar de volgende dia gaan nadat u de vraag op de huidige dia correct heeft beantwoord."
+msgstr ""
+"We streven ernaar om waardevolle informatie in kleine, gemakkelijk te "
+"begrijpen eenheden op de dia's aan te bieden. Na elke dia volgt een "
+"eenvoudige meerkeuzevraag. U kunt pas naar de volgende dia gaan nadat u de "
+"vraag op de huidige dia correct heeft beantwoord."
 
-#: .\templates\home.html:34
+#: .\templates\home.html:38
 msgid "Start Course"
 msgstr "Cursus starten"
 
@@ -170,110 +206,152 @@ msgstr "Cursus starten"
 msgid "Characteristics of Relapse"
 msgstr "Kenmerken van terugval"
 
-#: .\templates\relapse-char.html:22
+#: .\templates\relapse-char.html:25
 msgid ""
 "The characteristics of relapse refer to the specific signs, symptoms, and "
 "patterns that indicate a person is experiencing a recurrence of their mental "
 "health condition after a period of improvement or remission. These "
 "characteristics help in identifying when a relapse is happening or is likely "
 "to happen, allowing for timely intervention."
-msgstr "De kenmerken van terugval verwijzen naar de specifieke tekenen, symptomen en patronen die erop wijzen dat een persoon een herhaling van zijn geestelijke gezondheidstoestand ervaart na een periode van verbetering of remissie. Deze kenmerken helpen bij het identificeren wanneer een terugval plaatsvindt of waarschijnlijk zal plaatsvinden, waardoor tijdige interventie mogelijk wordt."
+msgstr ""
+"De kenmerken van terugval verwijzen naar de specifieke tekenen, symptomen en "
+"patronen die erop wijzen dat een persoon een herhaling van zijn geestelijke "
+"gezondheidstoestand ervaart na een periode van verbetering of remissie. Deze "
+"kenmerken helpen bij het identificeren wanneer een terugval plaatsvindt of "
+"waarschijnlijk zal plaatsvinden, waardoor tijdige interventie mogelijk wordt."
 
-#: .\templates\relapse-char.html:25
+#: .\templates\relapse-char.html:28
 msgid ""
 "Symptoms Reappearance: This means the return of the particular symptoms "
-"associated with the person\\"
-msgstr "Opnieuw optreden van symptomen: Dit betekent de terugkeer van de specifieke symptomen die verband houden met de persoon\\"
+"associated with the person's mental health condition. For example, in "
+"depression, it might mean feeling sad or hopeless again; in anxiety, it "
+"could mean experiencing heightened levels of worry or panic attacks."
+msgstr "Opnieuw verschijnen van symptomen: Dit betekent de terugkeer van de specifieke symptomen die verband houden met de geestelijke gezondheidstoestand van de persoon. Bij een depressie kan het bijvoorbeeld betekenen dat je je weer verdrietig of hopeloos voelt; bij angst kan dit betekenen dat je een verhoogd niveau van zorgen of paniekaanvallen ervaart."
 
-#: .\templates\relapse-char.html:26
+#: .\templates\relapse-char.html:29
 msgid ""
 "Triggering Factors: Certain events or situations can act as triggers for a "
 "relapse. These triggers can include stress, trauma, changes in medication, "
 "or environmental factors. Identifying these triggers is crucial for "
 "prevention and management."
-msgstr "Triggerende factoren: Bepaalde gebeurtenissen of situaties kunnen fungeren als triggers voor een terugval. Deze triggers kunnen stress, trauma, veranderingen in medicatie of omgevingsfactoren omvatten. Het identificeren van deze triggers is cruciaal voor preventie en beheer."
+msgstr ""
+"Triggerende factoren: Bepaalde gebeurtenissen of situaties kunnen fungeren "
+"als triggers voor een terugval. Deze triggers kunnen stress, trauma, "
+"veranderingen in medicatie of omgevingsfactoren omvatten. Het identificeren "
+"van deze triggers is cruciaal voor preventie en beheer."
 
-#: .\templates\relapse-char.html:27
+#: .\templates\relapse-char.html:30
 msgid ""
 "Gradual Onset: Relapse often does not happen suddenly. There can be early "
 "warning signs such as slight changes in mood, behavior, or thinking patterns "
 "that gradually escalate."
-msgstr "Geleidelijk begin: Terugval gebeurt vaak niet plotseling. Er kunnen vroege waarschuwingssignalen zijn, zoals kleine veranderingen in stemming, gedrag of denkpatronen die geleidelijk escaleren."
+msgstr ""
+"Geleidelijk begin: Terugval gebeurt vaak niet plotseling. Er kunnen vroege "
+"waarschuwingssignalen zijn, zoals kleine veranderingen in stemming, gedrag "
+"of denkpatronen die geleidelijk escaleren."
 
-#: .\templates\relapse-char.html:28
-msgid "Behavioral Changes: These are observable changes in a person\\"
-msgstr "Gedragsveranderingen: dit zijn waarneembare veranderingen bij een persoon\\"
+#: .\templates\relapse-char.html:31
+msgid ""
+"Behavioral Changes: These are observable changes in a person's behavior, "
+"such as withdrawing from social activities, neglecting responsibilities, or "
+"changes in daily routines."
+msgstr "Gedragsveranderingen: Dit zijn waarneembare veranderingen in het gedrag van een persoon, zoals het zich terugtrekken uit sociale activiteiten, het verwaarlozen van verantwoordelijkheden of veranderingen in de dagelijkse routines."
 
-#: .\templates\relapse-char.html:29
+#: .\templates\relapse-char.html:32
 msgid ""
 "Cognitive Changes: These refer to changes in thinking patterns, such as "
 "increased negative thoughts, difficulty concentrating, or changes in how a "
 "person perceives reality."
-msgstr "Cognitieve veranderingen: Deze verwijzen naar veranderingen in denkpatronen, zoals toegenomen negatieve gedachten, concentratieproblemen of veranderingen in de manier waarop iemand de werkelijkheid waarneemt."
+msgstr ""
+"Cognitieve veranderingen: Deze verwijzen naar veranderingen in denkpatronen, "
+"zoals toegenomen negatieve gedachten, concentratieproblemen of veranderingen "
+"in de manier waarop iemand de werkelijkheid waarneemt."
 
-#: .\templates\relapse-char.html:30
+#: .\templates\relapse-char.html:33
 msgid ""
 "Emotional Changes: Relapse can also be marked by changes in emotional state, "
 "like increased irritability, mood swings, or emotional numbness."
-msgstr "Emotionele veranderingen: Terugval kan ook worden gekenmerkt door veranderingen in de emotionele toestand, zoals verhoogde prikkelbaarheid, stemmingswisselingen of emotionele gevoelloosheid."
+msgstr ""
+"Emotionele veranderingen: Terugval kan ook worden gekenmerkt door "
+"veranderingen in de emotionele toestand, zoals verhoogde prikkelbaarheid, "
+"stemmingswisselingen of emotionele gevoelloosheid."
 
-#: .\templates\relapse-char.html:31
+#: .\templates\relapse-char.html:34
 msgid ""
 "Physical Symptoms: These are physical manifestations that can accompany "
 "mental health relapses, like changes in sleep patterns, appetite, or "
 "unexplained physical pains."
-msgstr "Fysieke symptomen: Dit zijn fysieke manifestaties die gepaard kunnen gaan met een terugval in de geestelijke gezondheid, zoals veranderingen in slaappatroon, eetlust of onverklaarbare fysieke pijn."
+msgstr ""
+"Fysieke symptomen: Dit zijn fysieke manifestaties die gepaard kunnen gaan "
+"met een terugval in de geestelijke gezondheid, zoals veranderingen in "
+"slaappatroon, eetlust of onverklaarbare fysieke pijn."
 
-#: .\templates\relapse-char.html:32
+#: .\templates\relapse-char.html:35
 msgid ""
 "Impaired Functioning: A relapse often leads to a decline in a person’s "
 "ability to function in daily life, affecting their work, school, and "
 "personal relationships."
-msgstr "Verminderd functioneren: Een terugval leidt vaak tot een afname van het vermogen van een persoon om in het dagelijks leven te functioneren, wat van invloed is op zijn werk, school en persoonlijke relaties."
+msgstr ""
+"Verminderd functioneren: Een terugval leidt vaak tot een afname van het "
+"vermogen van een persoon om in het dagelijks leven te functioneren, wat van "
+"invloed is op zijn werk, school en persoonlijke relaties."
 
-#: .\templates\relapse-char.html:39
+#: .\templates\relapse-char.html:42
 msgid ""
 "Question: Which of the following combinations best describe the early "
 "warning signs of a relapse in a mental health condition?"
-msgstr "Vraag: Welke van de volgende combinaties beschrijft het beste de vroege waarschuwingssignalen van een terugval in een psychische aandoening?"
+msgstr ""
+"Vraag: Welke van de volgende combinaties beschrijft het beste de vroege "
+"waarschuwingssignalen van een terugval in een psychische aandoening?"
 
-#: .\templates\relapse-char.html:43
+#: .\templates\relapse-char.html:46
 msgid ""
 "A) Gradual onset of physical symptoms, social withdrawal, and sudden "
 "behavioral changes"
-msgstr "A) Geleidelijk begin van lichamelijke symptomen, sociale terugtrekking en plotselinge gedragsveranderingen"
+msgstr ""
+"A) Geleidelijk begin van lichamelijke symptomen, sociale terugtrekking en "
+"plotselinge gedragsveranderingen"
 
-#: .\templates\relapse-char.html:49
+#: .\templates\relapse-char.html:52
 msgid ""
 "B) Immediate onset of cognitive changes, emotional stability, and adherence "
 "to treatment"
-msgstr "B) Onmiddellijk begin van cognitieve veranderingen, emotionele stabiliteit en therapietrouw"
+msgstr ""
+"B) Onmiddellijk begin van cognitieve veranderingen, emotionele stabiliteit "
+"en therapietrouw"
 
-#: .\templates\relapse-char.html:57
+#: .\templates\relapse-char.html:60
 msgid ""
 "C) Gradual onset of changes in mood, social withdrawal, and impaired "
 "functioning"
-msgstr "C) Geleidelijk begin van stemmingswisselingen, sociale terugtrekking en verminderd functioneren"
+msgstr ""
+"C) Geleidelijk begin van stemmingswisselingen, sociale terugtrekking en "
+"verminderd functioneren"
 
-#: .\templates\relapse-char.html:64
+#: .\templates\relapse-char.html:67
 msgid ""
 "D) Immediate onset of physical symptoms, cognitive improvement, and "
 "emotional numbness"
-msgstr "D) Onmiddellijk begin van fysieke symptomen, cognitieve verbetering en emotionele gevoelloosheid"
+msgstr ""
+"D) Onmiddellijk begin van fysieke symptomen, cognitieve verbetering en "
+"emotionele gevoelloosheid"
 
 #: .\templates\relapse-end.html:10 .\templates\relapse.html:10
 msgid "Relapse"
 msgstr "Terugval"
 
-#: .\templates\relapse-end.html:22 .\templates\schizophrenia-end.html:22
+#: .\templates\relapse-end.html:25 .\templates\schizophrenia-end.html:25
 msgid "Congratulations on completing this part of the course!"
 msgstr "Gefeliciteerd met het voltooien van dit deel van de cursus!"
 
-#: .\templates\relapse-end.html:25 .\templates\schizophrenia-end.html:25
-msgid "You\\"
-msgstr "Jij\\"
+#: .\templates\relapse-end.html:28 .\templates\schizophrenia-end.html:28
+msgid ""
+"You've reached an important milestone, and your dedication is truly paying "
+"off. Each step you take is bringing you closer to mastering the subject. "
+"Keep up the fantastic effort."
+msgstr "Je hebt een belangrijke mijlpaal bereikt en je toewijding werpt echt vruchten af. Elke stap die u zet, brengt u dichter bij het beheersen van het onderwerp. Ga zo door met deze fantastische inspanning."
 
-#: .\templates\relapse-end.html:27 .\templates\schizophrenia-end.html:27
+#: .\templates\relapse-end.html:30 .\templates\schizophrenia-end.html:30
 msgid "Keep going strong!"
 msgstr "Blijf sterk doorgaan!"
 
@@ -281,7 +359,7 @@ msgstr "Blijf sterk doorgaan!"
 msgid "Relapse Management"
 msgstr "Terugvalmanagement"
 
-#: .\templates\relapse-management.html:22
+#: .\templates\relapse-management.html:25
 msgid ""
 "Relapse management in the context of mental health refers to a set of "
 "strategies and interventions designed to prevent or manage the recurrence of "
@@ -289,95 +367,131 @@ msgid ""
 "early warning signs of a potential relapse, implementing coping strategies "
 "to address these signs, and seeking appropriate professional help if "
 "necessary. The goal is to maintain stability, reduce the severity of "
-"symptoms, and enhance the individual\\"
-msgstr "Terugvalmanagement in de context van de geestelijke gezondheidszorg verwijst naar een reeks strategieën en interventies die zijn ontworpen om de herhaling van symptomen die verband houden met psychische aandoeningen te voorkomen of te beheersen. Het gaat om het herkennen van vroege waarschuwingssignalen van een mogelijke terugval, het implementeren van coping-strategieën om deze signalen aan te pakken en het zoeken naar passende professionele hulp indien nodig. Het doel is om de stabiliteit te behouden, de ernst van de symptomen te verminderen en het individu te verbeteren\\"
+"symptoms, and enhance the individual's overall well-being."
+msgstr ""
+"Terugvalmanagement in de context van de geestelijke gezondheidszorg verwijst naar een reeks strategieën en interventies die zijn ontworpen om de herhaling van symptomen die verband houden met psychische aandoeningen te voorkomen of te beheersen. Het gaat om het herkennen van vroege waarschuwingssignalen van een mogelijke terugval, het implementeren van coping-strategieën om deze signalen aan te pakken en het zoeken naar passende professionele hulp indien nodig. Het doel is om de stabiliteit te behouden, de ernst van de symptomen te verminderen en het algehele welzijn van het individu te verbeteren."
 
-#: .\templates\relapse-management.html:23
+#: .\templates\relapse-management.html:26
 msgid "Key components of relapse management include:"
 msgstr "Belangrijke componenten van terugvalmanagement zijn onder meer:"
 
-#: .\templates\relapse-management.html:26
+#: .\templates\relapse-management.html:29
 msgid ""
 "Education and Awareness: Educating the individual and their support network "
 "about the nature of their mental health condition, potential triggers, and "
 "signs of relapse."
-msgstr "Educatie en bewustzijn: het individu en zijn ondersteuningsnetwerk informeren over de aard van zijn geestelijke gezondheidstoestand, mogelijke triggers en tekenen van terugval."
+msgstr ""
+"Educatie en bewustzijn: het individu en zijn ondersteuningsnetwerk "
+"informeren over de aard van zijn geestelijke gezondheidstoestand, mogelijke "
+"triggers en tekenen van terugval."
 
-#: .\templates\relapse-management.html:27
+#: .\templates\relapse-management.html:30
 msgid ""
 "Coping Strategies: Developing and practicing coping strategies to manage "
 "stress and prevent relapse. These strategies might include mindfulness, "
 "relaxation techniques, exercise, healthy eating, maintaining a routine, and "
 "engaging in hobbies or activities that bring joy and relaxation."
-msgstr "Copingstrategieën: het ontwikkelen en oefenen van copingstrategieën om stress te beheersen en terugval te voorkomen. Deze strategieën kunnen bestaan ​​uit mindfulness, ontspanningstechnieken, lichaamsbeweging, gezond eten, het handhaven van een routine en het ondernemen van hobby's of activiteiten die vreugde en ontspanning brengen."
+msgstr ""
+"Copingstrategieën: het ontwikkelen en oefenen van copingstrategieën om "
+"stress te beheersen en terugval te voorkomen. Deze strategieën kunnen "
+"bestaan ​​uit mindfulness, ontspanningstechnieken, lichaamsbeweging, gezond "
+"eten, het handhaven van een routine en het ondernemen van hobby's of "
+"activiteiten die vreugde en ontspanning brengen."
 
-#: .\templates\relapse-management.html:28
+#: .\templates\relapse-management.html:31
 msgid ""
 "Treatment Adherence: Ensuring that the individual adheres to their treatment "
 "plan, which may include medication, therapy, or a combination of both. "
 "Regular check-ins with mental health professionals are often part of this "
 "process."
-msgstr "Behandelingstrouw: ervoor zorgen dat het individu zich houdt aan zijn behandelplan, dat medicatie, therapie of een combinatie van beide kan omvatten. Regelmatige controles bij professionals in de geestelijke gezondheidszorg maken vaak deel uit van dit proces."
+msgstr ""
+"Behandelingstrouw: ervoor zorgen dat het individu zich houdt aan zijn "
+"behandelplan, dat medicatie, therapie of een combinatie van beide kan "
+"omvatten. Regelmatige controles bij professionals in de geestelijke "
+"gezondheidszorg maken vaak deel uit van dit proces."
 
-#: .\templates\relapse-management.html:29
+#: .\templates\relapse-management.html:32
 msgid ""
 "Crisis Plan: Having a crisis plan in place that outlines steps to take if a "
 "relapse occurs. This plan might include emergency contact numbers, immediate "
 "steps to manage symptoms, and instructions for seeking urgent professional "
 "help."
-msgstr "Crisisplan: Het hebben van een crisisplan waarin de stappen worden beschreven die moeten worden genomen als er zich een terugval voordoet. Dit plan kan contactnummers voor noodgevallen omvatten, onmiddellijke stappen om de symptomen onder controle te houden en instructies voor het zoeken naar dringende professionele hulp."
+msgstr ""
+"Crisisplan: Het hebben van een crisisplan waarin de stappen worden "
+"beschreven die moeten worden genomen als er zich een terugval voordoet. Dit "
+"plan kan contactnummers voor noodgevallen omvatten, onmiddellijke stappen om "
+"de symptomen onder controle te houden en instructies voor het zoeken naar "
+"dringende professionele hulp."
 
-#: .\templates\relapse-management.html:30
+#: .\templates\relapse-management.html:33
 msgid ""
 "Lifestyle Factors: Addressing lifestyle factors that can impact mental "
 "health, such as sleep hygiene, nutrition, exercise, and substance use. "
 "Encouraging healthy habits and routines can play a significant role in "
 "relapse prevention."
-msgstr "Levensstijlfactoren: Het aanpakken van levensstijlfactoren die van invloed kunnen zijn op de geestelijke gezondheid, zoals slaaphygiëne, voeding, lichaamsbeweging en middelengebruik. Het aanmoedigen van gezonde gewoonten en routines kan een belangrijke rol spelen bij het voorkomen van terugval."
+msgstr ""
+"Levensstijlfactoren: Het aanpakken van levensstijlfactoren die van invloed "
+"kunnen zijn op de geestelijke gezondheid, zoals slaaphygiëne, voeding, "
+"lichaamsbeweging en middelengebruik. Het aanmoedigen van gezonde gewoonten "
+"en routines kan een belangrijke rol spelen bij het voorkomen van terugval."
 
-#: .\templates\relapse-management.html:31
+#: .\templates\relapse-management.html:34
 msgid ""
 "Continuous Monitoring and Adjustment: Regularly assessing progress and "
 "making adjustments to the relapse prevention plan as needed. This may "
 "involve identifying new triggers, refining coping strategies, or accessing "
 "additional support services."
-msgstr "Voortdurende monitoring en bijsturing: Regelmatig de voortgang beoordelen en indien nodig aanpassingen aanbrengen in het terugvalpreventieplan. Dit kan het identificeren van nieuwe triggers inhouden, het verfijnen van coping-strategieën of het inschakelen van aanvullende ondersteunende diensten."
+msgstr ""
+"Voortdurende monitoring en bijsturing: Regelmatig de voortgang beoordelen en "
+"indien nodig aanpassingen aanbrengen in het terugvalpreventieplan. Dit kan "
+"het identificeren van nieuwe triggers inhouden, het verfijnen van coping-"
+"strategieën of het inschakelen van aanvullende ondersteunende diensten."
 
-#: .\templates\relapse-management.html:38
+#: .\templates\relapse-management.html:41
 msgid ""
 "Question: Which of the following best describes the primary goal of relapse "
 "management?"
-msgstr "Vraag: Welke van de volgende omschrijvingen beschrijft het beste het primaire doel van terugvalmanagement?"
+msgstr ""
+"Vraag: Welke van de volgende omschrijvingen beschrijft het beste het "
+"primaire doel van terugvalmanagement?"
 
-#: .\templates\relapse-management.html:42
+#: .\templates\relapse-management.html:45
 msgid ""
 "A) Encouraging individuals to embrace their setbacks as part of the recovery "
 "process and not dwell on them excessively."
-msgstr "A) Individuen aanmoedigen om hun tegenslagen te omarmen als onderdeel van het herstelproces en er niet overdreven bij stil te staan."
+msgstr ""
+"A) Individuen aanmoedigen om hun tegenslagen te omarmen als onderdeel van "
+"het herstelproces en er niet overdreven bij stil te staan."
 
-#: .\templates\relapse-management.html:48
+#: .\templates\relapse-management.html:51
 msgid ""
 "B) Providing immediate punishment for relapse behavior to deter future "
 "occurrences."
-msgstr "B) Het bieden van onmiddellijke bestraffing voor terugvalgedrag om toekomstige gebeurtenissen af ​​te schrikken."
+msgstr ""
+"B) Het bieden van onmiddellijke bestraffing voor terugvalgedrag om "
+"toekomstige gebeurtenissen af ​​te schrikken."
 
-#: .\templates\relapse-management.html:56
+#: .\templates\relapse-management.html:59
 msgid ""
 "C) Helping individuals develop strategies to recognize warning signs and "
 "prevent a return to the problematic behavior."
-msgstr "C) Individuen helpen strategieën te ontwikkelen om waarschuwingssignalen te herkennen en een terugkeer naar problematisch gedrag te voorkomen."
+msgstr ""
+"C) Individuen helpen strategieën te ontwikkelen om waarschuwingssignalen te "
+"herkennen en een terugkeer naar problematisch gedrag te voorkomen."
 
-#: .\templates\relapse-management.html:63
+#: .\templates\relapse-management.html:66
 msgid ""
 "D) Ignoring relapse incidents entirely to avoid triggering feelings of guilt "
 "or shame in individuals undergoing recovery."
-msgstr "D) Het volledig negeren van terugvalincidenten om te voorkomen dat er gevoelens van schuld of schaamte ontstaan ​​bij personen die herstellende zijn."
+msgstr ""
+"D) Het volledig negeren van terugvalincidenten om te voorkomen dat er "
+"gevoelens van schuld of schaamte ontstaan ​​bij personen die herstellende zijn."
 
 #: .\templates\relapse-triggers.html:10
 msgid "Triggers of Relapse"
 msgstr "Triggers van terugval"
 
-#: .\templates\relapse-triggers.html:22
+#: .\templates\relapse-triggers.html:25
 msgid ""
 "Triggers of a relapse refer to factors or circumstances that increase the "
 "likelihood of an individual returning to a previous state of unhealthy "
@@ -385,73 +499,96 @@ msgid ""
 "triggers can be internal (thoughts, emotions, physical sensations) or "
 "external (people, places, situations) and often provoke strong cravings or "
 "urges to return to the problematic behavior."
-msgstr "Triggers van een terugval verwijzen naar factoren of omstandigheden die de kans vergroten dat een individu terugkeert naar een eerdere staat van ongezond gedrag of verslaving na een periode van verbetering of herstel. Deze triggers kunnen intern zijn (gedachten, emoties, fysieke sensaties) of extern (mensen, plaatsen, situaties) en veroorzaken vaak een sterke drang om terug te keren naar het problematische gedrag."
+msgstr ""
+"Triggers van een terugval verwijzen naar factoren of omstandigheden die de "
+"kans vergroten dat een individu terugkeert naar een eerdere staat van "
+"ongezond gedrag of verslaving na een periode van verbetering of herstel. "
+"Deze triggers kunnen intern zijn (gedachten, emoties, fysieke sensaties) of "
+"extern (mensen, plaatsen, situaties) en veroorzaken vaak een sterke drang om "
+"terug te keren naar het problematische gedrag."
 
-#: .\templates\relapse-triggers.html:23
+#: .\templates\relapse-triggers.html:26
 msgid "Common triggers of relapse include:"
 msgstr "Veelvoorkomende triggers van terugval zijn onder meer:"
 
-#: .\templates\relapse-triggers.html:27
+#: .\templates\relapse-triggers.html:30
 msgid ""
 "Stress: High levels of stress from work, relationships, or life changes can "
 "lead to relapse."
-msgstr "Stress: Hoge niveaus van stress door werk, relaties of veranderingen in het leven kunnen tot terugval leiden."
+msgstr ""
+"Stress: Hoge niveaus van stress door werk, relaties of veranderingen in het "
+"leven kunnen tot terugval leiden."
 
-#: .\templates\relapse-triggers.html:28
+#: .\templates\relapse-triggers.html:31
 msgid ""
 "Negative Emotions: Feelings of sadness, anger, frustration, or loneliness "
 "can act as triggers."
-msgstr "Negatieve emoties: Gevoelens van verdriet, woede, frustratie of eenzaamheid kunnen als triggers fungeren."
+msgstr ""
+"Negatieve emoties: Gevoelens van verdriet, woede, frustratie of eenzaamheid "
+"kunnen als triggers fungeren."
 
-#: .\templates\relapse-triggers.html:29
+#: .\templates\relapse-triggers.html:32
 msgid ""
 "Environmental Cues: Being in places or situations associated with the past "
 "problematic behavior, like bars for alcoholics or certain neighborhoods for "
 "former drug users."
-msgstr "Omgevingssignalen: Het zich op plaatsen of in situaties bevinden die verband houden met problematisch gedrag uit het verleden, zoals bars voor alcoholisten of bepaalde buurten voor voormalige drugsgebruikers."
-
-#: .\templates\relapse-triggers.html:30
-msgid ""
-"Social Pressure: Influence from friends or family members who engage in "
-"problematic behavior or don\\"
-msgstr "Sociale druk: Invloed van vrienden of familieleden die problematisch gedrag vertonen of niet\\"
-
-#: .\templates\relapse-triggers.html:31
-msgid ""
-"Positive Emotions: Celebratory moments or a sense of overconfidence in one\\"
-msgstr "Positieve emoties: feestelijke momenten of een gevoel van overmoed in één\\"
-
-#: .\templates\relapse-triggers.html:32
-msgid ""
-"Boredom: Lack of engaging activities or hobbies can lead to a desire to "
-"revert to old behaviors."
-msgstr "Verveling: Een gebrek aan boeiende activiteiten of hobby’s kan leiden tot een verlangen om terug te keren naar oud gedrag."
+msgstr ""
+"Omgevingssignalen: Het zich op plaatsen of in situaties bevinden die verband "
+"houden met problematisch gedrag uit het verleden, zoals bars voor "
+"alcoholisten of bepaalde buurten voor voormalige drugsgebruikers."
 
 #: .\templates\relapse-triggers.html:33
 msgid ""
+"Social Pressure: Influence from friends or family members who engage in "
+"problematic behavior or don't support the recovery."
+msgstr ""
+"Sociale druk: Invloed van vrienden of familieleden die problematisch gedrag vertonen of het herstel niet ondersteunen."
+
+#: .\templates\relapse-triggers.html:34
+msgid ""
+"Positive Emotions: Celebratory moments or a sense of overconfidence in one's "
+"recovery can also be triggering."
+msgstr ""
+"Positieve emoties: Feestelijke momenten of een gevoel van overmoed in iemands herstel kunnen ook een trigger zijn."
+
+#: .\templates\relapse-triggers.html:35
+msgid ""
+"Boredom: Lack of engaging activities or hobbies can lead to a desire to "
+"revert to old behaviors."
+msgstr ""
+"Verveling: Een gebrek aan boeiende activiteiten of hobby’s kan leiden tot "
+"een verlangen om terug te keren naar oud gedrag."
+
+#: .\templates\relapse-triggers.html:36
+msgid ""
 "Physical Discomfort: Pain or illness can trigger a relapse, especially if "
 "the behavior was a way to cope with these feelings."
-msgstr "Lichamelijk ongemak: Pijn of ziekte kunnen een terugval veroorzaken, vooral als het gedrag een manier was om met deze gevoelens om te gaan."
+msgstr ""
+"Lichamelijk ongemak: Pijn of ziekte kunnen een terugval veroorzaken, vooral "
+"als het gedrag een manier was om met deze gevoelens om te gaan."
 
-#: .\templates\relapse-triggers.html:41
+#: .\templates\relapse-triggers.html:44
 msgid ""
 "Question: Which of the following is NOT commonly considered a trigger for "
 "relapse in individuals recovering from addiction or unhealthy behaviors?"
-msgstr "Vraag: Welke van de volgende zaken wordt doorgaans NIET beschouwd als een trigger voor terugval bij personen die herstellen van verslaving of ongezond gedrag?"
+msgstr ""
+"Vraag: Welke van de volgende zaken wordt doorgaans NIET beschouwd als een "
+"trigger voor terugval bij personen die herstellen van verslaving of ongezond "
+"gedrag?"
 
-#: .\templates\relapse-triggers.html:45
+#: .\templates\relapse-triggers.html:48
 msgid "A) High levels of stress from work or personal life"
 msgstr "A) Hoge niveaus van stress door werk of privéleven"
 
-#: .\templates\relapse-triggers.html:52
+#: .\templates\relapse-triggers.html:55
 msgid "B) Consistently practicing healthy coping mechanisms"
 msgstr "B) Het consequent beoefenen van gezonde coping-mechanismen"
 
-#: .\templates\relapse-triggers.html:58
+#: .\templates\relapse-triggers.html:61
 msgid "C) Celebratory moments or a sense of overconfidence"
 msgstr "C) Feestelijke momenten of een gevoel van overmoed"
 
-#: .\templates\relapse-triggers.html:66
+#: .\templates\relapse-triggers.html:69
 msgid "D) Lack of engagement in activities or hobbies"
 msgstr "D) Gebrek aan betrokkenheid bij activiteiten of hobby’s"
 
@@ -466,7 +603,13 @@ msgid ""
 "risk of returning to that behavior. Recognizing these warnings can help the "
 "individual or their support network take proactive steps to prevent a full "
 "relapse."
-msgstr "Waarschuwingen voor terugval verwijzen naar vroege tekenen of indicatoren die erop wijzen dat een persoon die herstellende is van een psychische aandoening of ongezond gedrag het risico loopt terug te keren naar dat gedrag. Het herkennen van deze waarschuwingen kan het individu of zijn ondersteuningsnetwerk helpen proactieve stappen te ondernemen om een ​​volledige terugval te voorkomen."
+msgstr ""
+"Waarschuwingen voor terugval verwijzen naar vroege tekenen of indicatoren "
+"die erop wijzen dat een persoon die herstellende is van een psychische "
+"aandoening of ongezond gedrag het risico loopt terug te keren naar dat "
+"gedrag. Het herkennen van deze waarschuwingen kan het individu of zijn "
+"ondersteuningsnetwerk helpen proactieve stappen te ondernemen om een ​​"
+"volledige terugval te voorkomen."
 
 #: .\templates\relapse-warnings.html:18
 msgid "Common warnings of relapse include:"
@@ -476,47 +619,63 @@ msgstr "Veel voorkomende waarschuwingen voor terugval zijn onder meer:"
 msgid ""
 "Changes in Behavior: Sudden shifts in routine, neglect of responsibilities, "
 "or reverting to old habits."
-msgstr "Gedragsveranderingen: Plotselinge veranderingen in routine, verwaarlozing van verantwoordelijkheden of terugkeer naar oude gewoonten."
+msgstr ""
+"Gedragsveranderingen: Plotselinge veranderingen in routine, verwaarlozing "
+"van verantwoordelijkheden of terugkeer naar oude gewoonten."
 
 #: .\templates\relapse-warnings.html:22
 msgid ""
 "Emotional Instability: Increased irritability, anxiety, depression, or mood "
 "swings."
-msgstr "Emotionele instabiliteit: verhoogde prikkelbaarheid, angst, depressie of stemmingswisselingen."
+msgstr ""
+"Emotionele instabiliteit: verhoogde prikkelbaarheid, angst, depressie of "
+"stemmingswisselingen."
 
 #: .\templates\relapse-warnings.html:23
 msgid ""
 "Social Withdrawal: Avoiding support groups, family, or friends who are "
 "supportive of recovery."
-msgstr "Sociale terugtrekking: het vermijden van steungroepen, familie of vrienden die het herstel ondersteunen."
+msgstr ""
+"Sociale terugtrekking: het vermijden van steungroepen, familie of vrienden "
+"die het herstel ondersteunen."
 
 #: .\templates\relapse-warnings.html:24
 msgid ""
 "Negative Thinking: Engaging in self-defeating thoughts or rationalizing that "
 "one can control the behavior."
-msgstr "Negatief denken: zich bezighouden met zelfvernietigende gedachten of rationaliseren dat men het gedrag kan beheersen."
+msgstr ""
+"Negatief denken: zich bezighouden met zelfvernietigende gedachten of "
+"rationaliseren dat men het gedrag kan beheersen."
 
 #: .\templates\relapse-warnings.html:25
 msgid ""
 "Loss of Interest: Losing interest in activities that were once enjoyable or "
 "helpful in recovery."
-msgstr "Verlies van interesse: Verlies van interesse in activiteiten die ooit leuk of nuttig waren bij het herstel."
+msgstr ""
+"Verlies van interesse: Verlies van interesse in activiteiten die ooit leuk "
+"of nuttig waren bij het herstel."
 
 #: .\templates\relapse-warnings.html:26
 msgid "Physical Signs: Changes in sleep patterns, appetite, or overall health."
-msgstr "Fysieke symptomen: Veranderingen in slaappatroon, eetlust of algehele gezondheid."
+msgstr ""
+"Fysieke symptomen: Veranderingen in slaappatroon, eetlust of algehele "
+"gezondheid."
 
 #: .\templates\relapse-warnings.html:27
 msgid ""
 "Cravings or Urges: Increasing thoughts or desires to engage in the addictive "
 "behavior."
-msgstr "Verlangen of drang: toenemende gedachten of verlangens om verslavend gedrag te vertonen."
+msgstr ""
+"Verlangen of drang: toenemende gedachten of verlangens om verslavend gedrag "
+"te vertonen."
 
 #: .\templates\relapse-warnings.html:34
 msgid ""
 "Question: Which of the following is a subtle but significant warning sign of "
 "a potential relapse in someone recovering from mental illness?"
-msgstr "Vraag: Wat is een subtiel maar belangrijk waarschuwingssignaal voor een mogelijke terugval bij iemand die herstelt van een psychische aandoening?"
+msgstr ""
+"Vraag: Wat is een subtiel maar belangrijk waarschuwingssignaal voor een "
+"mogelijke terugval bij iemand die herstelt van een psychische aandoening?"
 
 #: .\templates\relapse-warnings.html:38
 msgid "A) Participating more actively in social gatherings"
@@ -534,7 +693,7 @@ msgstr "C) Het uiten van overmoed in hun vermogen om met triggers om te gaan"
 msgid "D) Consistently following a structured daily routine"
 msgstr "D) Consequent een gestructureerde dagelijkse routine volgen"
 
-#: .\templates\relapse.html:22
+#: .\templates\relapse.html:26
 msgid ""
 "Relapse is the return of symptoms or behaviors after a period of improvement "
 "or recovery. This term is commonly used in the context of chronic illnesses, "
@@ -544,27 +703,39 @@ msgid ""
 "biological changes. Understanding relapse is crucial for developing "
 "effective long-term treatment and management strategies for chronic "
 "conditions."
-msgstr "Terugval is de terugkeer van symptomen of gedrag na een periode van verbetering of herstel. Deze term wordt vaak gebruikt in de context van chronische ziekten, psychische stoornissen en herstel van verslavingen. Terugval kan optreden, zelfs als de persoon zich al een tijdje goed voelt. Terugval kan worden veroorzaakt door verschillende factoren, waaronder stress, omgevingsinvloeden of zelfs biologische veranderingen. Het begrijpen van terugval is cruciaal voor het ontwikkelen van effectieve langetermijnbehandelings- en managementstrategieën voor chronische aandoeningen."
+msgstr ""
+"Terugval is de terugkeer van symptomen of gedrag na een periode van "
+"verbetering of herstel. Deze term wordt vaak gebruikt in de context van "
+"chronische ziekten, psychische stoornissen en herstel van verslavingen. "
+"Terugval kan optreden, zelfs als de persoon zich al een tijdje goed voelt. "
+"Terugval kan worden veroorzaakt door verschillende factoren, waaronder "
+"stress, omgevingsinvloeden of zelfs biologische veranderingen. Het begrijpen "
+"van terugval is cruciaal voor het ontwikkelen van effectieve "
+"langetermijnbehandelings- en managementstrategieën voor chronische "
+"aandoeningen."
 
-#: .\templates\relapse.html:27
+#: .\templates\relapse.html:31
 msgid ""
 "Question: Which of the following is NOT typically considered a risk factor "
 "for relapse in individuals recovering from major depressive disorder?"
-msgstr "Vraag: Welke van de volgende zaken wordt doorgaans NIET beschouwd als een risicofactor voor terugval bij personen die herstellen van een depressieve stoornis?"
+msgstr ""
+"Vraag: Welke van de volgende zaken wordt doorgaans NIET beschouwd als een "
+"risicofactor voor terugval bij personen die herstellen van een depressieve "
+"stoornis?"
 
-#: .\templates\relapse.html:31
+#: .\templates\relapse.html:35
 msgid "A) High levels of ongoing stress"
 msgstr "A) Hoge niveaus van aanhoudende stress"
 
-#: .\templates\relapse.html:37
+#: .\templates\relapse.html:41
 msgid "B) Lack of social support"
 msgstr "B) Gebrek aan sociale steun"
 
-#: .\templates\relapse.html:45
+#: .\templates\relapse.html:49
 msgid "C) Non-adherence to prescribed medication"
 msgstr "C) Het niet naleven van voorgeschreven medicijnen"
 
-#: .\templates\relapse.html:52
+#: .\templates\relapse.html:56
 msgid "D) Regular physical exercise"
 msgstr "D) Regelmatige lichaamsbeweging"
 
@@ -572,56 +743,69 @@ msgstr "D) Regelmatige lichaamsbeweging"
 msgid "Cognitive Symptoms of Schizophrenia"
 msgstr "Cognitieve symptomen van schizofrenie"
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:22
+#: .\templates\schizophrenia-cognitive-symptoms.html:25
 msgid ""
 "Cognitive symptoms of schizophrenia refer to problems with the mental "
 "processes involved in gaining knowledge and comprehension. These symptoms "
-"affect a person\\"
-msgstr "Cognitieve symptomen van schizofrenie verwijzen naar problemen met de mentale processen die betrokken zijn bij het verkrijgen van kennis en begrip. Deze symptomen treffen een persoon\\"
+"affect a person's ability to think clearly, remember, and organize their "
+"thoughts. Cognitive symptoms can be subtle or severe and often significantly "
+"impact the daily functioning of individuals with schizophrenia."
+msgstr ""
+"Cognitieve symptomen van schizofrenie verwijzen naar problemen met de mentale processen die betrokken zijn bij het verkrijgen van kennis en begrip. Deze symptomen beïnvloeden het vermogen van een persoon om helder te denken, te onthouden en zijn gedachten te ordenen. Cognitieve symptomen kunnen subtiel of ernstig zijn en hebben vaak een aanzienlijke invloed op het dagelijks functioneren van personen met schizofrenie."
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:26
+#: .\templates\schizophrenia-cognitive-symptoms.html:29
 msgid ""
 "Impaired Working Memory: Difficulty holding and manipulating information "
 "over short periods, which affects the ability to follow instructions or "
 "complete tasks."
-msgstr "Verminderd werkgeheugen: moeite met het vasthouden en manipuleren van informatie gedurende korte perioden, wat van invloed is op het vermogen om instructies te volgen of taken uit te voeren."
+msgstr ""
+"Verminderd werkgeheugen: moeite met het vasthouden en manipuleren van "
+"informatie gedurende korte perioden, wat van invloed is op het vermogen om "
+"instructies te volgen of taken uit te voeren."
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:27
+#: .\templates\schizophrenia-cognitive-symptoms.html:30
 msgid ""
 "Poor Executive Functioning: Problems with planning, organizing, and problem-"
 "solving. This can lead to difficulties in managing everyday activities and "
 "making decisions."
-msgstr "Slecht uitvoerend functioneren: problemen met plannen, organiseren en probleemoplossing. Dit kan leiden tot problemen bij het beheren van dagelijkse activiteiten en het nemen van beslissingen."
+msgstr ""
+"Slecht uitvoerend functioneren: problemen met plannen, organiseren en "
+"probleemoplossing. Dit kan leiden tot problemen bij het beheren van "
+"dagelijkse activiteiten en het nemen van beslissingen."
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:28
+#: .\templates\schizophrenia-cognitive-symptoms.html:31
 msgid ""
 "Attention Deficits: Trouble focusing or paying attention, which can make it "
 "hard to concentrate on tasks or conversations."
-msgstr "Aandachtstekorten: problemen met concentreren of opletten, waardoor het moeilijk kan worden om zich te concentreren op taken of gesprekken."
+msgstr ""
+"Aandachtstekorten: problemen met concentreren of opletten, waardoor het "
+"moeilijk kan worden om zich te concentreren op taken of gesprekken."
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:35
+#: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
 "associated with schizophrenia?"
-msgstr "Vraag: Welke van de volgende cognitieve symptomen wordt NIET vaak geassocieerd met schizofrenie?"
+msgstr ""
+"Vraag: Welke van de volgende cognitieve symptomen wordt NIET vaak "
+"geassocieerd met schizofrenie?"
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:39
+#: .\templates\schizophrenia-cognitive-symptoms.html:42
 msgid "A) Impaired attention"
 msgstr "A) Verminderde aandacht"
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:45
+#: .\templates\schizophrenia-cognitive-symptoms.html:48
 msgid "B) Poor executive functioning"
 msgstr "B) Slecht uitvoerend functioneren"
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:52
+#: .\templates\schizophrenia-cognitive-symptoms.html:55
 msgid "C) Enhanced memory recall"
 msgstr "C) Verbeterde geheugenoproep"
 
-#: .\templates\schizophrenia-cognitive-symptoms.html:59
+#: .\templates\schizophrenia-cognitive-symptoms.html:62
 msgid "D) Difficulty with working memory"
 msgstr "D) Moeilijkheden met werkgeheugen"
 
-#: .\templates\schizophrenia-end.html:10
+#: .\templates\schizophrenia-end.html:10 .\templates\schizophrenia.html:10
 msgid "Schizophrenia"
 msgstr "Schizofrenie"
 
@@ -629,226 +813,295 @@ msgstr "Schizofrenie"
 msgid "Negative Symptoms of Schizophrenia"
 msgstr "Negatieve symptomen van schizofrenie"
 
-#: .\templates\schizophrenia-negative-symptoms.html:22
+#: .\templates\schizophrenia-negative-symptoms.html:25
 msgid ""
 "Negative symptoms of schizophrenia refer to the absence or reduction of "
 "normal behaviors and functions that are usually present in healthy "
 "individuals. These symptoms reflect a loss of abilities and can "
-"significantly impair a person\\"
-msgstr "Negatieve symptomen van schizofrenie verwijzen naar de afwezigheid of vermindering van normaal gedrag en normale functies die gewoonlijk aanwezig zijn bij gezonde individuen. Deze symptomen weerspiegelen een verlies van vaardigheden en kunnen een persoon aanzienlijk schaden\\"
+"significantly impair a person's daily functioning and quality of life. "
+"Unlike positive symptoms, which add abnormal experiences or behaviors, "
+"negative symptoms take away normal capabilities and emotional responses."
+msgstr ""
+"Negatieve symptomen van schizofrenie verwijzen naar de afwezigheid of vermindering van normaal gedrag en normale functies die gewoonlijk aanwezig zijn bij gezonde individuen. Deze symptomen weerspiegelen een verlies van vermogens en kunnen het dagelijks functioneren en de kwaliteit van leven van een persoon aanzienlijk aantasten. In tegenstelling tot positieve symptomen, die abnormale ervaringen of gedrag toevoegen, nemen negatieve symptomen normale vermogens en emotionele reacties weg."
 
-#: .\templates\schizophrenia-negative-symptoms.html:26
+#: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
-"person\\"
-msgstr "Verminderde expressie van emoties: Dit is ook wel bekend als vlak affect, dit is waar een persoon\\"
+"person's face remains immobile, and they speak in a dull or monotonous voice."
+msgstr ""
+"Verminderde expressie van emoties: Dit is ook wel bekend als vlak affect, waarbij het gezicht van een persoon onbeweeglijk blijft en hij of zij met een doffe of monotone stem spreekt."
 
-#: .\templates\schizophrenia-negative-symptoms.html:27
+#: .\templates\schizophrenia-negative-symptoms.html:30
 msgid ""
 "Reduced feelings of pleasure in everyday life: This refers to anhedonia, "
 "where the individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr "Verminderde gevoelens van plezier in het dagelijks leven: Dit verwijst naar anhedonie, waarbij het individu een verminderd vermogen ervaart om plezier te voelen bij activiteiten die ooit plezierig waren."
+msgstr ""
+"Verminderde gevoelens van plezier in het dagelijks leven: Dit verwijst naar "
+"anhedonie, waarbij het individu een verminderd vermogen ervaart om plezier "
+"te voelen bij activiteiten die ooit plezierig waren."
 
-#: .\templates\schizophrenia-negative-symptoms.html:28
+#: .\templates\schizophrenia-negative-symptoms.html:31
 msgid ""
 "Difficulty beginning and sustaining activities: Known as avolition, this is "
 "characterized by a lack of motivation to start or maintain tasks, including "
 "everyday activities."
-msgstr "Moeilijkheden bij het starten en volhouden van activiteiten: Dit staat bekend als avolitie en wordt gekenmerkt door een gebrek aan motivatie om taken te starten of vol te houden, inclusief dagelijkse activiteiten."
+msgstr ""
+"Moeilijkheden bij het starten en volhouden van activiteiten: Dit staat "
+"bekend als avolitie en wordt gekenmerkt door een gebrek aan motivatie om "
+"taken te starten of vol te houden, inclusief dagelijkse activiteiten."
 
-#: .\templates\schizophrenia-negative-symptoms.html:29
+#: .\templates\schizophrenia-negative-symptoms.html:32
 msgid ""
 "Reduced speaking: Also called alogia, this involves a significant reduction "
 "in the amount and content of speech, often resulting in brief and empty "
 "replies."
-msgstr "Verminderd spreken: Ook wel alogia genoemd, dit houdt een aanzienlijke vermindering in van de hoeveelheid en de inhoud van de spraak, wat vaak resulteert in korte en lege antwoorden."
+msgstr ""
+"Verminderd spreken: Ook wel alogia genoemd, dit houdt een aanzienlijke "
+"vermindering in van de hoeveelheid en de inhoud van de spraak, wat vaak "
+"resulteert in korte en lege antwoorden."
 
-#: .\templates\schizophrenia-negative-symptoms.html:36
+#: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
 "schizophrenia known as avolition?"
-msgstr "Vraag: Welke van de volgende omschrijvingen beschrijft het beste het negatieve symptoom van schizofrenie, bekend als avolitie?"
+msgstr ""
+"Vraag: Welke van de volgende omschrijvingen beschrijft het beste het "
+"negatieve symptoom van schizofrenie, bekend als avolitie?"
 
-#: .\templates\schizophrenia-negative-symptoms.html:40
+#: .\templates\schizophrenia-negative-symptoms.html:43
 msgid ""
 "A) The individual has difficulty beginning and sustaining activities, "
 "showing a lack of motivation for tasks including daily routines."
-msgstr "A) Het individu heeft moeite met het starten en volhouden van activiteiten, wat blijk geeft van een gebrek aan motivatie voor taken, waaronder dagelijkse routines."
+msgstr ""
+"A) Het individu heeft moeite met het starten en volhouden van activiteiten, "
+"wat blijk geeft van een gebrek aan motivatie voor taken, waaronder "
+"dagelijkse routines."
 
-#: .\templates\schizophrenia-negative-symptoms.html:46
-msgid "B) A person\\"
-msgstr "B) Een persoon\\"
+#: .\templates\schizophrenia-negative-symptoms.html:49
+msgid ""
+"B) A person's face does not move, and they speak in a dull or monotonous "
+"voice."
+msgstr "B) Het gezicht van een persoon beweegt niet en hij spreekt met een doffe of monotone stem."
 
-#: .\templates\schizophrenia-negative-symptoms.html:53
+#: .\templates\schizophrenia-negative-symptoms.html:56
 msgid ""
 "C) The individual experiences a decreased ability to feel pleasure from "
 "activities that were once enjoyable."
-msgstr "Het individu ervaart een verminderd vermogen om plezier te beleven aan activiteiten die ooit plezierig waren."
+msgstr ""
+"C) Het individu ervaart een verminderd vermogen om plezier te beleven aan "
+"activiteiten die ooit plezierig waren."
 
-#: .\templates\schizophrenia-negative-symptoms.html:60
+#: .\templates\schizophrenia-negative-symptoms.html:63
 msgid ""
 "D) The individual has a significant reduction in the amount and content of "
 "speech, often resulting in brief and empty replies."
-msgstr "D) Het individu heeft een aanzienlijke vermindering van de hoeveelheid en de inhoud van de spraak, wat vaak resulteert in korte en lege antwoorden."
+msgstr ""
+"D) Het individu heeft een aanzienlijke vermindering van de hoeveelheid en de "
+"inhoud van de spraak, wat vaak resulteert in korte en lege antwoorden."
 
-#: .\templates\schizophrenia-negative-symptoms.html:67
+#: .\templates\schizophrenia-negative-symptoms.html:70
 msgid ""
 "E) The individual withdraws from social interactions and prefers to be "
 "alone, avoiding social situations."
-msgstr "E) Het individu trekt zich terug uit sociale interacties en is het liefst alleen, waarbij hij sociale situaties vermijdt."
+msgstr ""
+"E) Het individu trekt zich terug uit sociale interacties en is het liefst "
+"alleen, waarbij hij sociale situaties vermijdt."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
 msgid "Positive Symptoms of Schizophrenia"
 msgstr "Positieve symptomen van schizofrenie"
 
-#: .\templates\schizophrenia-positive-symptoms.html:22
+#: .\templates\schizophrenia-positive-symptoms.html:25
 msgid ""
 "Positive Symptoms refer to the presence of behaviors or experiences that are "
 "not typically present when healthy. These symptoms represent an excess or "
 "distortion of normal functions. They are called positive not because they "
 "are beneficial, but because they add something to the persons mental state "
 "that should not be there."
-msgstr "Positieve symptomen verwijzen naar de aanwezigheid van gedrag of ervaringen die normaal gesproken niet aanwezig zijn als ze gezond zijn. Deze symptomen vertegenwoordigen een overmaat of vervorming van de normale functies. Ze worden niet positief genoemd omdat ze heilzaam zijn, maar omdat ze iets toevoegen aan de mentale toestand van de persoon dat er niet zou moeten zijn."
+msgstr ""
+"Positieve symptomen verwijzen naar de aanwezigheid van gedrag of ervaringen "
+"die normaal gesproken niet aanwezig zijn als ze gezond zijn. Deze symptomen "
+"vertegenwoordigen een overmaat of vervorming van de normale functies. Ze "
+"worden niet positief genoemd omdat ze heilzaam zijn, maar omdat ze iets "
+"toevoegen aan de mentale toestand van de persoon dat er niet zou moeten zijn."
 
-#: .\templates\schizophrenia-positive-symptoms.html:26
+#: .\templates\schizophrenia-positive-symptoms.html:29
 msgid ""
 "Hallucinations: These are false sensory perceptions that occur without any "
 "external stimuli. For example it might be that the individual hears voices "
-"or sees things that aren\\"
-msgstr "Hallucinaties: dit zijn valse zintuiglijke waarnemingen die plaatsvinden zonder externe stimuli. Het kan bijvoorbeeld zijn dat het individu stemmen hoort of dingen ziet die niet\\"
+"or sees things that aren't actually present."
+msgstr ""
+"Hallucinaties: dit zijn valse zintuiglijke waarnemingen die plaatsvinden zonder externe stimuli. Het kan bijvoorbeeld zijn dat het individu stemmen hoort of dingen ziet die in werkelijkheid niet aanwezig zijn."
 
-#: .\templates\schizophrenia-positive-symptoms.html:27
+#: .\templates\schizophrenia-positive-symptoms.html:30
 msgid ""
 "Delusions: These are strong, false beliefs that are not based in reality. "
 "For instance, a person might believe they have special powers, or they might "
 "think they are being persecuted or watched."
-msgstr "Wanen: dit zijn sterke, valse overtuigingen die niet op de werkelijkheid zijn gebaseerd. Iemand kan bijvoorbeeld denken dat hij speciale krachten heeft, of hij kan denken dat hij wordt vervolgd of in de gaten wordt gehouden."
+msgstr ""
+"Wanen: dit zijn sterke, valse overtuigingen die niet op de werkelijkheid "
+"zijn gebaseerd. Iemand kan bijvoorbeeld denken dat hij speciale krachten "
+"heeft, of hij kan denken dat hij wordt vervolgd of in de gaten wordt "
+"gehouden."
 
-#: .\templates\schizophrenia-positive-symptoms.html:28
+#: .\templates\schizophrenia-positive-symptoms.html:31
 msgid ""
 "Thought Disorders: These involve unusual or dysfunctional ways of thinking. "
 "A person might have trouble organizing their thoughts or connecting them "
 "logically."
-msgstr "Gedachtestoornissen: deze omvatten ongebruikelijke of disfunctionele manieren van denken. Iemand kan problemen hebben met het ordenen van zijn gedachten of het logisch verbinden ervan."
+msgstr ""
+"Gedachtestoornissen: deze omvatten ongebruikelijke of disfunctionele "
+"manieren van denken. Iemand kan problemen hebben met het ordenen van zijn "
+"gedachten of het logisch verbinden ervan."
 
-#: .\templates\schizophrenia-positive-symptoms.html:29
+#: .\templates\schizophrenia-positive-symptoms.html:32
 msgid ""
 "Movement Disorders: These can include a variety of abnormal motor behaviors. "
 "This might involve repetitive movements or, conversely, catatonia, which is "
 "a state of immobility and unresponsiveness."
-msgstr "Bewegingsstoornissen: deze kunnen een verscheidenheid aan abnormaal motorisch gedrag omvatten. Hierbij kan sprake zijn van repetitieve bewegingen of, omgekeerd, van catatonie, wat een toestand van immobiliteit en niet-reactiviteit is."
+msgstr ""
+"Bewegingsstoornissen: deze kunnen een verscheidenheid aan abnormaal "
+"motorisch gedrag omvatten. Hierbij kan sprake zijn van repetitieve "
+"bewegingen of, omgekeerd, van catatonie, wat een toestand van immobiliteit "
+"en niet-reactiviteit is."
 
-#: .\templates\schizophrenia-positive-symptoms.html:36
+#: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
 "symptoms of schizophrenia?"
-msgstr "Vraag: Welke van de volgende beweringen beschrijft correct de positieve symptomen van schizofrenie?"
+msgstr ""
+"Vraag: Welke van de volgende beweringen beschrijft correct de positieve "
+"symptomen van schizofrenie?"
 
-#: .\templates\schizophrenia-positive-symptoms.html:40
+#: .\templates\schizophrenia-positive-symptoms.html:43
 msgid ""
 "A) Hallucinations: These involve sensory experiences without external "
 "stimuli, such as hearing voices or seeing things that are not there."
-msgstr "A) Hallucinaties: hierbij gaat het om zintuiglijke ervaringen zonder externe prikkels, zoals het horen van stemmen of het zien van dingen die er niet zijn."
+msgstr ""
+"A) Hallucinaties: hierbij gaat het om zintuiglijke ervaringen zonder externe "
+"prikkels, zoals het horen van stemmen of het zien van dingen die er niet "
+"zijn."
 
-#: .\templates\schizophrenia-positive-symptoms.html:46
+#: .\templates\schizophrenia-positive-symptoms.html:49
 msgid ""
 "B) Delusions: These are weakly held false beliefs that are based in reality, "
 "such as thinking that one is occasionally being followed."
-msgstr "B) Waanvoorstellingen: dit zijn zwakke, valse overtuigingen die op de werkelijkheid zijn gebaseerd, zoals het denken dat iemand af en toe wordt gevolgd."
+msgstr ""
+"B) Waanvoorstellingen: dit zijn zwakke, valse overtuigingen die op de "
+"werkelijkheid zijn gebaseerd, zoals het denken dat iemand af en toe wordt "
+"gevolgd."
 
-#: .\templates\schizophrenia-positive-symptoms.html:53
+#: .\templates\schizophrenia-positive-symptoms.html:56
 msgid ""
 "C) Thought Disorders: These involve highly organized and logical ways of "
 "thinking that enhance a person’s cognitive functions."
-msgstr "C) Denkstoornissen: deze omvatten zeer georganiseerde en logische manieren van denken die de cognitieve functies van een persoon verbeteren."
+msgstr ""
+"C) Denkstoornissen: deze omvatten zeer georganiseerde en logische manieren "
+"van denken die de cognitieve functies van een persoon verbeteren."
 
-#: .\templates\schizophrenia-positive-symptoms.html:60
+#: .\templates\schizophrenia-positive-symptoms.html:63
 msgid ""
 "D) Movement Disorders: These include both agitated body movements and "
 "catatonia, which is characterized by excessive physical activity."
-msgstr "D) Bewegingsstoornissen: Deze omvatten zowel geagiteerde lichaamsbewegingen als catatonie, die wordt gekenmerkt door overmatige fysieke activiteit."
+msgstr ""
+"D) Bewegingsstoornissen: Deze omvatten zowel geagiteerde lichaamsbewegingen "
+"als catatonie, die wordt gekenmerkt door overmatige fysieke activiteit."
 
 #: .\templates\schizophrenia-symptoms.html:10
 msgid "Symptoms of Schizophrenia"
 msgstr "Symptomen van schizofrenie"
 
-#: .\templates\schizophrenia-symptoms.html:22
+#: .\templates\schizophrenia-symptoms.html:25
 msgid ""
 "Symptoms of schizophrenia can be broadly categorized into three groups: "
 "positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr "Symptomen van schizofrenie kunnen grofweg in drie groepen worden onderverdeeld: positieve symptomen, negatieve symptomen en cognitieve symptomen."
+msgstr ""
+"Symptomen van schizofrenie kunnen grofweg in drie groepen worden "
+"onderverdeeld: positieve symptomen, negatieve symptomen en cognitieve "
+"symptomen."
 
-#: .\templates\schizophrenia-symptoms.html:26
+#: .\templates\schizophrenia-symptoms.html:29
 msgid ""
 "Positive symptoms include additional things that others do not have like "
 "hearing voices, seeing things that are not there etc."
-msgstr "Positieve symptomen omvatten extra dingen die anderen niet hebben, zoals het horen van stemmen, het zien van dingen die er niet zijn, enz."
+msgstr ""
+"Positieve symptomen omvatten extra dingen die anderen niet hebben, zoals het "
+"horen van stemmen, het zien van dingen die er niet zijn, enz."
 
-#: .\templates\schizophrenia-symptoms.html:27
+#: .\templates\schizophrenia-symptoms.html:30
 msgid ""
 "Negative symptoms could be loss of something such as ability to feel joy."
-msgstr "Negatieve symptomen kunnen het verlies van iets zijn, zoals het vermogen om vreugde te voelen."
+msgstr ""
+"Negatieve symptomen kunnen het verlies van iets zijn, zoals het vermogen om "
+"vreugde te voelen."
 
-#: .\templates\schizophrenia-symptoms.html:28
+#: .\templates\schizophrenia-symptoms.html:31
 msgid ""
 "Cognitive symptoms are related to changes in memory or other aspects of "
 "thinking."
-msgstr "Cognitieve symptomen houden verband met veranderingen in het geheugen of andere aspecten van het denken."
+msgstr ""
+"Cognitieve symptomen houden verband met veranderingen in het geheugen of "
+"andere aspecten van het denken."
 
-#: .\templates\schizophrenia-symptoms.html:35
+#: .\templates\schizophrenia-symptoms.html:38
 msgid ""
-"Which categorization distinguishes the symptoms of schizophrenia based on "
-"their characteristics?"
-msgstr "Welke categorisering onderscheidt de symptomen van schizofrenie op basis van hun kenmerken?"
+"Question: Which categorization distinguishes the symptoms of schizophrenia "
+"based on their characteristics?"
+msgstr ""
+"Vraag: Welke categorisering onderscheidt de symptomen van schizofrenie op basis van hun kenmerken?"
 
-#: .\templates\schizophrenia-symptoms.html:39
+#: .\templates\schizophrenia-symptoms.html:42
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
 msgstr "A) Primaire symptomen, secundaire symptomen, tertiaire symptomen."
 
-#: .\templates\schizophrenia-symptoms.html:45
+#: .\templates\schizophrenia-symptoms.html:48
 msgid "B) Active symptoms, passive symptoms, cognitive symptoms."
 msgstr "B) Actieve symptomen, passieve symptomen, cognitieve symptomen."
 
-#: .\templates\schizophrenia-symptoms.html:52
+#: .\templates\schizophrenia-symptoms.html:55
 msgid "C) Manifest symptoms, latent symptoms, residual symptoms."
 msgstr "C) Manifeste symptomen, latente symptomen, restsymptomen."
 
-#: .\templates\schizophrenia-symptoms.html:59
+#: .\templates\schizophrenia-symptoms.html:62
 msgid "D) Positive symptoms, negative symptoms, cognitive symptoms."
 msgstr "D) Positieve symptomen, negatieve symptomen, cognitieve symptomen."
 
-#: .\templates\schizophrenia.html:10
-msgid "schizophrenia"
-msgstr "schizofrenie"
-
-#: .\templates\schizophrenia.html:22
+#: .\templates\schizophrenia.html:26
 msgid ""
 "Schizophrenia is a chronic and severe mental disorder that affects how a "
 "person thinks, feels, and behaves. When someone has schizophrenia it can "
 "seem like they have lost touch with reality, which can be distressing for "
-"them and for those around them. "
-msgstr "Schizofrenie is een chronische en ernstige psychische stoornis die invloed heeft op hoe iemand denkt, voelt en zich gedraagt. Wanneer iemand schizofrenie heeft, kan het lijken alsof hij of zij het contact met de werkelijkheid is kwijtgeraakt, wat verontrustend kan zijn voor hemzelf en voor de mensen om hem heen."
-
-#: .\templates\schizophrenia.html:28
-msgid "Which of the following best characterizes schizophrenia?"
-msgstr "Welke van de volgende karakteriseert schizofrenie het beste?"
+"them and for those around them."
+msgstr ""
+"Schizofrenie is een chronische en ernstige psychische stoornis die invloed "
+"heeft op hoe iemand denkt, voelt en zich gedraagt. Wanneer iemand "
+"schizofrenie heeft, kan het lijken alsof hij of zij het contact met de "
+"werkelijkheid is kwijtgeraakt, wat verontrustend kan zijn voor hemzelf en "
+"voor de mensen om hem heen."
 
 #: .\templates\schizophrenia.html:32
+msgid "Question: Which of the following best characterizes schizophrenia?"
+msgstr "Vraag: Welke van de volgende karakteriseert schizofrenie het beste?"
+
+#: .\templates\schizophrenia.html:36
 msgid "A) A temporary mental disorder caused by stress"
 msgstr "A) Een tijdelijke psychische stoornis veroorzaakt door stress"
 
-#: .\templates\schizophrenia.html:38
+#: .\templates\schizophrenia.html:42
 msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr "B) Een chronische aandoening die het denken, voelen en gedrag beïnvloedt"
+msgstr ""
+"B) Een chronische aandoening die het denken, voelen en gedrag beïnvloedt"
 
-#: .\templates\schizophrenia.html:46
+#: .\templates\schizophrenia.html:50
 msgid "C) A physical illness with visible symptoms"
 msgstr "C) Een lichamelijke ziekte met zichtbare symptomen"
 
-#: .\templates\schizophrenia.html:53
+#: .\templates\schizophrenia.html:57
 msgid "D) A mood disorder primarily marked by extreme sadness"
-msgstr "D) Een stemmingsstoornis die voornamelijk wordt gekenmerkt door extreme droefheid"
+msgstr ""
+"D) Een stemmingsstoornis die voornamelijk wordt gekenmerkt door extreme "
+"droefheid"
 
 #: .\views.py:8 .\views.py:15 .\views.py:22 .\views.py:29 .\views.py:36
 #: .\views.py:43 .\views.py:55 .\views.py:62 .\views.py:69 .\views.py:76
@@ -861,3 +1114,37 @@ msgstr "<strong>Onjuist</strong><br>U heeft een onjuiste optie geselecteerd."
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
 msgstr "<strong>Juist</strong><br>U heeft de juiste optie geselecteerd."
+
+#~ msgid ""
+#~ "We greatly appreciate your dedication in completing the course on "
+#~ "schizophrenia and relapse. Through your commitment, we trust you\\"
+#~ msgstr ""
+#~ "Wij stellen uw inzet bij het voltooien van de cursus over schizofrenie en "
+#~ "terugval zeer op prijs. Door uw inzet vertrouwen wij u\\"
+
+#~ msgid "False Positive and Errors"
+#~ msgstr "Valse positieven en fouten"
+
+#~ msgid "In other words, it\\"
+#~ msgstr "Met andere woorden: het\\"
+
+#~ msgid ""
+#~ "Symptoms Reappearance: This means the return of the particular symptoms "
+#~ "associated with the person\\"
+#~ msgstr ""
+#~ "Opnieuw optreden van symptomen: Dit betekent de terugkeer van de "
+#~ "specifieke symptomen die verband houden met de persoon\\"
+
+#~ msgid "Behavioral Changes: These are observable changes in a person\\"
+#~ msgstr ""
+#~ "Gedragsveranderingen: dit zijn waarneembare veranderingen bij een persoon"
+#~ "\\"
+
+#~ msgid "You\\"
+#~ msgstr "Jij\\"
+
+#~ msgid "B) A person\\"
+#~ msgstr "B) Een persoon\\"
+
+#~ msgid "schizophrenia"
+#~ msgstr "schizofrenie"
