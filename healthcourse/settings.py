@@ -26,8 +26,7 @@ SECRET_KEY = 'django-insecure-7dn+n=q^_^pmcmm7pu92dv%f82^!aep3(enfuw3i#g(8pmf%+v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['*']
-ALLOWED_HOSTS = ['trusting-ehealthcourse.azurewebsites.net', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -46,12 +45,9 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
-    "corsheaders.middleware.CorsMiddleware",
-    "django.middleware.common.CommonMiddleware",
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -136,17 +132,10 @@ LOCALE_PATHS = [os.path.join(BASE_DIR, 'locale')]
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
-# STATIC_URL = '/static/'
-STATIC_URL = 'static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
+STATIC_URL = '/static/'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
-#DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-#SCM_DO_BUILD_DURING_DEPLOYMENT = True
-
-# Add azure web app as trusted CRSF
-CRSF_TRUSTED_ORIGINS = ["fintech-app.azurewebsites.net"]
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+SCM_DO_BUILD_DURING_DEPLOYMENT = True
