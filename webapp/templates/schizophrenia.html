@@ -7,7 +7,7 @@
 {% block content %}
 <div class="container"> 
 	<div class="card">
-	  <div class="card-header"> <h1>{% trans "Schizophrenia" %}</h1></div>
+	  <div class="card-header"> <h1>{% trans "Psychosis" %}</h1></div>
 	  <div class="card-body">
 	  	<div class="text-center mb-2">
 
@@ -23,13 +23,13 @@
 	  	</div>
 
 	  	<h6>
-	  		{% trans "Schizophrenia is a chronic and severe mental disorder that affects how a person thinks, feels, and behaves. When someone has schizophrenia it can seem like they have lost touch with reality, which can be distressing for them and for those around them." %}
+	  		{% trans "Psychosis is a severe mental disorder that affects how a person thinks, feels, and behaves. When someone has a psychosis it can seem like they have lost touch with reality, which can be distressing for them and for those around them." %}
 	  	</h6>
 	    <div class="mt-5">
 	    	<div class="panel panel-understanding-check">
 					<form class="multipleChoice">
 						<div class="form-group">
-							<label for="radio"><h4 class="bg-info">{% trans "Question: Which of the following best characterizes schizophrenia?" %}</h4></label>
+							<label for="radio"><h4 class="bg-info">{% trans "Question: Which of the following best characterizes psychosis?" %}</h4></label>
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-1" data-alert-type="alert-danger" data-comment="{{ incorrect_msg }}" value="radio97468235240">
@@ -39,7 +39,7 @@
 							<div class="radio">
 								<label>
 									<input type="radio" data-question-number="1" name="question-1" id="bsr-radios-2" data-alert-type="alert-success" data-comment="{{ correct_msg }}" value="radio97468235240">
-									{% trans "B) A chronic condition affecting thinking, feeling, and behavior" %}
+									{% trans "B) A condition affecting thinking, feeling, and behavior" %}
 								</label>
 							</div>
 							
