@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-05 09:05+0200\n"
+"POT-Creation-Date: 2024-10-10 15:39+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -39,7 +39,13 @@ msgid ""
 "recognized the nuances of errors, whether they stem from false positives or "
 "false negatives. Our aim is that the information provided will empower you "
 "to navigate your daily activities with greater understanding and efficacy."
-msgstr "Velmi si vážíme vaší obětavosti při absolvování kurzu o schizofrenii a relapsu. Věříme, že díky vašemu nasazení jste získali zásadní vhled do těchto témat. Kromě toho jsme si jisti, že jste rozpoznali nuance chyb, ať už pocházejí z falešně pozitivních nebo falešně negativních výsledků. Naším cílem je, aby vám poskytnuté informace umožnily orientovat se ve vašich každodenních činnostech s větším porozuměním a účinností."
+msgstr ""
+"Velmi si vážíme vaší obětavosti při absolvování kurzu o schizofrenii a "
+"relapsu. Věříme, že díky vašemu nasazení jste získali zásadní vhled do "
+"těchto témat. Kromě toho jsme si jisti, že jste rozpoznali nuance chyb, ať "
+"už pocházejí z falešně pozitivních nebo falešně negativních výsledků. Naším "
+"cílem je, aby vám poskytnuté informace umožnily orientovat se ve vašich "
+"každodenních činnostech s větším porozuměním a účinností."
 
 #: .\templates\errors.html:10
 msgid "Types of Errors"
@@ -162,11 +168,9 @@ msgstr "Tento krátký kurz má tři hlavní cíle:"
 
 #: .\templates\home.html:28
 msgid ""
-"Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
-"a naturally occurring illness and not the fault of the individual."
-msgstr ""
-"Představte základní pojmy schizofrenie a zdůrazněte, že jde o přirozeně se "
-"vyskytující onemocnění a nikoli o chybu jednotlivce."
+"Introduce the fundamental concepts of psychosis, emphasizing that it is a "
+"naturally occurring illness and not the fault of the individual."
+msgstr "Představte základní pojmy psychózy a zdůrazněte, že jde o přirozeně se vyskytující onemocnění a nikoli o chybu jednotlivce."
 
 #: .\templates\home.html:29
 msgid ""
@@ -177,10 +181,8 @@ msgstr "Poučte účastníky o konceptu relapsů a o tom, jak je včas předvíd
 #: .\templates\home.html:30
 msgid ""
 "Help participants understand that there can be false positives and errors in "
-"diagnosing schizophrenia and identifying relapses."
-msgstr ""
-"Pomozte účastníkům pochopit, že při diagnostice schizofrenie a identifikaci "
-"relapsů mohou existovat falešně pozitivní výsledky a chyby."
+"diagnosing psychosis and identifying relapses."
+msgstr "Pomozte účastníkům pochopit, že při diagnostice psychózy a identifikaci relapsů mohou existovat falešná pozitiva a chyby."
 
 #: .\templates\home.html:34
 msgid ""
@@ -221,7 +223,11 @@ msgid ""
 "associated with the person's mental health condition. For example, in "
 "depression, it might mean feeling sad or hopeless again; in anxiety, it "
 "could mean experiencing heightened levels of worry or panic attacks."
-msgstr "Znovuobjevení příznaků: To znamená návrat konkrétních příznaků spojených s duševním stavem dané osoby. Například v depresi to může znamenat opětovný pocit smutku nebo beznaděje; v úzkosti to může znamenat prožívání zvýšené úrovně obav nebo záchvatů paniky."
+msgstr ""
+"Znovuobjevení příznaků: To znamená návrat konkrétních příznaků spojených s "
+"duševním stavem dané osoby. Například v depresi to může znamenat opětovný "
+"pocit smutku nebo beznaděje; v úzkosti to může znamenat prožívání zvýšené "
+"úrovně obav nebo záchvatů paniky."
 
 #: .\templates\relapse-char.html:29
 msgid ""
@@ -250,7 +256,10 @@ msgid ""
 "Behavioral Changes: These are observable changes in a person's behavior, "
 "such as withdrawing from social activities, neglecting responsibilities, or "
 "changes in daily routines."
-msgstr "Změny chování: Jedná se o pozorovatelné změny v chování člověka, jako je stažení se ze společenských aktivit, zanedbávání povinností nebo změny v denních rutinách."
+msgstr ""
+"Změny chování: Jedná se o pozorovatelné změny v chování člověka, jako je "
+"stažení se ze společenských aktivit, zanedbávání povinností nebo změny v "
+"denních rutinách."
 
 #: .\templates\relapse-char.html:32
 msgid ""
@@ -339,7 +348,10 @@ msgid ""
 "You've reached an important milestone, and your dedication is truly paying "
 "off. Each step you take is bringing you closer to mastering the subject. "
 "Keep up the fantastic effort."
-msgstr "Dosáhli jste důležitého milníku a vaše odhodlání se skutečně vyplácí. Každý krok, který uděláte, vás přiblíží k zvládnutí předmětu. Pokračujte ve fantastickém úsilí."
+msgstr ""
+"Dosáhli jste důležitého milníku a vaše odhodlání se skutečně vyplácí. Každý "
+"krok, který uděláte, vás přiblíží k zvládnutí předmětu. Pokračujte ve "
+"fantastickém úsilí."
 
 #: .\templates\relapse-end.html:30 .\templates\schizophrenia-end.html:30
 msgid "Keep going strong!"
@@ -359,7 +371,12 @@ msgid ""
 "necessary. The goal is to maintain stability, reduce the severity of "
 "symptoms, and enhance the individual's overall well-being."
 msgstr ""
-"Management relapsu v kontextu duševního zdraví se týká souboru strategií a intervencí navržených k prevenci nebo zvládání recidivy symptomů spojených s duševními poruchami. Zahrnuje rozpoznání včasných varovných příznaků možného relapsu, implementaci copingových strategií k řešení těchto příznaků a v případě potřeby vyhledání vhodné odborné pomoci. Cílem je udržet stabilitu, snížit závažnost symptomů a zlepšit celkovou pohodu jedince."
+"Management relapsu v kontextu duševního zdraví se týká souboru strategií a "
+"intervencí navržených k prevenci nebo zvládání recidivy symptomů spojených s "
+"duševními poruchami. Zahrnuje rozpoznání včasných varovných příznaků možného "
+"relapsu, implementaci copingových strategií k řešení těchto příznaků a v "
+"případě potřeby vyhledání vhodné odborné pomoci. Cílem je udržet stabilitu, "
+"snížit závažnost symptomů a zlepšit celkovou pohodu jedince."
 
 #: .\templates\relapse-management.html:26
 msgid "Key components of relapse management include:"
@@ -529,14 +546,16 @@ msgid ""
 "Social Pressure: Influence from friends or family members who engage in "
 "problematic behavior or don't support the recovery."
 msgstr ""
-"Sociální tlak: Vliv přátel nebo rodinných příslušníků, kteří se zapojují do problematického chování nebo nepodporují uzdravení."
+"Sociální tlak: Vliv přátel nebo rodinných příslušníků, kteří se zapojují do "
+"problematického chování nebo nepodporují uzdravení."
 
 #: .\templates\relapse-triggers.html:34
 msgid ""
 "Positive Emotions: Celebratory moments or a sense of overconfidence in one's "
 "recovery can also be triggering."
 msgstr ""
-"Pozitivní emoce: Spouštěcí momenty mohou být také oslavné okamžiky nebo pocit přílišné důvěry ve vlastní uzdravení."
+"Pozitivní emoce: Spouštěcí momenty mohou být také oslavné okamžiky nebo "
+"pocit přílišné důvěry ve vlastní uzdravení."
 
 #: .\templates\relapse-triggers.html:35
 msgid ""
@@ -722,18 +741,17 @@ msgid "D) Regular physical exercise"
 msgstr "D) Pravidelné fyzické cvičení"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
-msgid "Cognitive Symptoms of Schizophrenia"
-msgstr "Kognitivní příznaky schizofrenie"
+msgid "Cognitive Symptoms of Psychosis"
+msgstr "Kognitivní příznaky psychózy"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:25
 msgid ""
-"Cognitive symptoms of schizophrenia refer to problems with the mental "
-"processes involved in gaining knowledge and comprehension. These symptoms "
-"affect a person's ability to think clearly, remember, and organize their "
-"thoughts. Cognitive symptoms can be subtle or severe and often significantly "
-"impact the daily functioning of individuals with schizophrenia."
-msgstr ""
-"Kognitivní příznaky schizofrenie se týkají problémů s mentálními procesy, které se podílejí na získávání znalostí a porozumění. Tyto příznaky ovlivňují schopnost člověka jasně myslet, pamatovat si a organizovat své myšlenky. Kognitivní příznaky mohou být jemné nebo závažné a často významně ovlivňují každodenní fungování jedinců se schizofrenií."
+"Cognitive symptoms of psychosis refer to problems with the mental processes "
+"involved in gaining knowledge and comprehension. These symptoms affect a "
+"person's ability to think clearly, remember, and organize their thoughts. "
+"Cognitive symptoms can be subtle or severe and often significantly impact "
+"the daily functioning of individuals with psychosis."
+msgstr "Kognitivní symptomy psychózy se týkají problémů s mentálními procesy zapojenými do získávání znalostí a porozumění. Tyto příznaky ovlivňují schopnost člověka jasně myslet, pamatovat si a organizovat své myšlenky. Kognitivní symptomy mohou být jemné nebo závažné a často významně ovlivňují každodenní fungování jedinců s psychózou."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:29
 msgid ""
@@ -766,10 +784,8 @@ msgstr ""
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
-"associated with schizophrenia?"
-msgstr ""
-"Otázka: Který z následujících kognitivních symptomů NENÍ běžně spojován se "
-"schizofrenií?"
+"associated with psychosis?"
+msgstr "Otázka: Který z následujících kognitivních symptomů NENÍ běžně spojován s psychózou?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:42
 msgid "A) Impaired attention"
@@ -788,30 +804,30 @@ msgid "D) Difficulty with working memory"
 msgstr "D) Potíže s pracovní pamětí"
 
 #: .\templates\schizophrenia-end.html:10 .\templates\schizophrenia.html:10
-msgid "Schizophrenia"
-msgstr "Schizofrenie"
+msgid "Psychosis"
+msgstr "Psychóza"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
-msgid "Negative Symptoms of Schizophrenia"
-msgstr "Negativní příznaky schizofrenie"
+msgid "Negative Symptoms of Psychosis"
+msgstr "Negativní příznaky psychózy"
 
 #: .\templates\schizophrenia-negative-symptoms.html:25
 msgid ""
-"Negative symptoms of schizophrenia refer to the absence or reduction of "
-"normal behaviors and functions that are usually present in healthy "
-"individuals. These symptoms reflect a loss of abilities and can "
-"significantly impair a person's daily functioning and quality of life. "
-"Unlike positive symptoms, which add abnormal experiences or behaviors, "
-"negative symptoms take away normal capabilities and emotional responses."
-msgstr ""
-"Negativní příznaky schizofrenie se týkají absence nebo omezení normálního chování a funkcí, které jsou obvykle přítomny u zdravých jedinců. Tyto příznaky odrážejí ztrátu schopností a mohou významně zhoršit každodenní fungování a kvalitu života člověka. Na rozdíl od pozitivních symptomů, které přidávají abnormální zážitky nebo chování, negativní symptomy odebírají normální schopnosti a emocionální reakce."
+"Negative symptoms of psychosis refer to the absence or reduction of normal "
+"behaviors and functions that are usually present in healthy individuals. "
+"These symptoms reflect a loss of abilities and can significantly impair a "
+"person's daily functioning and quality of life. Unlike positive symptoms, "
+"which add abnormal experiences or behaviors, negative symptoms take away "
+"normal capabilities and emotional responses."
+msgstr "Negativní symptomy psychózy se týkají absence nebo omezení normálního chování a funkcí, které jsou obvykle přítomny u zdravých jedinců. Tyto příznaky odrážejí ztrátu schopností a mohou významně zhoršit každodenní fungování a kvalitu života člověka. Na rozdíl od pozitivních symptomů, které přidávají abnormální zážitky nebo chování, negativní symptomy odebírají normální schopnosti a emocionální reakce."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person's face remains immobile, and they speak in a dull or monotonous voice."
 msgstr ""
-"Snížený výraz emocí: Také známý jako plochý afekt, je to stav, kdy tvář člověka zůstává nehybná a mluví tupým nebo monotónním hlasem."
+"Snížený výraz emocí: Také známý jako plochý afekt, je to stav, kdy tvář "
+"člověka zůstává nehybná a mluví tupým nebo monotónním hlasem."
 
 #: .\templates\schizophrenia-negative-symptoms.html:30
 msgid ""
@@ -845,10 +861,8 @@ msgstr ""
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
-"schizophrenia known as avolition?"
-msgstr ""
-"Otázka: Která z následujících možností nejlépe popisuje negativní symptom "
-"schizofrenie známý jako avolition?"
+"psychosis known as avolition?"
+msgstr "Otázka: Která z následujících možností nejlépe popisuje negativní symptom psychózy známý jako avolition?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:43
 msgid ""
@@ -889,8 +903,8 @@ msgstr ""
 "se sociálním situacím."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
-msgid "Positive Symptoms of Schizophrenia"
-msgstr "Pozitivní příznaky schizofrenie"
+msgid "Positive Symptoms of Psychosis"
+msgstr "Pozitivní příznaky psychózy"
 
 #: .\templates\schizophrenia-positive-symptoms.html:25
 msgid ""
@@ -911,7 +925,9 @@ msgid ""
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren't actually present."
 msgstr ""
-"Halucinace: Jde o falešné smyslové vjemy, ke kterým dochází bez jakýchkoliv vnějších podnětů. Může se například stát, že jedinec slyší hlasy nebo vidí věci, které ve skutečnosti nejsou."
+"Halucinace: Jde o falešné smyslové vjemy, ke kterým dochází bez jakýchkoliv "
+"vnějších podnětů. Může se například stát, že jedinec slyší hlasy nebo vidí "
+"věci, které ve skutečnosti nejsou."
 
 #: .\templates\schizophrenia-positive-symptoms.html:30
 msgid ""
@@ -945,10 +961,8 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
-"symptoms of schizophrenia?"
-msgstr ""
-"Otázka: Které z následujících tvrzení správně popisuje pozitivní příznaky "
-"schizofrenie?"
+"symptoms of psychosis?"
+msgstr "Otázka: Které z následujících tvrzení správně popisuje pozitivní příznaky psychózy?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:43
 msgid ""
@@ -983,16 +997,14 @@ msgstr ""
 "která se vyznačuje nadměrnou fyzickou aktivitou."
 
 #: .\templates\schizophrenia-symptoms.html:10
-msgid "Symptoms of Schizophrenia"
-msgstr "Příznaky schizofrenie"
+msgid "Symptoms of Psychosis"
+msgstr "Příznaky psychózy"
 
 #: .\templates\schizophrenia-symptoms.html:25
 msgid ""
-"Symptoms of schizophrenia can be broadly categorized into three groups: "
-"positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
-"Symptomy schizofrenie lze obecně rozdělit do tří skupin: pozitivní symptomy, "
-"negativní symptomy a kognitivní symptomy."
+"Symptoms of psychosis can be broadly categorized into three groups: positive "
+"symptoms, negative symptoms, and cognitive symptoms."
+msgstr "Symptomy psychózy lze obecně rozdělit do tří skupin: pozitivní symptomy, negativní symptomy a kognitivní symptomy."
 
 #: .\templates\schizophrenia-symptoms.html:29
 msgid ""
@@ -1017,10 +1029,9 @@ msgstr ""
 
 #: .\templates\schizophrenia-symptoms.html:38
 msgid ""
-"Question: Which categorization distinguishes the symptoms of schizophrenia "
-"based on their characteristics?"
-msgstr ""
-"Otázka: Která kategorizace rozlišuje příznaky schizofrenie na základě jejich charakteristik?"
+"Question: Which categorization distinguishes the symptoms of psychosis based "
+"on their characteristics?"
+msgstr "Otázka: Která kategorizace rozlišuje příznaky psychózy na základě jejich charakteristik?"
 
 #: .\templates\schizophrenia-symptoms.html:42
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
@@ -1040,25 +1051,23 @@ msgstr "D) Pozitivní symptomy, negativní symptomy, kognitivní symptomy."
 
 #: .\templates\schizophrenia.html:26
 msgid ""
-"Schizophrenia is a chronic and severe mental disorder that affects how a "
-"person thinks, feels, and behaves. When someone has schizophrenia it can "
-"seem like they have lost touch with reality, which can be distressing for "
-"them and for those around them."
-msgstr ""
-"Schizofrenie je chronická a závažná duševní porucha, která ovlivňuje to, jak člověk myslí, cítí a chová se. Když má někdo schizofrenii, může se zdát, že ztratil kontakt s realitou, což může být pro něj i pro jeho okolí znepokojující."
+"Psychosis is a severe mental disorder that affects how a person thinks, "
+"feels, and behaves. When someone has a psychosis it can seem like they have "
+"lost touch with reality, which can be distressing for them and for those "
+"around them."
+msgstr "Psychóza je závažná duševní porucha, která ovlivňuje to, jak člověk myslí, cítí a chová se. Když má někdo psychózu, může se zdát, že ztratil kontakt s realitou, což může být znepokojující pro něj i pro jeho okolí."
 
 #: .\templates\schizophrenia.html:32
-msgid "Question: Which of the following best characterizes schizophrenia?"
-msgstr ""
-"Otázka: Která z následujících možností nejlépe charakterizuje schizofrenii?"
+msgid "Question: Which of the following best characterizes psychosis?"
+msgstr "Otázka: Která z následujících charakteristik nejlépe charakterizuje psychózu?"
 
 #: .\templates\schizophrenia.html:36
 msgid "A) A temporary mental disorder caused by stress"
 msgstr "A) Dočasná duševní porucha způsobená stresem"
 
 #: .\templates\schizophrenia.html:42
-msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr "B) Chronický stav ovlivňující myšlení, cítění a chování"
+msgid "B) A condition affecting thinking, feeling, and behavior"
+msgstr "B) Stav ovlivňující myšlení, cítění a chování"
 
 #: .\templates\schizophrenia.html:50
 msgid "C) A physical illness with visible symptoms"
@@ -1079,6 +1088,9 @@ msgstr "<strong>Nesprávné</strong><br>Vybrali jste nesprávnou možnost."
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
 msgstr "<strong>Správně</strong><br>Vybrali jste správnou možnost."
+
+#~ msgid "Schizophrenia"
+#~ msgstr "Schizofrenie"
 
 #~ msgid ""
 #~ "We greatly appreciate your dedication in completing the course on "

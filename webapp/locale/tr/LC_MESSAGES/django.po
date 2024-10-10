@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-05 09:24+0200\n"
+"POT-Creation-Date: 2024-10-10 15:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,7 +38,13 @@ msgid ""
 "recognized the nuances of errors, whether they stem from false positives or "
 "false negatives. Our aim is that the information provided will empower you "
 "to navigate your daily activities with greater understanding and efficacy."
-msgstr "Şizofreni ve nüksetmeye ilişkin kursu tamamlama konusundaki kararlılığınızı büyük ölçüde takdir ediyoruz. Bağlılığınız sayesinde, bu konulara ilişkin hayati bilgiler edindiğinize inanıyoruz. Ayrıca, ister yanlış pozitiflerden ister yanlış negatiflerden kaynaklansın, hataların nüanslarını fark ettiğinizden eminiz. Amacımız, sağlanan bilgilerin günlük faaliyetlerinizi daha büyük bir anlayış ve etkinlikle yönlendirmenizi sağlamasıdır."
+msgstr ""
+"Şizofreni ve nüksetmeye ilişkin kursu tamamlama konusundaki kararlılığınızı "
+"büyük ölçüde takdir ediyoruz. Bağlılığınız sayesinde, bu konulara ilişkin "
+"hayati bilgiler edindiğinize inanıyoruz. Ayrıca, ister yanlış pozitiflerden "
+"ister yanlış negatiflerden kaynaklansın, hataların nüanslarını fark "
+"ettiğinizden eminiz. Amacımız, sağlanan bilgilerin günlük faaliyetlerinizi "
+"daha büyük bir anlayış ve etkinlikle yönlendirmenizi sağlamasıdır."
 
 #: .\templates\errors.html:10
 msgid "Types of Errors"
@@ -162,11 +168,9 @@ msgstr "Bu kısa kursun üç temel hedefi vardır:"
 
 #: .\templates\home.html:28
 msgid ""
-"Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
-"a naturally occurring illness and not the fault of the individual."
-msgstr ""
-"Şizofreninin temel kavramlarını tanıtın, bunun doğal olarak oluşan bir "
-"hastalık olduğunu ve bireyin hatası olmadığını vurgulayın."
+"Introduce the fundamental concepts of psychosis, emphasizing that it is a "
+"naturally occurring illness and not the fault of the individual."
+msgstr "Psikozun temel kavramlarını tanıtın, bunun doğal olarak oluşan bir hastalık olduğunu ve bireyin hatası olmadığını vurgulayın."
 
 #: .\templates\home.html:29
 msgid ""
@@ -179,10 +183,8 @@ msgstr ""
 #: .\templates\home.html:30
 msgid ""
 "Help participants understand that there can be false positives and errors in "
-"diagnosing schizophrenia and identifying relapses."
-msgstr ""
-"Katılımcıların, şizofreninin teşhisinde ve nüksetmelerin belirlenmesinde "
-"yanlış pozitifliklerin ve hataların olabileceğini anlamalarına yardımcı olun."
+"diagnosing psychosis and identifying relapses."
+msgstr "Katılımcıların psikozu teşhis etmede ve nüksetmeleri belirlemede yanlış pozitif sonuçlar ve hatalar olabileceğini anlamalarına yardımcı olun."
 
 #: .\templates\home.html:34
 msgid ""
@@ -224,7 +226,12 @@ msgid ""
 "associated with the person's mental health condition. For example, in "
 "depression, it might mean feeling sad or hopeless again; in anxiety, it "
 "could mean experiencing heightened levels of worry or panic attacks."
-msgstr "Semptomların Yeniden Ortaya Çıkması: Bu, kişinin zihinsel sağlık durumuyla ilişkili belirli semptomların geri dönmesi anlamına gelir. Örneğin depresyonda bu, yeniden üzgün veya umutsuz hissetmek anlamına gelebilir; Anksiyete durumunda bu, yüksek düzeyde endişe veya panik atak yaşanması anlamına gelebilir."
+msgstr ""
+"Semptomların Yeniden Ortaya Çıkması: Bu, kişinin zihinsel sağlık durumuyla "
+"ilişkili belirli semptomların geri dönmesi anlamına gelir. Örneğin "
+"depresyonda bu, yeniden üzgün veya umutsuz hissetmek anlamına gelebilir; "
+"Anksiyete durumunda bu, yüksek düzeyde endişe veya panik atak yaşanması "
+"anlamına gelebilir."
 
 #: .\templates\relapse-char.html:29
 msgid ""
@@ -253,7 +260,10 @@ msgid ""
 "Behavioral Changes: These are observable changes in a person's behavior, "
 "such as withdrawing from social activities, neglecting responsibilities, or "
 "changes in daily routines."
-msgstr "Davranış Değişiklikleri: Bunlar, sosyal aktivitelerden çekilme, sorumlulukları ihmal etme veya günlük rutinlerdeki değişiklikler gibi kişinin davranışlarında gözlemlenebilir değişikliklerdir."
+msgstr ""
+"Davranış Değişiklikleri: Bunlar, sosyal aktivitelerden çekilme, "
+"sorumlulukları ihmal etme veya günlük rutinlerdeki değişiklikler gibi "
+"kişinin davranışlarında gözlemlenebilir değişikliklerdir."
 
 #: .\templates\relapse-char.html:32
 msgid ""
@@ -348,7 +358,10 @@ msgid ""
 "You've reached an important milestone, and your dedication is truly paying "
 "off. Each step you take is bringing you closer to mastering the subject. "
 "Keep up the fantastic effort."
-msgstr "Önemli bir dönüm noktasına ulaştınız ve bağlılığınızın karşılığını gerçekten alıyorsunuz. Attığınız her adım sizi konuya hakim olmaya bir adım daha yaklaştırıyor. Fantastik çabaya devam edin."
+msgstr ""
+"Önemli bir dönüm noktasına ulaştınız ve bağlılığınızın karşılığını gerçekten "
+"alıyorsunuz. Attığınız her adım sizi konuya hakim olmaya bir adım daha "
+"yaklaştırıyor. Fantastik çabaya devam edin."
 
 #: .\templates\relapse-end.html:30 .\templates\schizophrenia-end.html:30
 msgid "Keep going strong!"
@@ -368,7 +381,13 @@ msgid ""
 "necessary. The goal is to maintain stability, reduce the severity of "
 "symptoms, and enhance the individual's overall well-being."
 msgstr ""
-"Ruh sağlığı bağlamında nüksetme yönetimi, zihinsel sağlık durumlarıyla ilişkili semptomların tekrarını önlemek veya yönetmek için tasarlanmış bir dizi strateji ve müdahaleyi ifade eder. Potansiyel bir nüksetmenin erken uyarı işaretlerini tanımayı, bu işaretlerle başa çıkmak için başa çıkma stratejilerini uygulamayı ve gerekirse uygun profesyonel yardım almayı içerir. Amaç istikrarı korumak, semptomların şiddetini azaltmak ve bireyin genel refahını arttırmaktır."
+"Ruh sağlığı bağlamında nüksetme yönetimi, zihinsel sağlık durumlarıyla "
+"ilişkili semptomların tekrarını önlemek veya yönetmek için tasarlanmış bir "
+"dizi strateji ve müdahaleyi ifade eder. Potansiyel bir nüksetmenin erken "
+"uyarı işaretlerini tanımayı, bu işaretlerle başa çıkmak için başa çıkma "
+"stratejilerini uygulamayı ve gerekirse uygun profesyonel yardım almayı "
+"içerir. Amaç istikrarı korumak, semptomların şiddetini azaltmak ve bireyin "
+"genel refahını arttırmaktır."
 
 #: .\templates\relapse-management.html:26
 msgid "Key components of relapse management include:"
@@ -538,13 +557,16 @@ msgid ""
 "Social Pressure: Influence from friends or family members who engage in "
 "problematic behavior or don't support the recovery."
 msgstr ""
-"Sosyal Baskı: Sorunlu davranışlarda bulunan veya iyileşmeyi desteklemeyen arkadaşların veya aile üyelerinin etkisi."
+"Sosyal Baskı: Sorunlu davranışlarda bulunan veya iyileşmeyi desteklemeyen "
+"arkadaşların veya aile üyelerinin etkisi."
 
 #: .\templates\relapse-triggers.html:34
 msgid ""
 "Positive Emotions: Celebratory moments or a sense of overconfidence in one's "
 "recovery can also be triggering."
-msgstr "Olumlu Duygular: Kutlama anları veya kişinin iyileşmesine duyduğu aşırı güven duygusu da tetikleyici olabilir."
+msgstr ""
+"Olumlu Duygular: Kutlama anları veya kişinin iyileşmesine duyduğu aşırı "
+"güven duygusu da tetikleyici olabilir."
 
 #: .\templates\relapse-triggers.html:35
 msgid ""
@@ -732,18 +754,17 @@ msgid "D) Regular physical exercise"
 msgstr "D) Düzenli fiziksel egzersiz"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
-msgid "Cognitive Symptoms of Schizophrenia"
-msgstr "Şizofreninin Bilişsel Belirtileri"
+msgid "Cognitive Symptoms of Psychosis"
+msgstr "Psikozun Bilişsel Belirtileri"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:25
 msgid ""
-"Cognitive symptoms of schizophrenia refer to problems with the mental "
-"processes involved in gaining knowledge and comprehension. These symptoms "
-"affect a person's ability to think clearly, remember, and organize their "
-"thoughts. Cognitive symptoms can be subtle or severe and often significantly "
-"impact the daily functioning of individuals with schizophrenia."
-msgstr ""
-"Şizofreninin bilişsel belirtileri, bilgi edinme ve kavramayla ilgili zihinsel süreçlerle ilgili sorunlara işaret eder. Bu belirtiler kişinin net düşünme, hatırlama ve düşüncelerini organize etme yeteneğini etkiler. Bilişsel semptomlar hafif veya şiddetli olabilir ve şizofreni hastalarının günlük işleyişini sıklıkla önemli ölçüde etkiler."
+"Cognitive symptoms of psychosis refer to problems with the mental processes "
+"involved in gaining knowledge and comprehension. These symptoms affect a "
+"person's ability to think clearly, remember, and organize their thoughts. "
+"Cognitive symptoms can be subtle or severe and often significantly impact "
+"the daily functioning of individuals with psychosis."
+msgstr "Psikozun bilişsel belirtileri, bilgi edinme ve kavrama ile ilgili zihinsel süreçlerdeki sorunları ifade eder. Bu belirtiler, bir kişinin net düşünme, hatırlama ve düşüncelerini organize etme yeteneğini etkiler. Bilişsel belirtiler hafif veya şiddetli olabilir ve genellikle psikozlu bireylerin günlük işleyişini önemli ölçüde etkiler."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:29
 msgid ""
@@ -775,10 +796,8 @@ msgstr ""
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
-"associated with schizophrenia?"
-msgstr ""
-"Soru: Aşağıdaki bilişsel belirtilerden hangisi sıklıkla şizofreniyle "
-"ilişkili DEĞİLDİR?"
+"associated with psychosis?"
+msgstr "Soru: Aşağıdaki bilişsel belirtilerden hangisi psikozla yaygın olarak ilişkilendirilmez?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:42
 msgid "A) Impaired attention"
@@ -797,30 +816,31 @@ msgid "D) Difficulty with working memory"
 msgstr "D) Çalışma belleğinde zorluk"
 
 #: .\templates\schizophrenia-end.html:10 .\templates\schizophrenia.html:10
-msgid "Schizophrenia"
-msgstr "Şizofreni"
+msgid "Psychosis"
+msgstr "Psikoz"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
-msgid "Negative Symptoms of Schizophrenia"
-msgstr "Şizofreninin Olumsuz Belirtileri"
+msgid "Negative Symptoms of Psychosis"
+msgstr "Psikozun Negatif Belirtileri"
 
 #: .\templates\schizophrenia-negative-symptoms.html:25
 msgid ""
-"Negative symptoms of schizophrenia refer to the absence or reduction of "
-"normal behaviors and functions that are usually present in healthy "
-"individuals. These symptoms reflect a loss of abilities and can "
-"significantly impair a person's daily functioning and quality of life. "
-"Unlike positive symptoms, which add abnormal experiences or behaviors, "
-"negative symptoms take away normal capabilities and emotional responses."
-msgstr ""
-"Şizofreninin negatif belirtileri, genellikle sağlıklı bireylerde mevcut olan normal davranış ve işlevlerin yokluğu veya azalması anlamına gelir. Bu semptomlar yetenek kaybını yansıtır ve kişinin günlük işleyişini ve yaşam kalitesini önemli ölçüde bozabilir. Anormal deneyimler veya davranışlar ekleyen pozitif semptomların aksine, negatif semptomlar normal yetenekleri ve duygusal tepkileri ortadan kaldırır."
+"Negative symptoms of psychosis refer to the absence or reduction of normal "
+"behaviors and functions that are usually present in healthy individuals. "
+"These symptoms reflect a loss of abilities and can significantly impair a "
+"person's daily functioning and quality of life. Unlike positive symptoms, "
+"which add abnormal experiences or behaviors, negative symptoms take away "
+"normal capabilities and emotional responses."
+msgstr "Psikozun negatif semptomları, sağlıklı bireylerde genellikle bulunan normal davranış ve işlevlerin yokluğu veya azalması anlamına gelir. Bu semptomlar, yeteneklerin kaybını yansıtır ve bir kişinin günlük işleyişini ve yaşam kalitesini önemli ölçüde bozabilir. Anormal deneyimler veya davranışlar ekleyen pozitif semptomların aksine, negatif semptomlar normal yetenekleri ve duygusal tepkileri ortadan kaldırır."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person's face remains immobile, and they speak in a dull or monotonous voice."
 msgstr ""
-"Duyguların daha az ifade edilmesi: Düz duygulanım olarak da bilinen bu durum, kişinin yüzünün hareketsiz kaldığı ve donuk veya monoton bir sesle konuştuğu durumdur."
+"Duyguların daha az ifade edilmesi: Düz duygulanım olarak da bilinen bu "
+"durum, kişinin yüzünün hareketsiz kaldığı ve donuk veya monoton bir sesle "
+"konuştuğu durumdur."
 
 #: .\templates\schizophrenia-negative-symptoms.html:30
 msgid ""
@@ -854,10 +874,8 @@ msgstr ""
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
-"schizophrenia known as avolition?"
-msgstr ""
-"Soru: Aşağıdakilerden hangisi şizofreninin istemsizlik olarak bilinen "
-"negatif belirtisini en iyi şekilde tanımlar?"
+"psychosis known as avolition?"
+msgstr "Soru: Aşağıdakilerden hangisi psikozun olumsuz belirtisi olan avolisyonu en iyi şekilde tanımlar?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:43
 msgid ""
@@ -898,8 +916,8 @@ msgstr ""
 "yalnız kalmayı tercih eder."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
-msgid "Positive Symptoms of Schizophrenia"
-msgstr "Şizofreninin Olumlu Belirtileri"
+msgid "Positive Symptoms of Psychosis"
+msgstr "Psikozun Pozitif Belirtileri"
 
 #: .\templates\schizophrenia-positive-symptoms.html:25
 msgid ""
@@ -921,7 +939,9 @@ msgid ""
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren't actually present."
 msgstr ""
-"Halüsinasyonlar: Herhangi bir dış uyaran olmadan ortaya çıkan yanlış duyusal algılardır. Örneğin kişi gerçekte var olmayan sesler duyabilir ya da şeyler görebilir."
+"Halüsinasyonlar: Herhangi bir dış uyaran olmadan ortaya çıkan yanlış duyusal "
+"algılardır. Örneğin kişi gerçekte var olmayan sesler duyabilir ya da şeyler "
+"görebilir."
 
 #: .\templates\schizophrenia-positive-symptoms.html:30
 msgid ""
@@ -956,10 +976,8 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
-"symptoms of schizophrenia?"
-msgstr ""
-"Soru: Aşağıdaki ifadelerden hangisi şizofreninin pozitif belirtilerini doğru "
-"şekilde tanımlamaktadır?"
+"symptoms of psychosis?"
+msgstr "Soru: Aşağıdaki ifadelerden hangisi psikozun pozitif semptomlarını doğru bir şekilde açıklar?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:43
 msgid ""
@@ -994,16 +1012,14 @@ msgstr ""
 "fiziksel aktivite ile karakterize edilen katatoniyi içerir."
 
 #: .\templates\schizophrenia-symptoms.html:10
-msgid "Symptoms of Schizophrenia"
-msgstr "Şizofreni Belirtileri"
+msgid "Symptoms of Psychosis"
+msgstr "Psikozun Belirtileri"
 
 #: .\templates\schizophrenia-symptoms.html:25
 msgid ""
-"Symptoms of schizophrenia can be broadly categorized into three groups: "
-"positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
-"Şizofreni belirtileri genel olarak üç gruba ayrılabilir: pozitif belirtiler, "
-"negatif belirtiler ve bilişsel belirtiler."
+"Symptoms of psychosis can be broadly categorized into three groups: positive "
+"symptoms, negative symptoms, and cognitive symptoms."
+msgstr "Psikoz belirtileri genel olarak üç gruba ayrılabilir: Pozitif belirtiler, negatif belirtiler ve bilişsel belirtiler."
 
 #: .\templates\schizophrenia-symptoms.html:29
 msgid ""
@@ -1029,10 +1045,9 @@ msgstr ""
 
 #: .\templates\schizophrenia-symptoms.html:38
 msgid ""
-"Question: Which categorization distinguishes the symptoms of schizophrenia "
-"based on their characteristics?"
-msgstr ""
-"Soru: Şizofreni belirtilerini özelliklerine göre ayıran sınıflandırma hangisidir?"
+"Question: Which categorization distinguishes the symptoms of psychosis based "
+"on their characteristics?"
+msgstr "Soru: Psikoz belirtilerini özelliklerine göre ayıran kategori hangisidir?"
 
 #: .\templates\schizophrenia-symptoms.html:42
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
@@ -1052,27 +1067,23 @@ msgstr "D) Pozitif belirtiler, negatif belirtiler, bilişsel belirtiler."
 
 #: .\templates\schizophrenia.html:26
 msgid ""
-"Schizophrenia is a chronic and severe mental disorder that affects how a "
-"person thinks, feels, and behaves. When someone has schizophrenia it can "
-"seem like they have lost touch with reality, which can be distressing for "
-"them and for those around them."
-msgstr ""
-"Şizofreni, kişinin nasıl düşündüğünü, hissettiğini ve davrandığını etkileyen "
-"kronik ve ciddi bir zihinsel bozukluktur. Birisi şizofreni hastası olduğunda "
-"gerçeklikle bağını kaybetmiş gibi görünebilir ve bu hem kendisi hem de "
-"etrafındakiler için üzücü olabilir."
+"Psychosis is a severe mental disorder that affects how a person thinks, "
+"feels, and behaves. When someone has a psychosis it can seem like they have "
+"lost touch with reality, which can be distressing for them and for those "
+"around them."
+msgstr "sychosis, bir kişinin nasıl düşündüğünü, hissettiğini ve davrandığını etkileyen ciddi bir ruhsal bozukluktur. Birinin psikozu olduğunda gerçeklikle bağını kaybetmiş gibi görünebilir, bu da kendisi ve etrafındakiler için sıkıntı verici olabilir."
 
 #: .\templates\schizophrenia.html:32
-msgid "Question: Which of the following best characterizes schizophrenia?"
-msgstr "Soru: Aşağıdakilerden hangisi şizofreniyi en iyi karakterize eder?"
+msgid "Question: Which of the following best characterizes psychosis?"
+msgstr "Soru: Aşağıdakilerden hangisi psikozu en iyi şekilde tanımlar?"
 
 #: .\templates\schizophrenia.html:36
 msgid "A) A temporary mental disorder caused by stress"
 msgstr "A) Stresin neden olduğu geçici bir zihinsel bozukluk"
 
 #: .\templates\schizophrenia.html:42
-msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr "B) Düşünceyi, duyguyu ve davranışı etkileyen kronik bir durum"
+msgid "B) A condition affecting thinking, feeling, and behavior"
+msgstr "B) Düşünceyi, duyguyu ve davranışı etkileyen bir durum"
 
 #: .\templates\schizophrenia.html:50
 msgid "C) A physical illness with visible symptoms"
@@ -1093,6 +1104,9 @@ msgstr "<strong>Yanlış</strong><br>Yanlış bir seçenek seçtiniz."
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
 msgstr "<strong>Doğru</strong><br>Doğru bir seçeneği seçtiniz."
+
+#~ msgid "Schizophrenia"
+#~ msgstr "Şizofreni"
 
 #~ msgid ""
 #~ "We greatly appreciate your dedication in completing the course on "

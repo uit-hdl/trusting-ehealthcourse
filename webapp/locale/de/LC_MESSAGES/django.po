@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-04 16:22+0200\n"
+"POT-Creation-Date: 2024-10-10 15:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -173,12 +173,9 @@ msgstr "Dieser kurze Kurs hat drei Hauptziele:"
 
 #: .\templates\home.html:28
 msgid ""
-"Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
-"a naturally occurring illness and not the fault of the individual."
-msgstr ""
-"Stellen Sie die grundlegenden Konzepte der Schizophrenie vor und betonen "
-"Sie, dass es sich dabei um eine natürlich auftretende Krankheit handelt und "
-"nicht um die Schuld des Einzelnen."
+"Introduce the fundamental concepts of psychosis, emphasizing that it is a "
+"naturally occurring illness and not the fault of the individual."
+msgstr "Stellen Sie die grundlegenden Konzepte einer Psychose vor und betonen Sie, dass es sich dabei um eine natürlich auftretende Krankheit handelt und nicht um die Schuld des Einzelnen."
 
 #: .\templates\home.html:29
 msgid ""
@@ -191,11 +188,8 @@ msgstr ""
 #: .\templates\home.html:30
 msgid ""
 "Help participants understand that there can be false positives and errors in "
-"diagnosing schizophrenia and identifying relapses."
-msgstr ""
-"Machen Sie den Teilnehmern klar, dass es bei der Diagnose von Schizophrenie "
-"und der Erkennung von Rückfällen zu falsch positiven Ergebnissen und Fehlern "
-"kommen kann."
+"diagnosing psychosis and identifying relapses."
+msgstr "Machen Sie den Teilnehmern klar, dass es bei der Diagnose einer Psychose und der Erkennung von Rückfällen zu falschen Ergebnissen und Fehlern kommen kann."
 
 #: .\templates\home.html:34
 msgid ""
@@ -781,23 +775,17 @@ msgid "D) Regular physical exercise"
 msgstr "D) Regelmäßige körperliche Bewegung"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
-msgid "Cognitive Symptoms of Schizophrenia"
-msgstr "Kognitive Symptome der Schizophrenie"
+msgid "Cognitive Symptoms of Psychosis"
+msgstr "Kognitive Symptome einer Psychose"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:25
 msgid ""
-"Cognitive symptoms of schizophrenia refer to problems with the mental "
-"processes involved in gaining knowledge and comprehension. These symptoms "
-"affect a person's ability to think clearly, remember, and organize their "
-"thoughts. Cognitive symptoms can be subtle or severe and often significantly "
-"impact the daily functioning of individuals with schizophrenia."
-msgstr ""
-"Kognitive Symptome der Schizophrenie beziehen sich auf Probleme mit den "
-"mentalen Prozessen, die mit dem Wissenserwerb und dem Verständnis verbunden "
-"sind. Diese Symptome beeinträchtigen die Fähigkeit einer Person, klar zu "
-"denken, sich zu erinnern und ihre Gedanken zu ordnen. Kognitive Symptome "
-"können subtil oder schwerwiegend sein und beeinträchtigen oft erheblich das "
-"tägliche Funktionieren von Personen mit Schizophrenie."
+"Cognitive symptoms of psychosis refer to problems with the mental processes "
+"involved in gaining knowledge and comprehension. These symptoms affect a "
+"person's ability to think clearly, remember, and organize their thoughts. "
+"Cognitive symptoms can be subtle or severe and often significantly impact "
+"the daily functioning of individuals with psychosis."
+msgstr "Kognitive Symptome einer Psychose beziehen sich auf Probleme mit den mentalen Prozessen, die mit dem Wissenserwerb und dem Verständnis verbunden sind. Diese Symptome beeinträchtigen die Fähigkeit einer Person, klar zu denken, sich zu erinnern und ihre Gedanken zu ordnen. Kognitive Symptome können subtil oder schwerwiegend sein und beeinträchtigen oft erheblich das tägliche Funktionieren von Personen mit Psychose."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:29
 msgid ""
@@ -830,10 +818,8 @@ msgstr ""
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
-"associated with schizophrenia?"
-msgstr ""
-"Frage: Welches der folgenden kognitiven Symptome wird NICHT häufig mit "
-"Schizophrenie in Verbindung gebracht?"
+"associated with psychosis?"
+msgstr "Frage: Welches der folgenden kognitiven Symptome wird NICHT häufig mit einer Psychose in Verbindung gebracht?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:42
 msgid "A) Impaired attention"
@@ -852,29 +838,22 @@ msgid "D) Difficulty with working memory"
 msgstr "D) Schwierigkeiten mit dem Arbeitsgedächtnis"
 
 #: .\templates\schizophrenia-end.html:10 .\templates\schizophrenia.html:10
-msgid "Schizophrenia"
-msgstr ""
+msgid "Psychosis"
+msgstr "Psychose"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
-msgid "Negative Symptoms of Schizophrenia"
-msgstr "Schizophrenie"
+msgid "Negative Symptoms of Psychosis"
+msgstr "Negative Symptome einer Psychose"
 
 #: .\templates\schizophrenia-negative-symptoms.html:25
 msgid ""
-"Negative symptoms of schizophrenia refer to the absence or reduction of "
-"normal behaviors and functions that are usually present in healthy "
-"individuals. These symptoms reflect a loss of abilities and can "
-"significantly impair a person's daily functioning and quality of life. "
-"Unlike positive symptoms, which add abnormal experiences or behaviors, "
-"negative symptoms take away normal capabilities and emotional responses."
-msgstr ""
-"Negative Symptome der Schizophrenie beziehen sich auf das Fehlen oder die "
-"Verringerung normaler Verhaltensweisen und Funktionen, die bei gesunden "
-"Personen normalerweise vorhanden sind. Diese Symptome spiegeln einen Verlust "
-"von Fähigkeiten wider und können die Alltagsfunktionen und Lebensqualität "
-"einer Person erheblich beeinträchtigen. Im Gegensatz zu positiven Symptomen, "
-"die abnormale Erfahrungen oder Verhaltensweisen hinzufügen, nehmen negative "
-"Symptome normale Fähigkeiten und emotionale Reaktionen weg."
+"Negative symptoms of psychosis refer to the absence or reduction of normal "
+"behaviors and functions that are usually present in healthy individuals. "
+"These symptoms reflect a loss of abilities and can significantly impair a "
+"person's daily functioning and quality of life. Unlike positive symptoms, "
+"which add abnormal experiences or behaviors, negative symptoms take away "
+"normal capabilities and emotional responses."
+msgstr "Negative Symptome einer Psychose beziehen sich auf das Fehlen oder die Verringerung normaler Verhaltensweisen und Funktionen, die bei gesunden Personen normalerweise vorhanden sind. Diese Symptome spiegeln einen Verlust von Fähigkeiten wider und können das tägliche Funktionieren und die Lebensqualität einer Person erheblich beeinträchtigen. Im Gegensatz zu positiven Symptomen, die abnormale Erfahrungen oder Verhaltensweisen hinzufügen, nehmen negative Symptome normale Fähigkeiten und emotionale Reaktionen weg."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
@@ -919,10 +898,8 @@ msgstr ""
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
-"schizophrenia known as avolition?"
-msgstr ""
-"Frage: Welche der folgenden Beschreibungen trifft am besten auf das als "
-"Avolition bekannte Negativsymptom der Schizophrenie zu?"
+"psychosis known as avolition?"
+msgstr "Frage: Welche der folgenden Beschreibungen trifft am besten auf das als Avolition bekannte Negativsymptom einer Psychose zu?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:43
 msgid ""
@@ -966,8 +943,8 @@ msgstr ""
 "allein zu sein und soziale Situationen zu meiden."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
-msgid "Positive Symptoms of Schizophrenia"
-msgstr "Positive Symptome der Schizophrenie"
+msgid "Positive Symptoms of Psychosis"
+msgstr "Positive Symptome einer Psychose"
 
 #: .\templates\schizophrenia-positive-symptoms.html:25
 msgid ""
@@ -1030,10 +1007,8 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
-"symptoms of schizophrenia?"
-msgstr ""
-"Frage: Welche der folgenden Aussagen beschreibt die positiven Symptome der "
-"Schizophrenie richtig?"
+"symptoms of psychosis?"
+msgstr "Frage: Welche der folgenden Aussagen beschreibt die positiven Symptome einer Psychose richtig?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:43
 msgid ""
@@ -1071,16 +1046,14 @@ msgstr ""
 "ist."
 
 #: .\templates\schizophrenia-symptoms.html:10
-msgid "Symptoms of Schizophrenia"
-msgstr "Symptome der Schizophrenie"
+msgid "Symptoms of Psychosis"
+msgstr "Symptome einer Psychose"
 
 #: .\templates\schizophrenia-symptoms.html:25
 msgid ""
-"Symptoms of schizophrenia can be broadly categorized into three groups: "
-"positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
-"Die Symptome der Schizophrenie können grob in drei Gruppen eingeteilt "
-"werden: positive Symptome, negative Symptome und kognitive Symptome."
+"Symptoms of psychosis can be broadly categorized into three groups: positive "
+"symptoms, negative symptoms, and cognitive symptoms."
+msgstr "Die Symptome einer Psychose können grob in drei Gruppen eingeteilt werden: positive Symptome, negative Symptome und kognitive Symptome."
 
 #: .\templates\schizophrenia-symptoms.html:29
 msgid ""
@@ -1107,9 +1080,9 @@ msgstr ""
 
 #: .\templates\schizophrenia-symptoms.html:38
 msgid ""
-"Question: Which categorization distinguishes the symptoms of schizophrenia "
-"based on their characteristics?"
-msgstr "Frage: Welche Kategorisierung unterscheidet die Symptome der Schizophrenie aufgrund ihrer Ausprägung?"
+"Question: Which categorization distinguishes the symptoms of psychosis based "
+"on their characteristics?"
+msgstr "Frage: Welche Kategorisierung unterscheidet die Symptome einer Psychose aufgrund ihrer Ausprägung?"
 
 #: .\templates\schizophrenia-symptoms.html:42
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
@@ -1129,29 +1102,23 @@ msgstr "D) Positive Symptome, negative Symptome, kognitive Symptome."
 
 #: .\templates\schizophrenia.html:26
 msgid ""
-"Schizophrenia is a chronic and severe mental disorder that affects how a "
-"person thinks, feels, and behaves. When someone has schizophrenia it can "
-"seem like they have lost touch with reality, which can be distressing for "
-"them and for those around them."
-msgstr ""
-"Schizophrenie ist eine chronische und schwere psychische Störung, die das "
-"Denken, Fühlen und Verhalten einer Person beeinflusst. Bei einer Person mit "
-"Schizophrenie kann es so aussehen, als hätte sie den Bezug zur Realität "
-"verloren, was für sie und ihre Mitmenschen sehr belastend sein kann."
+"Psychosis is a severe mental disorder that affects how a person thinks, "
+"feels, and behaves. When someone has a psychosis it can seem like they have "
+"lost touch with reality, which can be distressing for them and for those "
+"around them."
+msgstr "Eine Psychose ist eine schwere psychische Störung, die das Denken, Fühlen und Verhalten einer Person beeinflusst. Bei einer Psychose kann es so aussehen, als hätte man den Bezug zur Realität verloren, was für die Betroffenen und ihre Mitmenschen sehr belastend sein kann."
 
 #: .\templates\schizophrenia.html:32
-msgid "Question: Which of the following best characterizes schizophrenia?"
-msgstr "Frage: Welche der folgenden Eigenschaften beschreibt Schizophrenie am besten?"
+msgid "Question: Which of the following best characterizes psychosis?"
+msgstr "Frage: Welche der folgenden Beschreibungen beschreibt eine Psychose am besten?"
 
 #: .\templates\schizophrenia.html:36
 msgid "A) A temporary mental disorder caused by stress"
 msgstr "A) Eine vorübergehende psychische Störung durch Stress"
 
 #: .\templates\schizophrenia.html:42
-msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr ""
-"B) Eine chronische Erkrankung, die Denken, Fühlen und Verhalten "
-"beeinträchtigt"
+msgid "B) A condition affecting thinking, feeling, and behavior"
+msgstr "B) Ein Zustand, der Denken, Fühlen und Verhalten beeinflusst"
 
 #: .\templates\schizophrenia.html:50
 msgid "C) A physical illness with visible symptoms"

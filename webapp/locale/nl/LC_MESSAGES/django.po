@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-04 16:42+0200\n"
+"POT-Creation-Date: 2024-10-10 15:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -38,7 +38,14 @@ msgid ""
 "recognized the nuances of errors, whether they stem from false positives or "
 "false negatives. Our aim is that the information provided will empower you "
 "to navigate your daily activities with greater understanding and efficacy."
-msgstr "Wij stellen uw inzet bij het voltooien van de cursus over schizofrenie en terugval zeer op prijs. Wij vertrouwen erop dat u dankzij uw inzet essentiële inzichten in deze onderwerpen heeft verworven. Bovendien zijn we ervan overtuigd dat u de nuances van fouten heeft onderkend, of deze nu voortkomen uit fout-positieve of fout-negatieven. Ons doel is dat de verstrekte informatie u in staat stelt om met meer begrip en doeltreffendheid door uw dagelijkse activiteiten te navigeren."
+msgstr ""
+"Wij stellen uw inzet bij het voltooien van de cursus over schizofrenie en "
+"terugval zeer op prijs. Wij vertrouwen erop dat u dankzij uw inzet "
+"essentiële inzichten in deze onderwerpen heeft verworven. Bovendien zijn we "
+"ervan overtuigd dat u de nuances van fouten heeft onderkend, of deze nu "
+"voortkomen uit fout-positieve of fout-negatieven. Ons doel is dat de "
+"verstrekte informatie u in staat stelt om met meer begrip en "
+"doeltreffendheid door uw dagelijkse activiteiten te navigeren."
 
 #: .\templates\errors.html:10
 msgid "Types of Errors"
@@ -163,11 +170,9 @@ msgstr "Deze korte cursus heeft drie hoofddoelen:"
 
 #: .\templates\home.html:28
 msgid ""
-"Introduce the fundamental concepts of schizophrenia, emphasizing that it is "
-"a naturally occurring illness and not the fault of the individual."
-msgstr ""
-"Introduceer de fundamentele concepten van schizofrenie en benadruk dat het "
-"een natuurlijk voorkomende ziekte is en niet de schuld van het individu."
+"Introduce the fundamental concepts of psychosis, emphasizing that it is a "
+"naturally occurring illness and not the fault of the individual."
+msgstr "Leg de basisconcepten van psychose uit en benadruk dat het een natuurlijk voorkomende ziekte is en niet de schuld van het individu."
 
 #: .\templates\home.html:29
 msgid ""
@@ -180,11 +185,8 @@ msgstr ""
 #: .\templates\home.html:30
 msgid ""
 "Help participants understand that there can be false positives and errors in "
-"diagnosing schizophrenia and identifying relapses."
-msgstr ""
-"Help de deelnemers begrijpen dat er valse positieven en fouten kunnen "
-"optreden bij het diagnosticeren van schizofrenie en het identificeren van "
-"terugval."
+"diagnosing psychosis and identifying relapses."
+msgstr "Help deelnemers begrijpen dat er sprake kan zijn van foutpositieve resultaten en fouten bij het diagnosticeren van psychoses en het identificeren van terugvallen."
 
 #: .\templates\home.html:34
 msgid ""
@@ -226,7 +228,12 @@ msgid ""
 "associated with the person's mental health condition. For example, in "
 "depression, it might mean feeling sad or hopeless again; in anxiety, it "
 "could mean experiencing heightened levels of worry or panic attacks."
-msgstr "Opnieuw verschijnen van symptomen: Dit betekent de terugkeer van de specifieke symptomen die verband houden met de geestelijke gezondheidstoestand van de persoon. Bij een depressie kan het bijvoorbeeld betekenen dat je je weer verdrietig of hopeloos voelt; bij angst kan dit betekenen dat je een verhoogd niveau van zorgen of paniekaanvallen ervaart."
+msgstr ""
+"Opnieuw verschijnen van symptomen: Dit betekent de terugkeer van de "
+"specifieke symptomen die verband houden met de geestelijke "
+"gezondheidstoestand van de persoon. Bij een depressie kan het bijvoorbeeld "
+"betekenen dat je je weer verdrietig of hopeloos voelt; bij angst kan dit "
+"betekenen dat je een verhoogd niveau van zorgen of paniekaanvallen ervaart."
 
 #: .\templates\relapse-char.html:29
 msgid ""
@@ -255,7 +262,11 @@ msgid ""
 "Behavioral Changes: These are observable changes in a person's behavior, "
 "such as withdrawing from social activities, neglecting responsibilities, or "
 "changes in daily routines."
-msgstr "Gedragsveranderingen: Dit zijn waarneembare veranderingen in het gedrag van een persoon, zoals het zich terugtrekken uit sociale activiteiten, het verwaarlozen van verantwoordelijkheden of veranderingen in de dagelijkse routines."
+msgstr ""
+"Gedragsveranderingen: Dit zijn waarneembare veranderingen in het gedrag van "
+"een persoon, zoals het zich terugtrekken uit sociale activiteiten, het "
+"verwaarlozen van verantwoordelijkheden of veranderingen in de dagelijkse "
+"routines."
 
 #: .\templates\relapse-char.html:32
 msgid ""
@@ -349,7 +360,10 @@ msgid ""
 "You've reached an important milestone, and your dedication is truly paying "
 "off. Each step you take is bringing you closer to mastering the subject. "
 "Keep up the fantastic effort."
-msgstr "Je hebt een belangrijke mijlpaal bereikt en je toewijding werpt echt vruchten af. Elke stap die u zet, brengt u dichter bij het beheersen van het onderwerp. Ga zo door met deze fantastische inspanning."
+msgstr ""
+"Je hebt een belangrijke mijlpaal bereikt en je toewijding werpt echt "
+"vruchten af. Elke stap die u zet, brengt u dichter bij het beheersen van het "
+"onderwerp. Ga zo door met deze fantastische inspanning."
 
 #: .\templates\relapse-end.html:30 .\templates\schizophrenia-end.html:30
 msgid "Keep going strong!"
@@ -369,7 +383,15 @@ msgid ""
 "necessary. The goal is to maintain stability, reduce the severity of "
 "symptoms, and enhance the individual's overall well-being."
 msgstr ""
-"Terugvalmanagement in de context van de geestelijke gezondheidszorg verwijst naar een reeks strategieën en interventies die zijn ontworpen om de herhaling van symptomen die verband houden met psychische aandoeningen te voorkomen of te beheersen. Het gaat om het herkennen van vroege waarschuwingssignalen van een mogelijke terugval, het implementeren van coping-strategieën om deze signalen aan te pakken en het zoeken naar passende professionele hulp indien nodig. Het doel is om de stabiliteit te behouden, de ernst van de symptomen te verminderen en het algehele welzijn van het individu te verbeteren."
+"Terugvalmanagement in de context van de geestelijke gezondheidszorg verwijst "
+"naar een reeks strategieën en interventies die zijn ontworpen om de "
+"herhaling van symptomen die verband houden met psychische aandoeningen te "
+"voorkomen of te beheersen. Het gaat om het herkennen van vroege "
+"waarschuwingssignalen van een mogelijke terugval, het implementeren van "
+"coping-strategieën om deze signalen aan te pakken en het zoeken naar "
+"passende professionele hulp indien nodig. Het doel is om de stabiliteit te "
+"behouden, de ernst van de symptomen te verminderen en het algehele welzijn "
+"van het individu te verbeteren."
 
 #: .\templates\relapse-management.html:26
 msgid "Key components of relapse management include:"
@@ -542,14 +564,16 @@ msgid ""
 "Social Pressure: Influence from friends or family members who engage in "
 "problematic behavior or don't support the recovery."
 msgstr ""
-"Sociale druk: Invloed van vrienden of familieleden die problematisch gedrag vertonen of het herstel niet ondersteunen."
+"Sociale druk: Invloed van vrienden of familieleden die problematisch gedrag "
+"vertonen of het herstel niet ondersteunen."
 
 #: .\templates\relapse-triggers.html:34
 msgid ""
 "Positive Emotions: Celebratory moments or a sense of overconfidence in one's "
 "recovery can also be triggering."
 msgstr ""
-"Positieve emoties: Feestelijke momenten of een gevoel van overmoed in iemands herstel kunnen ook een trigger zijn."
+"Positieve emoties: Feestelijke momenten of een gevoel van overmoed in "
+"iemands herstel kunnen ook een trigger zijn."
 
 #: .\templates\relapse-triggers.html:35
 msgid ""
@@ -740,18 +764,17 @@ msgid "D) Regular physical exercise"
 msgstr "D) Regelmatige lichaamsbeweging"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:10
-msgid "Cognitive Symptoms of Schizophrenia"
-msgstr "Cognitieve symptomen van schizofrenie"
+msgid "Cognitive Symptoms of Psychosis"
+msgstr "Cognitieve symptomen van psychose"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:25
 msgid ""
-"Cognitive symptoms of schizophrenia refer to problems with the mental "
-"processes involved in gaining knowledge and comprehension. These symptoms "
-"affect a person's ability to think clearly, remember, and organize their "
-"thoughts. Cognitive symptoms can be subtle or severe and often significantly "
-"impact the daily functioning of individuals with schizophrenia."
-msgstr ""
-"Cognitieve symptomen van schizofrenie verwijzen naar problemen met de mentale processen die betrokken zijn bij het verkrijgen van kennis en begrip. Deze symptomen beïnvloeden het vermogen van een persoon om helder te denken, te onthouden en zijn gedachten te ordenen. Cognitieve symptomen kunnen subtiel of ernstig zijn en hebben vaak een aanzienlijke invloed op het dagelijks functioneren van personen met schizofrenie."
+"Cognitive symptoms of psychosis refer to problems with the mental processes "
+"involved in gaining knowledge and comprehension. These symptoms affect a "
+"person's ability to think clearly, remember, and organize their thoughts. "
+"Cognitive symptoms can be subtle or severe and often significantly impact "
+"the daily functioning of individuals with psychosis."
+msgstr "Cognitieve symptomen van psychose verwijzen naar problemen met de mentale processen die betrokken zijn bij het verkrijgen van kennis en begrip. Deze symptomen beïnvloeden het vermogen van een persoon om helder te denken, te onthouden en zijn gedachten te ordenen. Cognitieve symptomen kunnen subtiel of ernstig zijn en hebben vaak een aanzienlijke impact op het dagelijks functioneren van personen met psychose."
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:29
 msgid ""
@@ -784,10 +807,8 @@ msgstr ""
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
 "Qeustion: Which of the following cognitive symptoms is NOT commonly "
-"associated with schizophrenia?"
-msgstr ""
-"Vraag: Welke van de volgende cognitieve symptomen wordt NIET vaak "
-"geassocieerd met schizofrenie?"
+"associated with psychosis?"
+msgstr "Vraag: Welk van de volgende cognitieve symptomen wordt NIET vaak geassocieerd met psychose?"
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:42
 msgid "A) Impaired attention"
@@ -806,30 +827,31 @@ msgid "D) Difficulty with working memory"
 msgstr "D) Moeilijkheden met werkgeheugen"
 
 #: .\templates\schizophrenia-end.html:10 .\templates\schizophrenia.html:10
-msgid "Schizophrenia"
-msgstr "Schizofrenie"
+msgid "Psychosis"
+msgstr "Psychose"
 
 #: .\templates\schizophrenia-negative-symptoms.html:10
-msgid "Negative Symptoms of Schizophrenia"
-msgstr "Negatieve symptomen van schizofrenie"
+msgid "Negative Symptoms of Psychosis"
+msgstr "Negatieve symptomen van psychose"
 
 #: .\templates\schizophrenia-negative-symptoms.html:25
 msgid ""
-"Negative symptoms of schizophrenia refer to the absence or reduction of "
-"normal behaviors and functions that are usually present in healthy "
-"individuals. These symptoms reflect a loss of abilities and can "
-"significantly impair a person's daily functioning and quality of life. "
-"Unlike positive symptoms, which add abnormal experiences or behaviors, "
-"negative symptoms take away normal capabilities and emotional responses."
-msgstr ""
-"Negatieve symptomen van schizofrenie verwijzen naar de afwezigheid of vermindering van normaal gedrag en normale functies die gewoonlijk aanwezig zijn bij gezonde individuen. Deze symptomen weerspiegelen een verlies van vermogens en kunnen het dagelijks functioneren en de kwaliteit van leven van een persoon aanzienlijk aantasten. In tegenstelling tot positieve symptomen, die abnormale ervaringen of gedrag toevoegen, nemen negatieve symptomen normale vermogens en emotionele reacties weg."
+"Negative symptoms of psychosis refer to the absence or reduction of normal "
+"behaviors and functions that are usually present in healthy individuals. "
+"These symptoms reflect a loss of abilities and can significantly impair a "
+"person's daily functioning and quality of life. Unlike positive symptoms, "
+"which add abnormal experiences or behaviors, negative symptoms take away "
+"normal capabilities and emotional responses."
+msgstr "Negatieve symptomen van psychose verwijzen naar de afwezigheid of vermindering van normale gedragingen en functies die gewoonlijk aanwezig zijn bij gezonde individuen. Deze symptomen weerspiegelen een verlies van vaardigheden en kunnen het dagelijks functioneren en de kwaliteit van leven van een persoon aanzienlijk aantasten. In tegenstelling tot positieve symptomen, die abnormale ervaringen of gedragingen toevoegen, nemen negatieve symptomen normale vaardigheden en emotionele reacties weg."
 
 #: .\templates\schizophrenia-negative-symptoms.html:29
 msgid ""
 "Reduced expression of emotions: Also known as flat affect, this is where a "
 "person's face remains immobile, and they speak in a dull or monotonous voice."
 msgstr ""
-"Verminderde expressie van emoties: Dit is ook wel bekend als vlak affect, waarbij het gezicht van een persoon onbeweeglijk blijft en hij of zij met een doffe of monotone stem spreekt."
+"Verminderde expressie van emoties: Dit is ook wel bekend als vlak affect, "
+"waarbij het gezicht van een persoon onbeweeglijk blijft en hij of zij met "
+"een doffe of monotone stem spreekt."
 
 #: .\templates\schizophrenia-negative-symptoms.html:30
 msgid ""
@@ -864,10 +886,8 @@ msgstr ""
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following best describes the negative symptom of "
-"schizophrenia known as avolition?"
-msgstr ""
-"Vraag: Welke van de volgende omschrijvingen beschrijft het beste het "
-"negatieve symptoom van schizofrenie, bekend als avolitie?"
+"psychosis known as avolition?"
+msgstr "Vraag: Welke van de volgende omschrijvingen beschrijft het negatieve symptoom van psychose dat bekendstaat als avolitie het beste?"
 
 #: .\templates\schizophrenia-negative-symptoms.html:43
 msgid ""
@@ -882,7 +902,9 @@ msgstr ""
 msgid ""
 "B) A person's face does not move, and they speak in a dull or monotonous "
 "voice."
-msgstr "B) Het gezicht van een persoon beweegt niet en hij spreekt met een doffe of monotone stem."
+msgstr ""
+"B) Het gezicht van een persoon beweegt niet en hij spreekt met een doffe of "
+"monotone stem."
 
 #: .\templates\schizophrenia-negative-symptoms.html:56
 msgid ""
@@ -909,8 +931,8 @@ msgstr ""
 "alleen, waarbij hij sociale situaties vermijdt."
 
 #: .\templates\schizophrenia-positive-symptoms.html:10
-msgid "Positive Symptoms of Schizophrenia"
-msgstr "Positieve symptomen van schizofrenie"
+msgid "Positive Symptoms of Psychosis"
+msgstr "Positieve symptomen van psychose"
 
 #: .\templates\schizophrenia-positive-symptoms.html:25
 msgid ""
@@ -932,7 +954,9 @@ msgid ""
 "external stimuli. For example it might be that the individual hears voices "
 "or sees things that aren't actually present."
 msgstr ""
-"Hallucinaties: dit zijn valse zintuiglijke waarnemingen die plaatsvinden zonder externe stimuli. Het kan bijvoorbeeld zijn dat het individu stemmen hoort of dingen ziet die in werkelijkheid niet aanwezig zijn."
+"Hallucinaties: dit zijn valse zintuiglijke waarnemingen die plaatsvinden "
+"zonder externe stimuli. Het kan bijvoorbeeld zijn dat het individu stemmen "
+"hoort of dingen ziet die in werkelijkheid niet aanwezig zijn."
 
 #: .\templates\schizophrenia-positive-symptoms.html:30
 msgid ""
@@ -969,10 +993,8 @@ msgstr ""
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
 "Qeustion: Which of the following statements correctly describes the positive "
-"symptoms of schizophrenia?"
-msgstr ""
-"Vraag: Welke van de volgende beweringen beschrijft correct de positieve "
-"symptomen van schizofrenie?"
+"symptoms of psychosis?"
+msgstr "Vraag: Welke van de volgende uitspraken beschrijft de positieve symptomen van psychose correct?"
 
 #: .\templates\schizophrenia-positive-symptoms.html:43
 msgid ""
@@ -1009,17 +1031,14 @@ msgstr ""
 "als catatonie, die wordt gekenmerkt door overmatige fysieke activiteit."
 
 #: .\templates\schizophrenia-symptoms.html:10
-msgid "Symptoms of Schizophrenia"
-msgstr "Symptomen van schizofrenie"
+msgid "Symptoms of Psychosis"
+msgstr "Symptomen van psychose"
 
 #: .\templates\schizophrenia-symptoms.html:25
 msgid ""
-"Symptoms of schizophrenia can be broadly categorized into three groups: "
-"positive symptoms, negative symptoms, and cognitive symptoms."
-msgstr ""
-"Symptomen van schizofrenie kunnen grofweg in drie groepen worden "
-"onderverdeeld: positieve symptomen, negatieve symptomen en cognitieve "
-"symptomen."
+"Symptoms of psychosis can be broadly categorized into three groups: positive "
+"symptoms, negative symptoms, and cognitive symptoms."
+msgstr "Symptomen van psychose kunnen grofweg worden onderverdeeld in drie groepen: positieve symptomen, negatieve symptomen en cognitieve symptomen."
 
 #: .\templates\schizophrenia-symptoms.html:29
 msgid ""
@@ -1046,10 +1065,9 @@ msgstr ""
 
 #: .\templates\schizophrenia-symptoms.html:38
 msgid ""
-"Question: Which categorization distinguishes the symptoms of schizophrenia "
-"based on their characteristics?"
-msgstr ""
-"Vraag: Welke categorisering onderscheidt de symptomen van schizofrenie op basis van hun kenmerken?"
+"Question: Which categorization distinguishes the symptoms of psychosis based "
+"on their characteristics?"
+msgstr "Vraag: Welke categorisering onderscheidt de symptomen van psychose op basis van hun kenmerken?"
 
 #: .\templates\schizophrenia-symptoms.html:42
 msgid "A) Primary symptoms, secondary symptoms, tertiary symptoms."
@@ -1069,29 +1087,23 @@ msgstr "D) Positieve symptomen, negatieve symptomen, cognitieve symptomen."
 
 #: .\templates\schizophrenia.html:26
 msgid ""
-"Schizophrenia is a chronic and severe mental disorder that affects how a "
-"person thinks, feels, and behaves. When someone has schizophrenia it can "
-"seem like they have lost touch with reality, which can be distressing for "
-"them and for those around them."
-msgstr ""
-"Schizofrenie is een chronische en ernstige psychische stoornis die invloed "
-"heeft op hoe iemand denkt, voelt en zich gedraagt. Wanneer iemand "
-"schizofrenie heeft, kan het lijken alsof hij of zij het contact met de "
-"werkelijkheid is kwijtgeraakt, wat verontrustend kan zijn voor hemzelf en "
-"voor de mensen om hem heen."
+"Psychosis is a severe mental disorder that affects how a person thinks, "
+"feels, and behaves. When someone has a psychosis it can seem like they have "
+"lost touch with reality, which can be distressing for them and for those "
+"around them."
+msgstr "Psychose is een ernstige psychische stoornis die van invloed is op hoe iemand denkt, voelt en zich gedraagt. Wanneer iemand een psychose heeft, kan het lijken alsof hij of zij het contact met de realiteit is verloren, wat stressvol kan zijn voor hem of haar en voor de mensen om hem of haar heen."
 
 #: .\templates\schizophrenia.html:32
-msgid "Question: Which of the following best characterizes schizophrenia?"
-msgstr "Vraag: Welke van de volgende karakteriseert schizofrenie het beste?"
+msgid "Question: Which of the following best characterizes psychosis?"
+msgstr "Vraag: Welke van de volgende verschijnselen typeert psychose het beste?"
 
 #: .\templates\schizophrenia.html:36
 msgid "A) A temporary mental disorder caused by stress"
 msgstr "A) Een tijdelijke psychische stoornis veroorzaakt door stress"
 
 #: .\templates\schizophrenia.html:42
-msgid "B) A chronic condition affecting thinking, feeling, and behavior"
-msgstr ""
-"B) Een chronische aandoening die het denken, voelen en gedrag beïnvloedt"
+msgid "B) A condition affecting thinking, feeling, and behavior"
+msgstr "B) Een aandoening die het denken, voelen en gedrag beïnvloedt"
 
 #: .\templates\schizophrenia.html:50
 msgid "C) A physical illness with visible symptoms"
@@ -1114,6 +1126,9 @@ msgstr "<strong>Onjuist</strong><br>U heeft een onjuiste optie geselecteerd."
 #: .\views.py:84 .\views.py:91
 msgid "<strong>Correct</strong><br>You have selected a correct option."
 msgstr "<strong>Juist</strong><br>U heeft de juiste optie geselecteerd."
+
+#~ msgid "Schizophrenia"
+#~ msgstr "Schizofrenie"
 
 #~ msgid ""
 #~ "We greatly appreciate your dedication in completing the course on "
