@@ -817,7 +817,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
-"Qeustion: Which of the following cognitive symptoms is NOT commonly "
+"Question: Which of the following cognitive symptoms is NOT commonly "
 "associated with psychosis?"
 msgstr "Frage: Welches der folgenden kognitiven Symptome wird NICHT häufig mit einer Psychose in Verbindung gebracht?"
 
@@ -897,7 +897,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
-"Qeustion: Which of the following best describes the negative symptom of "
+"Question: Which of the following best describes the negative symptom of "
 "psychosis known as avolition?"
 msgstr "Frage: Welche der folgenden Beschreibungen trifft am besten auf das als Avolition bekannte Negativsymptom einer Psychose zu?"
 
@@ -1006,7 +1006,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
-"Qeustion: Which of the following statements correctly describes the positive "
+"Question: Which of the following statements correctly describes the positive "
 "symptoms of psychosis?"
 msgstr "Frage: Welche der folgenden Aussagen beschreibt die positiven Symptome einer Psychose richtig?"
 

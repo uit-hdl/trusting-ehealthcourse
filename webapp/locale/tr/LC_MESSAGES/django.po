@@ -795,7 +795,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-cognitive-symptoms.html:38
 msgid ""
-"Qeustion: Which of the following cognitive symptoms is NOT commonly "
+"Question: Which of the following cognitive symptoms is NOT commonly "
 "associated with psychosis?"
 msgstr "Soru: Aşağıdaki bilişsel belirtilerden hangisi psikozla yaygın olarak ilişkilendirilmez?"
 
@@ -873,7 +873,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-negative-symptoms.html:39
 msgid ""
-"Qeustion: Which of the following best describes the negative symptom of "
+"Question: Which of the following best describes the negative symptom of "
 "psychosis known as avolition?"
 msgstr "Soru: Aşağıdakilerden hangisi psikozun olumsuz belirtisi olan avolisyonu en iyi şekilde tanımlar?"
 
@@ -975,7 +975,7 @@ msgstr ""
 
 #: .\templates\schizophrenia-positive-symptoms.html:39
 msgid ""
-"Qeustion: Which of the following statements correctly describes the positive "
+"Question: Which of the following statements correctly describes the positive "
 "symptoms of psychosis?"
 msgstr "Soru: Aşağıdaki ifadelerden hangisi psikozun pozitif semptomlarını doğru bir şekilde açıklar?"
 
