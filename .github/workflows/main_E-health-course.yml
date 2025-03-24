@@ -23,14 +23,14 @@ jobs:
       uses: docker/login-action@v2
       with:
         registry: https://ehealthcourse.azurecr.io/
-        username: ${{ secrets.AzureAppService_ContainerUsername_735e44dcf61e4053a2606f2c48053315 }}
-        password: ${{ secrets.AzureAppService_ContainerPassword_05d20a2d97cd48acb53cf13a7dc10121 }}
+        username: ${{ secrets.AzureAppService_ContainerUsername_4d2a04f3cfb44a95be4b53157021f617 }}
+        password: ${{ secrets.AzureAppService_ContainerPassword_1eab2f8977214aab89c53ddf1b699aec }}
 
     - name: Build and push container image to registry
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: ehealthcourse.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_735e44dcf61e4053a2606f2c48053315 }}/ehealthcourse-image:${{ github.sha }}
+        tags: ehealthcourse.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_4d2a04f3cfb44a95be4b53157021f617 }}/mcr.microsoft.com/appsvc/staticsite:${{ github.sha }}
         file: ./Dockerfile
 
   deploy:
@@ -47,5 +47,5 @@ jobs:
       with:
         app-name: 'E-health-course'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1dc1a40a7ac48b2a38627323a0a8059 }}
-        images: 'ehealthcourse.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_735e44dcf61e4053a2606f2c48053315 }}/ehealthcourse-image:${{ github.sha }}'
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d703906b960745428bc1ab3271281c66 }}
+        images: 'ehealthcourse.azurecr.io/${{ secrets.AzureAppService_ContainerUsername_4d2a04f3cfb44a95be4b53157021f617 }}/mcr.microsoft.com/appsvc/staticsite:${{ github.sha }}'
